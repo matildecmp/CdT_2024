@@ -2,4 +2,4 @@
 Vol.1, fasc.18 | Vol.2, fasc.11 | Vol.2, fasc.16</br>
 Sviluppato da Matilde Campanardi e Alessandra Caridi</br>
 Anno accademico 2023/2024</br>
-CdL in Informatica Umanistica
+CdL Informatica Umanistica
