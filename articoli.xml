@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI xml:lang="it" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <respStmt>
+                    <resp></resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt></publicationStmt>
+            <seriesStmt></seriesStmt>
+            <sourceDesc></sourceDesc>
+            <encodingDesc></encodingDesc>
+        </fileDesc>
+    </teiHeader>
