@@ -1,18 +1,95 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type="text/xsl" href="?"?> 
+
 <!DOCTYPE TEI SYSTEM "tei_all.dtd">
 
 <TEI xml:lang="it" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
+        <!-- Descrizione bibliografica del testo codificato -->
         <fileDesc>
+            <!-- Titolo del testo codificato e informazioni sui responsabili del contenuto -->
             <titleStmt>
-                <title></title>
+                <title>
+                    La Rassegna Settimanale: articoli tratti da vol.2 fasc.11, vol.1 fasc.18, vol.1 fasc.16
+                </title>
                 <respStmt>
-                    <resp></resp>
+                    <resp>Conversione TEI P5 a cura di</resp>
+                    <name xml:id="mcamp">Matilde Campanardi</name>
+                    <name xml:id="acar">Alessandra Caridi</name>
                 </respStmt>
+                <sponsor>Università di Pisa</sponsor>
             </titleStmt>
-            <publicationStmt></publicationStmt>
-            <seriesStmt></seriesStmt>
-            <sourceDesc></sourceDesc>
-            <encodingDesc></encodingDesc>
+            <!-- Informazioni sulla pubblicazione del testo codificato -->
+            <publicationStmt>
+                <publisher>Università di Pisa</publisher>
+                <pubPlace>Pisa</pubPlace>
+                <date>2024</date>
+            </publicationStmt>
+            <!-- Informazioni sulla serie a cui appartiene il testo codificato -->
+            <seriesStmt>
+                <title>Edizione digitale della rivista "La Rassegna Settimanale di politica, scienze, lettere ed arti"</title>
+                <respStmt>
+                    <resp>coordinata da</resp>
+                    <name>Angelo Mario Del Grosso</name>
+                </respStmt>
+             </seriesStmt>
+            <!-- Informazioni sulla fonte primaria del testo codificato -->
+            <sourceDesc>
+                <biblStruct type="article">
+                    <analytic xml:id="art_1">
+                        <author>
+                            <name><abbr>H.</abbr></name>
+                        </author>
+                        <title level="a">Filologia, psicologia e fisiologia dell'amore</title>
+                        <date when="1878-09-15">15 settembre '78</date>
+                        <textLang mainLang="it" otherLangs="la en fr de">Prevalentemente italiano con espressioni latine, inglesi, francesi e tedesche</textLang>
+                    </analytic>
+                    <analytic xml:id="art_2">
+                        <author>
+                            <name>Cesare Paoli</name>
+                        </author>
+                        <title level="a">Le tavolette dipinte dei libri d'entrata e di uscita della Repubblica di Siena</title>
+                        <date when="1878-10-20">20 ottobre '78</date>
+                        <textLang mainLang="it" otherLangs="la">Prevalentemente italiano con espressioni latine</textLang>
+                    </analytic>
+                    <analytic xml:id="art_3">
+                        <title level="a">La Calabria descritta da un calabrese</title>
+                        <date when="1878-05-5">5 maggio '78</date>
+                        <textLang mainLang="it">Prevalentemente italiano con espressioni dialettali calabresi</textLang>
+                    </analytic>
+                    <analytic xml:id="bibl">
+                        <title level="a">Bibliografia (Letteratura e storia, Scienze filosofiche)</title>
+                        <textLang mainLang="it">Italiano</textLang>
+                        <!-- vol.2, fasc.16, pp.275-276 -->
+                    </analytic>
+                    <analytic xml:id="notizie">
+                        <title level="a">Notizie</title>
+                        <textLang mainLang="it">Italiano</textLang>
+                        <!-- vol.2, fasc.16, p.276 + vol.2, fasc.11, p.184 -->
+                    </analytic>
+                    <monogr>
+                        <title level="j">La Rassegna Settimanale di Politica, Scienze, Lettere ed Arti</title>
+                        <textLang mainLang="it">Italiano</textLang>
+                        <respStmt>
+                            <resp>Fondata da</resp>
+                            <name>Leopoldo Franchetti</name>
+                            <name>Sydney Sonnino</name>
+                        </respStmt>
+                        <imprint>
+                         <pubPlace>Firenze</pubPlace>
+                         <publisher>Casa editrice Barbera</publisher>
+                         <date when="1878-05-26">26 maggio 1878</date>
+                        </imprint>
+                        <biblScope unit="volume">2, 2, 1</biblScope>
+                        <biblScope unit="issue">11, 16, 18</biblScope>
+                        <biblScope unit="page">175-178, 270-272, 337-339</biblScope>
+                    </monogr>
+                </biblStruct>
+         </sourceDesc>         
+
         </fileDesc>
     </teiHeader>
+
+    <facsimile></facsimile>
+    <text></text>
+</TEI>
