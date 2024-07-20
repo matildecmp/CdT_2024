@@ -90,6 +90,25 @@
         </fileDesc>
     </teiHeader>
 
-    <facsimile></facsimile>
-    <text></text>
+    <facsimile>
+        <!-- Articolo 1 -->
+        <surface xml:id="p175" start="#pb175" n="1">
+            <graphic url='img/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_7.png' width='693.666666px' height='1023.666666px' />
+            <zone ulx="32" uly="54" lrx="342" lry="963" xml:id="p175_col1" corresp="#pag175_col1"/>
+            <zone ulx="341" uly="65" lrx="675" lry="968" xml:id="p175_col2" corresp="#pag175_col2"/>
+        </surface>
+        <surface xml:id="p176" start="#pb176" n="2">
+            <graphic url='img/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_8.png' width='720.666666px' height='1023.666666px' />
+            <zone ulx="45" uly="69" lrx="371" lry="985" xml:id="p176_col1" corresp="#pag176_col1"/>
+            <zone ulx="370" uly="71" lrx="690" lry="978" xml:id="p176_col2" corresp="#pag176_col2"/>
+        </surface>
+        <surface xml:id="p177" start="#pb177" n="3">
+            <graphic url='img/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_9.png' width='692.666666px' height='1023.666666px' />
+            <zone ulx="31" uly="58" lrx="357" lry="964" xml:id="p177_col1" corresp="#pag177_col1"/>
+            <zone ulx="356" uly="70" lrx="681" lry="960" xml:id="p177_col2" corresp="#pag177_col2"/>
+        </surface>
+        <surface xml:id="p178" start="#pb178" n="4">
+            <graphic url='img/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_10.png' width='718.666666px' height='1023.666666px' />
+            <zone ulx="51" uly="85" lrx="359" lry="579" xml:id="p178_col1" corresp="#pag178_col1"/>
+        </surface>
 </TEI>
