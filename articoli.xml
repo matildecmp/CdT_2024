@@ -151,20 +151,17 @@
             <zone ulx="363" uly="167" lrx="683" lry="981"  xml:id="p276_col2" corresp="#pag276_col2"/>
         </surface>
         <!-- Bibliografia -->
-     
         <surface xml:id="p274" start="#pb274" n="13">
-             <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_14.png' width='715.666666px' height='1023.666666px' />
-             <zone ulx="372" uly="269" lrx="689" lry="979" xml:id="p274_col2" corresp="#pag274_col2/>
-             <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='703.666666px' height='1023.666666px' />
-             <zone ulx="36" uly="79" lrx="353" lry="688" xml:id="p275_col1" corresp="#pag275_col1/>/>
+            <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_14.png' width='715.666666px' height='1023.666666px' />
+            <zone ulx="372" uly="269" lrx="689" lry="979" xml:id="p274_col2" corresp="#pag274_col2"/>
+            <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='703.666666px' height='1023.666666px' />
+            <zone ulx="36" uly="79" lrx="353" lry="688" xml:id="p275_col1" corresp="#pag275_col1"/>
         </surface>
-        <surface ml:id="p275" start="#pb275" n="14>
-             <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='703.666666px' height='1023.666666px' />
-             <zone ulx="37" uly="695" lrx="355" lry="967" xml:id="p275_col1" corresp="#pag275_col1/>/>
-             <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='703.666666px' height='1023.666666px' />
-             <zone ulx="357" uly="77" lrx="679" lry="974" " xml:id="p275_col2" corresp="#pag275_col2/>
+        <surface ml:id="p275" start="#pb275" n="14">
+            <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='703.666666px' height='1023.666666px' />
+            <zone ulx="37" uly="695" lrx="355" lry="967" xml:id="p275_col1" corresp="#pag275_col1"/>
+            <zone ulx="357" uly="77" lrx="679" lry="974" xml:id="p275_col2" corresp="#pag275_col2"/>
         </surface>
-
     </facsimile>
 
     <text>
