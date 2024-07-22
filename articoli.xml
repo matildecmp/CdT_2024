@@ -112,9 +112,9 @@
             <zone ulx="51" uly="85" lrx="359" lry="579" xml:id="p178_col1" corresp="#pag178_col1"/>
         </surface>
         <!-- Articolo 2 -->                                         
-        <surface  xml:id="p270" start="#pb270" n="5">
+        <surface xml:id="p270" start="#pb270" n="5">
             <graphic url='img1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_10.png' width='712.4px' height='1024.4px' />
-            <zone ulx="359" uly="866" lrx="677" lry="993"  xml:id="p270_col2" corresp="#pag270_col2"/>
+            <zone ulx="359" uly="866" lrx="677" lry="993" xml:id="p270_col2" corresp="#pag270_col2"/>
         </surface>
         <surface xml:id="p271" start="#pb271" n="6">
             <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_11.png' width='703.4px' height='1024.4px' />
@@ -122,48 +122,580 @@
             <zone ulx="363" uly="73" lrx="685" lry="971" xml:id="p271_col2" corresp="#pag271_col2"/>
         </surface>
         <surface xml:id="p272" start="#pb272" n="7">
-            <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_12.png' width='712.4px' height='1024.4px' />
+            <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_12.png' width='712.4px' height='1024.4px'/>
             <zone ulx="27" uly="68" lrx="353" lry="991" xml:id="p272_col1" corresp="#pag272_col1"/> 
             <zone ulx="354" uly="69" lrx="680" lry="528" xml:id="p272_col2" corresp="#pag272_col2"/> 
-        </surface>
-      <!-- Articolo 3 -->
+        </surface>
+        <!-- Articolo 3 -->
         <surface xml:id="p337" start="#pb337" n="8">
-            <graphic url='1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_13.png'   width='709.666666px' height='1023.666666px' />
-            <zone ulx="369" uly="400" lrx="679" lry="966" xml:id="p337_col2" corresp="#pag337_col2/>
+            <graphic url='1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_13.png' width='709.666666px' height='1023.666666px' />
+            <zone ulx="369" uly="400" lrx="679" lry="966" xml:id="p337_col2" corresp="#pag337_col2"/>
         </surface>
         <surface xml:id="p338" start="#pb338" n="9">
-            <graphic url='1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_14.png' width='713.666666px' height='1023.666666px' />
-            <zone ulx="42" uly="66" lrx="357" lry="958"  xml:id="p338_col1" corresp="#pag338_col1/>
-           <graphic url='1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_14.png'   width='713.666666px' height='1023.666666px' />
-           <zone ulx="363" uly="71" lrx="679" lry="962" xml:id="p338_col2" corresp="#pag338_col2 />
+            <graphic url='img/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_14.png' width='713.666666px' height='1023.666666px' />
+            <zone ulx="42" uly="66" lrx="357" lry="958"  xml:id="p338_col1" corresp="#pag338_col1"/>
+            <zone ulx="363" uly="71" lrx="679" lry="962" xml:id="p338_col2" corresp="#pag338_col2"/>
         </surface>
         <surface xml:id="p339" start="#pb339" n="10">
-           <graphic url='1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_15.png' width='714.666666px' height='1023.666666px' />
-           <zone ulx="41" uly="67" lrx="366" lry="960" xml:id="p339_col1" corresp="#pag339_col1 />
-           <graphic url='1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_15.png' width='714.666666px' height='1023.666666px' />
-           <zone ulx="364" uly="73" lrx="674" lry="203" xml:id="p339_col2" corresp="#pag339_col2/>
+           <graphic url='img/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_15.png' width='714.666666px' height='1023.666666px' />
+           <zone ulx="41" uly="67" lrx="366" lry="960" xml:id="p339_col1" corresp="#pag339_col1" />
+           <zone ulx="364" uly="73" lrx="674" lry="203" xml:id="p339_col2" corresp="#pag339_col2"/>
         </surface>
-     <!-- Notizie --> 
+        <!-- Notizie --> 
         <surface xml:id="p184" start="#pb184" n="11">
-            <graphic url='1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_16.png' width='717.666666px' height='1023.666666px' />
-            <zone ulx="365" uly="372" lrx="691" lry="982" xml:id="p184_col2" corresp="#pag184_col2/>
+            <graphic url='img/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_16.png' width='717.666666px' height='1023.666666px' />
+            <zone ulx="365" uly="372" lrx="691" lry="982" xml:id="p184_col2" corresp="#pag184_col2"/>
         </surface>
         <surface xml:id="p276" start="#pb276" n="12">
-            <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16.png' width='712.4px' height='1024.4px' />
-            <zone ulx="363" uly="167" lrx="683" lry="981"  xml:id="p276_col2" corresp="#pag276_col2/>
+            <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16.png' width='712.4px' height='1024.4px' />
+            <zone ulx="363" uly="167" lrx="683" lry="981"  xml:id="p276_col2" corresp="#pag276_col2"/>
         </surface>
-     <!-- Bibliografia -->
-         <surface ml:id="p275" start="#pb275" n="14>
-            <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='703.666666px' height='1023.666666px' />
-            <zone ulx="37" uly="695" lrx="355" lry="967" xml:id="p275_col1" corresp="#pag275_col1/>
+        <!-- Bibliografia -->
+        <surface xml:id="p275" start="#pb275" n="13">
+            <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='703.666666px' height='1023.666666px'/>
+            <zone ulx="37" uly="695" lrx="355" lry="967" xml:id="p275_col1" corresp="#pag275_col1"/>
+            <zone ulx="357" uly="77" lrx="679" lry="974" xml:id="p275_col2" corresp="#pag275_col2"/>
+        </surface>
+    </facsimile>
 
-            <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='703.666666px' height='1023.666666px' />
-            <zone ulx="357" uly="77" lrx="679" lry="974" " xml:id="p275_col2" corresp="#pag275_col2/>
-            </surface>
-
-
-
-
-
-
+    <text>
+        <body>
+            <div type="journal" org="composite">
+                <!-- ARTICOLO 1 -->
+                <div type="article" n="1" xml:lang="it" source="#art_1">
+                    <pb n="1" facs="#p175" xml:id="pb175" />
+                    <cb xml:id="c1_p175" n="1" corresp="#pb175"/>
+                    <head facs="#p175" xml:id="pag175_tit" corresp="#p175_col1">
+                        <lb/>Filologia, psicologia e fisiologia dell'amore
+                    </head>
+                    <ab xml:id="p175_par1" corresp="#p175_col1">
+                        <lb/>Non è soltanto perchè lo scritto del <roleName type="honorific">dottor</roleName> <name type="person" ref="#abel">Abel</name><ref type="bibliography" target="#abel_duboc_mantegazza">*</ref> sul con-
+                        <lb/>cetto dell'<term type="verbum">amore</term> in lingue diverse, è di data anteriore alla
+                        <lb/><name type="bibl" ref="#psic">Psicologìa</name> del <roleName type="honorific">dottor</roleName> <name type="person" ref="mantegazza">Duboc</name> ed alla <name type="bibl" ref="#fisio">Fisiologia</name> del <roleName type="honorific">professor</roleName>
+                        <lb/><name type="person" ref="#mantegazza">Mantegazza</name>, che, nel titolo di questo cenno, ho dato il
+                        <lb/>primo posto alla <name type="bibl" ref="#filol">Filologia</name>; ma più ancora l'ho fatto per-
+                        <lb/>chè sono convinto che non si può toccare questo delicato
+                        <lb/>argomento senza intendersi fin da principio intorno al si-
+                        <lb/>gnificato del termine polisenso che si propone come og-
+                        <lb/>getto di studio. E questo ancora non basta, poiché dopo
+                        <lb/>aver stabilito, per esempio, che si vuole esaminare soltanto
+                        <lb/>l'amore tra persone di sesso diverso, escludendo l'amicizia
+                        <lb/>semplice, il capriccio ed il momentaneo desiderio di pos-
+                        <lb/>sesso, bisogna ancor domandarci se si tratta d'<term type="verbum" rend="italic">amore</term> o di
+                        <lb/><term type="verbum" xml:lang="en" rend="italic">love</term> (inglese), d'<term type="verbum" xml:lang="grc" rend="italic">eros</term> o di <term type="verbum" xml:lang="ru" rend="italic">lubov</term> (russo); poiché due parole
+                        <lb/>di due lingue diverse non si equivalgono mai assolutamente:
+                        <lb/>l'<term xml:lang="la" rend="italic">amicitia</term> prosaica del Romano ha ben poco di comune con
+                        <lb/>la sentimentale <term xml:lang="de" rend="italic">freundschaft</term> del tedesco, e la <term xml:lang="fr" rend="italic">fidelité</term> fran-
+                        <lb/>cese è tutt'altra cosa che la <term xml:lang="en" rend="italic">faithfulness</term> inglese. Se non
+                        <lb/>fosse così, <choice><reg>gli</reg> <orig>gl'</orig></choice>inventori di lingue universali avrebbero ra-
+                        <lb/>gione, e ben presto vincerebbero la causa loro; il mondo
+                        <lb/>intiero adotterebbe la prima felice invenzione che si pre-
+                        <lb/>sentasse, come ha adottato senza farsi pregare le cifre ara-
+                        <lb/>biche ed il sistema decimale.
+                    </ab>
+                    <ab xml:id="p175_par2" corresp="#p175_col1">
+                        <lb/>Lo studio del dottor Abel non s'occupa che di quattro
+                        <lb/>lingue — benché sia noto che egli sarebbe competente an-
+                        <lb/>che in molte altre — cioè: dell' ebraico come rivelazione
+                        <lb/>d'uno stato di civiltà relativamente primitivo; del latino
+                        <lb/>e dell' inglese, come rappresentanti la civiltà antica e la
+                        <lb/>moderna; del russo infine, come idioma d'una razza alla
+                        <lb/>quale appartiene forse l'avvenire. All'incontro, egli studia
+                        <lb/>tutte le gradazioni e tutte le sfumature dell'affetto, men-
+                        <lb/>tre il dottor Duboc non fa altro che la psicologia e il pro-
+                        <lb/>fessor Mantegazza la fisiologia dell'amore sessuale, come
+                        <lb/>un tempo Michelet non fece che la patologia della stessa
+                        <lb/>passione, credendo, è vero, di farne la filosofia. Noi pure
+                        <lb/>atteniamoci qui a questo aspetto speciale dell'affezione; ed
+                        <lb/>invece d' entrare in una lunga analisi degli scritti che pren-
+                        <lb/>diamo per punto di partenza, e che si leggono meglio in
+                        <lb/>extenso che per estratti, cerchiamo di afferrare la differenza
+                        <lb/>tra il liebe tedesco e l'amore italiano — non già per stabi-
+                        <lb/>lire in che modo amano gli Italiani ed i Tedeschi — sa-
+                        <lb/>rebbe ben ardua impresa il trovare una definizione unica
+                        <lb/>per un ordine di fatti così molteplici; ma per conoscere
+                        <lb/>quale sia il concetto ideale che si fanno dell' amore la ci-
+                        <lb/>viltà tedesca odierna e quella italiana, e quale esso risulta,
+                        <lb/>senza che gli autori lo dicano e quasi senza che ne abbiano
+                        <lb/>coscienza, dai libri del dottor Duboc e del professor Man-
+                        <lb/>tegazza.
+                    </ab>
+                    <ab xml:id="p175_par3_i" part="I" corresp="#p175_col1">
+                        <lb/>Debbo però dichiarare avanti che entrambi i nostri
+                        <lb/>autori mi sembrano aver fissato troppo stretti confini alla
+                        <lb/>passione che hanno studiato; che sono stati per me troppo
+                        <lb/>assoluti ed insieme troppo esclusivi. Così pel prof. Mante-
+                        <lb/>gazza, un amore nato di vanità, di riconoscenza, di compas-
+                        <lb/>sione, di vendetta (ecco una categoria d'amore essenzial-
+                        <lb/>mente italiana, e certo ignota alle razze teutoniche) non è
+                        <lb/>vero amore ; ed il dottor Duboc è di parere che chiunque
+                        <lb/>non sappia al bisogno rinunciare all'oggetto amato, o chiun-
+                        <lb/>que sia capace di fargli del male, non ama davvero; il che
+                        <lb/>è equivalente a dire che Medea non amasse Giasone o che
+                        <lb/>Otello non amasse Desdemona, e perciò si confuta da sé. Ma
+                        <lb/>anche la proposizione del Mantegazza è, poco o assai, arbi-
+                    </ab>
+                    <ab type="bibliography" facs="#p175" xml:id="abel_duboc_mantegazza" corresp="#p175_col1">
+                        <bibl>
+                            <lb/>*
+                            <author>
+                                <roleName><choice><expan>D<ex>otto</ex>r</expan></choice></roleName>
+                                <name>Carl Abel</name>
+                            </author>,
+                            <title rend="italic">Ueber den Begriff der Liebe in einigen alten und
+                                <lb/>neuen Sprachen</title>.
+                            <pubPlace xml:lang="de">Berlin</pubPlace>
+                            <date when="1874">1874</date>.
+                        </bibl>
+                        —
+                        <bibl>
+                            <author>
+                                <roleName><choice><expan>D<ex>otto</ex>r</expan></choice></roleName>
+                                <name>Julius Duboc</name>
+                            </author>,
+                            <title rend="italic">Die Psychologie der
+                                <lb/>Liebe</title>.
+                            <pubPlace>Hannover</pubPlace>
+                            <date when="1874">1874</date>.
+                        </bibl>
+                        —
+                        <bibl>
+                            <author>
+                                <name>Paolo Mantegazza</name>
+                            </author>,
+                            <title rend="italic">Fisiologia dell'amore</title> <edition>(Ed.
+                            <lb/>seconda)</edition>.
+                            <pubPlace>Milano</pubPlace>
+                            <date when="1875">1875</date>.
+                        </bibl>
+                    </ab>
+                    <cb xml:id="c2_p175" n="2" corresp="#pb175"/>
+                    <ab xml:id="p175_par3_f" part="F" corresp="#p175_col2">
+                        <lb/>traria. Quante volte accade che si desidera una donna, come
+                        <lb/>l'Adolfo di Benjamin Constant desidera Ellénor,<ref type="bibliography" target="#ellénor">*</ref> per pura
+                        <lb/>vanità e ci si trova poi presi nelle proprie reti (capta cepit
+                        <lb/>captorem); quante volte la compassione conduce all'interes-
+                        <lb/>samento, l'interessamento all'affetto, e questo alla sua volta
+                        <lb/>scivola pian piano nell' amore più naturale e meno pato-
+                        <lb/>logico del mondo, checché ne possa dire il professor Man-
+                        <lb/>tegazza. Qui ancora il poeta, come quasi sempre, ha ra-
+                        <lb/>gione contro il dotto, quando ci dice che i dardi del dio
+                        <lb/>fanciullo feriscono in mille modi, e che il piccolo furfante
+                        <lb/>sa prendere tutte le maschere, infilarsi in tutte le fessure,
+                        <lb/>pur di entrare vincitore in casa nostra.
+                    </ab>
+                    <ab xml:id="p175_par4" corresp="#p175_col2">
+                        <lb/>Così pure i nostri due autori relegauo troppa parte di
+                        <lb/>sentimento amoroso nelle due cerehie estreme dell'amicizia
+                        <lb/>o del desiderio, (Begierde; il Mantegazza dice meno gentil-
+                        <lb/>mente la Lussuria). Dal momento in cui il desiderio cessa
+                        <lb/>d'essere un appetito indeterminato che vuol essere soddi-
+                        <lb/>sfatto; dal momento in cui si personifica, si fissa in modo un
+                        <lb/>po' durevole sull' individuo scelto, diventa amore, benchè
+                        <lb/>amore di forma molto inferiore. Il nobilitarlo, il purificarlo,
+                        <lb/>dipende dalla natura più o meno raffinata di chi lo prova, non
+                        <lb/>tanto per forza di volontà consciente, come pare crederlo
+                        <lb/>il professor Mantegazza, quanto per l'involontaria tendenza
+                        <lb/>della sua indole a prendere il disopra. All'incontro i si-
+                        <lb/>gnori Mantegazza e Duboc, — il primo soprattutto, poi-
+                        <lb/>chè il signor Duboc ammette e definisce benissimo « das
+                        <lb/>geschlechtlich angehauchte Sympathieverhältniss » (il rap-
+                        <lb/>porto di simpatia a tinta sessuale) sebbene egli neppure
+                        <lb/>non lo conti come amore — all' incontro, dicevo, i nostri
+                        <lb/>autori escludono troppo il platonismo dal regno dell'amore.
+                        <lb/>Forse J.-J. Ampère non amò Mme Récamier, e Varnha-
+                        <lb/>gen la Rachel, che di semplice amicizia, perchè quelle donne
+                        <lb/>irresistibili avevano vent' anni più di loro? Il platonismo,
+                        <lb/>se esiste in forma, assoluta, ciò che non credo, può essere
+                        <lb/>un amore indebolito, affinato, eterizzato; ma non è meno
+                        <lb/>amore e amore sano quanto la castità relativa che il pro-
+                        <lb/>fessor Mantegazza impone ai suoi veri amanti. Ogni qual-
+                        <lb/>volta la differenza di sesso rende più tenero l'affetto, per-
+                        <lb/>fino nei rapporti tra fratelli e sorelle, è l'amore che fa
+                        <lb/>intravedere la punta del suo scettro. Con ciò non voglio
+                        <lb/>dire che egli sia padrone autocratico poiché il flessibile
+                        <lb/>monarca sa benissimo adattarsi alle circostanze, e quando
+                        <lb/>vede che non c'è proprio verso di fare a modo suo, diventa
+                        <lb/>talvolta il Re più costituzionale del mondo.
+                    </ab>
+                    <ab xml:id="p175_par5" corresp="#p175_col2">
+                        <lb/>Infine mi sembra che sia un disconoscere la natura
+                        <lb/>di questa strana passione il volerla rinchiudere nei limiti
+                        <lb/>d'una sola delle età della vita; ben si vede da ciò che
+                        <lb/>tanto il fisiologo quanto il psicologo, sono ancora nella
+                        <lb/>felice posizione di non sapere per esperienza ciò che Ovidio
+                        <lb/>imparò a suo danno:
+                        <lb/>Venit amor gravius quo serius: urim ur intus,
+                        <lb/>Urimur et cæcum pectora vulnus habent.
+                        <lb/>Rousseau aveva cinquant'anni quando amava madame
+                        <lb/>d'Houdetot, e Goethe più di sessanta quando s'innamorò di
+                        <lb/>mademoiselle de Levezow, e la prosa di Rousseau ed i versi
+                        <lb/>di Goethe dicono abbastanza se quelli furono amori veri,
+                        <lb/>amori intieri.
+                    </ab>
+                    <ab xml:id="p175_par6" corresp="#p175_col2">
+                        <lb/>I nostri due osservatori non hanno soltanto ristretto il
+                        <lb/>terreno dell'amore; stimo anche che non fanno caso suf-
+                        <lb/>cente della parte che 1' immaginazione ha nell'amore; o
+                        <lb/>almeno il signor Duboc limita questa parte ad una specie
+                        <lb/>di prologo : il giovane, la fanciulla si fanno un ideale; poi
+                        <lb/>nell'incontrar una od uno, credono di riconoscere questo
+                        <lb/>ideale e si mettono ad amare. Molto maggiore, sembrami,
+                        <lb/>è la parte della immaginazione, dopo l'incontro degli « ato­-
+                    </ab>
+                    <note place="bottom" xml:id="ellénor" corresp="#p175_col2">* E non <name rend="italic">Eleonora</name> come scrive sempre il Dr Duboc.</note>
+                    <pb n="2" facs="#p176" xml:id="pb176"/>
+                    <cb xml:id="c1_p176" n="1" corresp="#pb176"/>
+                    <ab xml:id="p176_par1" corresp="#p176_col1">
+                        <lb/>mi uncinati. » Il dio agisce senza molto consultarci; egli
+                        <lb/>non ha altra preoccupazione, come dice eccellentemente il
+                        <lb/>professor Mantegazza, secondo Schopenhauer od almeno
+                        <lb/>dopo di lui, che la conservazione della specie; e le sagri-
+                        <lb/>fica brutalmente l'individuo. Questo però non vuole confes-
+                        <lb/>sare a sè stesso d'essere schiavo; d'obbedire soltanto al
+                        <lb/>piccolo despota. Ed è allora che l'immaginazione si mette
+                        <lb/>all'opera (se il dio non se ne è già prima servito) per fargli
+                        <lb/>illusioni d'ogni maniera; e soprattutto l'illusione suprema
+                        <lb/>che la bellezza, la bontà, l'intelligenza dell'oggetto amato
+                        <lb/>siano le cause del suo amore, mentre in realtà egli ame-
+                        <lb/>rebbe ugualmente quella persona brutta, cattiva e stolta,
+                        <lb/>se questo entrasse nelle vedute di Eros, il grande conser-
+                        <lb/>vatore delle razze.
+                    </ab>
+                    <ab xml:id="p176_par2" corresp="#p176_col1">
+                        <lb/>E poiché il nome di Schopenhauer mi è venuto sotto la
+                        <lb/>penna, mi si permetta di non passare sotto silenzio la quarta
+                        <lb/>nota dell' appendice del signor Duboc. Tanto ciò che
+                        <lb/>egli dice di Stuart Mill mi pare fondato nel fatto e cor-
+                        <lb/>tese nella forma, altrettanto io trovo poco conveniente
+                        <lb/>il tono con cui il signor Duboc parla di Schopenhauer. Non
+                        <lb/>si può dire « l'assurdità di Schopenhauer » come non si
+                        <lb/>potrebbe dire « l'assurdità di Pascal » nè « l'assurdità di
+                        <lb/>Machiavelli, » quand' anche geni di quel calibro avessero
+                        <lb/>per caso commesso una assurdità, cosa che può accadere:
+                        <lb/>quandoque bonus dormitat Homerus. Io ho d' altronde i miei
+                        <lb/>sospetti che il signor Duboc non abbia riletto Schopenhauer,
+                        <lb/>da lui trattato con tanta disinvoltura, perchè egli non lo
+                        <lb/>cita che dalle opere di Hartmann ; e parla di una Har-
+                        <lb/>tmann-Schopenhauerische Metaphysik der Liebe come si potrebbe
+                        <lb/>parlare d'una « Filosofia di Caro e Descartes, » e come
+                        <lb/>se le teorie di quei due filosofi sull' amore fossero identi-
+                        <lb/>che. Io non ho letto Hartmann e non me ne dolgo se tutto
+                        <lb/>il suo libro è nello stile delle pagine citate dal signor Du-
+                        <lb/>boc (p. IX, e .186-206) e se le idee contenute nell'opera
+                        <lb/>sono povere quanto quelle espresse in quelle pagine; ma
+                        <lb/>debbo constatare che quanto dice il signor Hartmann nei
+                        <lb/>passi citati non solamente differisce in tutto e per tutto
+                        <lb/>da quanto dice Schopenhauer, ma ne è talvolta la contrad-
+                        <lb/>dizione assoluta.
+                    </ab>
+                    <ab xml:id="p176_par3_i" part="I" corresp="#p176_col1">
+                        <lb/>Fermiamoci però nella critica. Una discussione di que-
+                        <lb/>sti due lavori, come pure di quello del signor Abel, ci
+                        <lb/>condurrebbe troppo in là, poiché chi scrive queste linee non
+                        <lb/>è sempre d' accordo coi signori Duboc e Mantegazza; e
+                        <lb/>per fare con essi della polemica leale, bisognerebbe citare i
+                        <lb/>loro libri quasi per intero prima di cercare di confutarli,
+                        <lb/>anche in parte. Nè il carattere nè lo spazio della Rasse-
+                        <lb/>gna me lo permettono. Dirò soltanto che entrambi quei la-
+                        <lb/>vori s'appoggiano ad osservazioni intelligenti-ed a ma-
+                        <lb/>ture riflessioni, che l'ordinamento del soggetto trattato
+                        <lb/>è ugualmente chiaro e sistematico nell' uno e nell'altro,
+                        <lb/>mentre lo stile e il punto di vista dei due libri non po-
+                        <lb/>trebbero essere più diversi. Il naturalista infatti è tanto fio-
+                        <lb/>rito (starei per dire tanto oratorio se non sapessi che il
+                        <lb/>professor Mantegazza vede in questo appellativo una specie
+                        <lb/>d'insulto) quanto il letterato è sobrio ed astratto. Il punto
+                        <lb/>di vista dell' Italiano è spesso affatto pratico, ed il suo
+                        <lb/>libro diventa talvolta un ars amandi onesta; mentre il punto
+                        <lb/>di vista del Tedesco è tutto filosofico e il suo lavoro non
+                        <lb/>ha pretesa alcuna d' offrire buoni consigli per la condotta
+                        <lb/>della vita : egli cerca soltanto di stabilire che cosa sia la
+                        <lb/>Liebe. Quanto a me, confesso che mi è difficile collocarmi
+                        <lb/>all'uno o all' altro di questi punti di vista e che preferirei
+                        <lb/>dimolto, se non avessi varcata da tempo l'età di Cher-
+                        <lb/>bino, porre ancora una volta alla Contessa, e magari anche
+                        <lb/>a Susanna, la famosa domanda:
+                        <lb/>Voi che sapete
+                        <lb/>Che cosa è amor....
+                    </ab>
+                    <cb xml:id="c2_p176" n="2" corresp="#p176_col2"/>
+                    <ab xml:id="p176_par3_f" part="F" corresp="#p176_col1">
+                        <lb/>Però siccome la Rassegna non è guari il luogo da proporre
+                        <lb/>tali domande nè da ricevervi risposte, mi contenterò, come
+                        <lb/>feci presentire al principio, di domandare a me stesso in
+                        <lb/>qual modo, dato che si debba giudicare dai signori Man-
+                        <lb/>tegazza e Duboc, gl' Italiani e i Tedeschi ai dì nostri inten-
+                        <lb/>dono l'amore. Dico « intendono, » perchè nel fare ciascuno
+                        <lb/>in questo mondo ha il suo metodo proprio. E mi appog-
+                        <lb/>gerò nel farlo alle eccellenti osservazioni del signor Abel
+                        <lb/>che nel definire l'amor dei Romani ed il love degli Inglesi
+                        <lb/>ha definito anche qualche cosa di molto simile all'Amore
+                        <lb/>italiano e alla Liebe tedesca.
+                    </ab>
+                    <ab xml:id="p176_par4" corresp="#p176_col2">
+                        <lb/>L'amore, come tutti i sentimenti e come tutti gli atti
+                        <lb/>dell' uomo, subisce l'influenza della civiltà in mezzo alla
+                        <lb/>quale si produce ; e questa civiltà è alla sua volta il risul-
+                        <lb/>tato — lo abbiamo udito ripetere fino a sazietà da Mon-
+                        <lb/>tesquieu fino al signor Taine — della razza, del suolo, del
+                        <lb/>clima, delle circostanze storiche. E dunque cosa naturale
+                        <lb/>che questo fatto — il più importante della vita — sia di-
+                        <lb/>versamente considerato e trattato presso le diverse nazioni
+                        <lb/>appena cessa d'essere puramente animale.
+                    </ab>
+                    <ab xml:id="p176_par5" corresp="#p176_col2">
+                        <lb/>Il punto di partenza è indubbiamente il temperamento
+                        <lb/>così diverso nelle diverse razze. Il languido Slavo deve cer-
+                        <lb/>tamente amare in altra guisa che il Celto petulante e
+                        <lb/>l'amore del Teutone sentimentale somiglierà ben poco a
+                        <lb/>quello dell' appassionato Latino. Ma la differenza non si
+                        <lb/>ferma qui, poiché lo svolgimento sociale di ciascun paese viene
+                        <lb/>ad accrescerla. Noi vediamo la società inglese fondata es-
+                        <lb/>senzialmente sopra l'idea del dovere, la francese che poggia
+                        <lb/>sull'amor proprio, o se vi par meglio, sull'onore; è impos-
+                        <lb/>sibile che il modo di amare delle due nazioni non se ne ri-
+                        <lb/>senta. A ciò s'aggiunga la legge civile. Un popolo che pos-
+                        <lb/>siede la libertà del testare ed il divorzio, non può amare
+                        <lb/>come un popolo presso il quale il matrimonio è indissolu-
+                        <lb/>bile ed in cui le posizioni sociali tendono a uguagliarsi per lo
+                        <lb/>sminuzzamento dei beni. Anche la letteratura influisce sulla
+                        <lb/>forma che prende l'amore presso le diverse nazioni; e non
+                        <lb/>solo nelle classi agiate — che sono più specialmente 1' og-
+                        <lb/>getto di tutte queste osservazioni, perchè una passione non
+                        <lb/>si mostra mai nella sua pienezza finché il bisogno ne sof-
+                        <lb/>foca o ne paralizza lo svolgimento ; e 1' amore soprattutto
+                        <lb/>abhorre le cure della vita, perchè sine Baccho et Cerere
+                        <lb/>friget Venus — ma anche le classi tra cui i tipi e i concetti
+                        <lb/>letterari non penetrano che indirettamente, se ne risentono
+                        <lb/>sempre. La letteratura tedesca, per esempio, ha avuto il
+                        <lb/>suo apogeo nel momento in cui il mondo intiero era affetto
+                        <lb/>dalla malattia morale della sensiblerie, mentre la letteratura
+                        <lb/>francese ebbe il suo più alto grado di sviluppo nell' epoca in
+                        <lb/>cui il bisogno d'ordine e di buon senso, il rispetto per le
+                        <lb/>forme, il gusto della conversazione elegante, si facevano
+                        <lb/>sentire dappertutto dopo una fase di forti scosse, di disor-
+                        <lb/>dini violenti nelle cose e negli animi. L'amour francese
+                        <lb/>ne ha conservato un che di misurato, di ragionevole, ani-
+                        <lb/>mato da una certa gaiezza alla buona e piena di spirito.
+                        <lb/>Nella Liebe tedesca è rimasto un po' di Schwärmerei.
+                    </ab>
+                    <ab xml:id="p176_par6" corresp="#p176_col2">
+                        <lb/>Per venire all'Italia, quando leggo il libro del prof. Man-
+                        <lb/>tegazza si direbbe che 1' amore italiano sia tutto passione e
+                        <lb/>che non ammetta cosa alcuna all' infuori della passione, di
+                        <lb/>Vénus tout entière « sa proie attachée.
+                        <lb/>Tutto ciò che non è passione — esclusiva, beninteso, cioè
+                        <lb/>concentrata sopra un unico oggetto — entra pel nostro au-
+                        <lb/>tore nel campo della patologia ; e sarebbe cosa difficile il
+                        <lb/>negare che tale maniera di vedere sia piuttosto sparsa in
+                        <lb/>Italia. Essa però è corretta, anche nel prof. Mantegazza, da
+                        <lb/>un razionalismo previdente che è, per così dire, la buona
+                        <lb/>massaia di questo fondo di passione. Inoltre la fedeltà vi
+                        <lb/>tiene un posto importante. E bene ammesso che si possa
+                        <lb/>ingannarsi una prima volta; e Mantegazza scongiura i suoi
+                    </ab>
+                    <pb n="3" facs="#p177" xml:id="pb177"/>
+                    <cb xml:id="c1_p177" n="1" corresp="#pb177"/>
+                    <ab xml:id="p177_par1" corresp="#p177_col1">
+                        <lb/>giovani lettori di non legarsi con giuramenti, come se Giove
+                        <lb/>non ridesse dei giuramenti degli innamorati!
+                        <lb/>Nec jurare time: Veneris perjuria venti
+                        <lb/>Irrita per terras et freta summa ferunt.
+                        <lb/>Ma egli non sembra credere che l'amore possa ancora,
+                        <lb/>dopo trovato il vero oggetto, cambiarlo per un altro, senza
+                        <lb/>cadere nel libertinaggio e perdere il carattere di vero
+                        <lb/>amore. Ed io credo che la società italiana d'oggidì presa
+                        <lb/>in massa, vegga le cose, se pur non le pratica, presso a poco
+                        <lb/>come il prof. Mantegazza, come lui gettando su tutto un gran
+                        <lb/>lusso di lampi e di tuoni, di flamine e di fuochi, di battaglie
+                        <lb/>e di cataclismi. Tutto quanto è amicizia a tinte d'amore,
+                        <lb/>tutto quanto è serenità commossa, tutto quanto è flirtation
+                        <lb/>ed anche taquinerie e scaramuccia, non ha per lui il diritto di
+                        <lb/>chiamarsi amore ; e la civetteria mondana ne è esclusa come
+                        <lb/>il platonico chiaro di luna. Ora siccome nella civetteria, come
+                        <lb/>nel chiaro di luna, le donne sono infinitamente superiori
+                        <lb/>agli uomini, egli pone qui per legge che non c è vero amore
+                        <lb/>se i primi passi vengono dalla donna. Non sono però certo
+                        <lb/>che in ciò tutti gl'italiani dividano l'opinione del loro illu-
+                        <lb/>stre compatriota.
+                    </ab>
+                    <ab xml:id="p177_par2" corresp="#p177_col1">
+                        <lb/>Quando leggo poi un libro come quello del signor Duboc
+                        <lb/>nel quale l'A., colla maggior flemma del mondo e colla più
+                        <lb/>coscienziosa ingenuità, espone come l'amore sia per natura
+                        <lb/>un sentimento passeggierò, che nasce, cresce, e deperisce
+                        <lb/>al pari di ogni cosa in questo mondo, una fiamma che può
+                        <lb/>spegnersi e riaccendersi più e più volte; quando lo vedo
+                        <lb/>descrivere il giovane che esclama, non già come quello di
+                        <lb/>Mantegazza una donna, una donna, ma la donna, la donna
+                        <lb/>dei suoi sogni, il suo ideale; quando lo vedo esigere dal
+                        <lb/>suo amante la rassegnazione, se occorre, per il bene del-
+                        <lb/>l'oggetto amato, mi sento subito trasportato in regioni
+                        <lb/>lontane. E quando poi osservo la vita del più grande dei
+                        <lb/>tedeschi, di Goethe, che pare una illustrazione perpetua
+                        <lb/>dei suoi versi giovanili:
+                        <lb/>Es küsst sich so süsse die Lippe der Zweiten
+                        <lb/>Als kaum sich die Lippe der Ersten geküsst.
+                        <lb/>« (L'amore della seconda ha baci sì dolci quali appena si
+                        <lb/>coglievano sulle labbra della prima,) » quando veggo che in
+                        <lb/>tutto ciò non c'è, a dir vero, un solo tradimento reale, e che
+                        <lb/>più d uno di questi amori si fermò alla soglia della camera;
+                        <lb/>quando infine veggo tanti matrimoni d'amore disciolti e
+                        <lb/>nuovi matrimoni conchiusi — durante un certo tempo era
+                        <lb/>un vero chassé-croisé matrimoniale.— e con tutto ciò così
+                        <lb/>pochi duelli e delitti per gelosia, e scandali, debbo dire a
+                        <lb/>me stesso che questo è un modo d' amare diverso da quello
+                        <lb/>che si vede solitamente fra gl' Italiani. Mi guarderei però
+                        <lb/>bene dal sostenere che Werther ama meno, perchè ama al-
+                        <lb/>trimenti che Iacopo Ortis. Diverso modo d'amare, ma sempre
+                        <lb/>amore e amore profondo, reale, sublime quanto qualunque
+                        <lb/>amore, benché somigli più alla bragia che scalda e con-
+                        <lb/>suma che non alla fiamma che crepita e brilla, ma talvolta
+                        <lb/>lascia intatto il midollo del ramo che scintilla e riluce lontano.
+                    </ab>
+                    <ab xml:id="p177_par3_i" part="I" corresp="#p177_col1">  
+                        <lb/>Si consideri anche la differenza di costumi. L'amore
+                        <lb/>generato dall' abitudine, così frequente in Germania, ove i
+                        <lb/>due sessi sono così liberi nei loro reciproci rapporti, è for-
+                        <lb/>zatamente una pianta poco nota in Italia, dove la fanciulla
+                        <lb/>è tanto sorvegliata e con ragione, perchè essa ha maggior-
+                        <lb/>mente da temere dal suo compatriotta intraprendente ed
+                        <lb/>aggressivo — è sempre il prof. Mantegazza che me ne dà
+                        <lb/>questo concetto — che non del Tedesco timido e rispettoso,
+                        <lb/>tanto per lentezza di temperamento quanto per effetto d'una
+                        <lb/>secolare educazione. Ma è qui che 1' amore prende la sua
+                        <lb/>rivincita:
+                        <lb/>Intrat amor mentes usu:
+                        <lb/>(è vero che il poeta aggiunge: dediscitur usu) e non perde
+                        <lb/>nulla nel cambio: poiché sia che' si scivoli dolcemente nel-
+                    </ab>
+                    <cb xml:id="c2_p177" n="2" corresp="#pb177"/>
+                    <ab xml:id="p177_par3_f" part="F" corresp="#p177_col2">        
+                        <lb/>l'amore o che vi si precipiti con gran fracasso, si arriva
+                        <lb/>sempre all'amore.
+                    </ab>
+                    <ab xml:id="p177_par4" corresp="#p177_col2">    
+                        <lb/>Quanto alla maggiore o minore sensualità delle razze
+                        <lb/>diverse — se è permesso di toccare questo tasto delicato —
+                        <lb/>ci credo ben poco. In ciò ancora l'abitudine — abitudine
+                        <lb/>della immaginazione quanto della vita — ha una parte
+                        <lb/>prominente. Il più sensuale degli uomini se distoglie il suo
+                        <lb/>pensiero dall'amore, se si avvezza a concentrarlo sull' am-
+                        <lb/>bizione, sulla scienza, sul desiderio di guadagno, si cal-
+                        <lb/>merà ben presto senza perciò atrofizzarsi; e la più fredda
+                        <lb/>delle donne se prende l'abitudine di fare dell'amore il suo
+                        <lb/>affare principale, e per così dire il suo studio prediletto,
+                        <lb/>diventerà, se è assolutamente libera, una Caterina II. Ca-
+                        <lb/>terina stessa non era essa una pigra Tedesca? Ciò prova
+                        <lb/>che la nazionalità ha in questo così poco da fare, quanto
+                        <lb/>il sesso:
+                        <lb/>That monster, custom, who all sense doth eat
+                        <lb/>conta più della natura in ogni cosa. L'esempio pure agi-
+                        <lb/>sce potentemente: quando vediamo tutti i nostri compa-
+                        <lb/>gni agire in un certo modo, siamo già molto propensi,
+                        <lb/>senza accorgercene, a fare la stessa cosa, per poi dire a
+                        <lb/>noi stessi in seguito: « Che volete? l'abbiamo nel sangue!
+                        <lb/>Siamo organizzati diversamente da voi altri, gente apa-
+                        <lb/>tica ec. »
+                    </ab>
+                    <ab xml:id="p177_par5" corresp="#p177_col2">    
+                        <lb/>Prendete, per esempio, la gelosia. Non nego che il me-
+                        <lb/>ridionale la senta naturalmente con maggiore vivacità del-
+                        <lb/>l'uomo del Nord, cioè che il suo amor proprio, il suo sen-
+                        <lb/>timento di proprietà, od il suo amore, siano più imperiosi
+                        <lb/>che nel Settentrionale. Il fatto sta però che i costumi c'en-
+                        <lb/>trano pure non poco. Osservate il teatro spagnuolo, per
+                        <lb/>esempio, che riflette così bene la vita del secolo XVI: è
+                        <lb/>pieno di « medicos de sus onra » che l'idea sola d'una
+                        <lb/>macchia all' onore coniugale porta a tutti gli estremi. Guar-
+                        <lb/>date il giuri francese che assolve- regolarmente l'assassino
+                        <lb/>della donna adultera e dell' amante, mentre il suo pensiero
+                        <lb/>e il suo sentimento morale sono lungi dall' essere severi
+                        <lb/>per quelle vittime; guardate l'Italia dove nei processi cri-
+                        <lb/>minali è quasi sempre 1' amante, non il marito, come in
+                        <lb/>Francia, che si lascia trasportare dalla gelosia fino al de-
+                        <lb/>litto. Sarebbe cosa assurda 1' affermare che il Tedesco
+                        <lb/>ignori queste tre forme di gelosia; ma è però rarissimo
+                        <lb/>che esse lo conducano a simili eccessi; mentre è frequente
+                        <lb/>il caso che l'amante rinunzi a quella che ama per cederla
+                        <lb/>ad un altro, e vi rinunzi per amore. In ciò il signor Duboc
+                        <lb/>ha perfettamente ragione; soltanto egli ha il torto di cre-
+                        <lb/>dere questo sentimento universale, mentre non è che tede-
+                        <lb/>sco. Io ho un sospetto financo che Mrae G. Sand quando
+                        <lb/>creò il tipo di Jacques avesse dinanzi un precedente tede-
+                        <lb/>sco; perchè i Jacques non sono rari in Germania ed il di-
+                        <lb/>vorzio permette loro di sagrificarsi senza andare a perdersi
+                        <lb/>tra i precipizi delle Alpi come l'eroe di Giorgio Sand che
+                        <lb/>in Francia non ha provocato che un sorriso. Ebbene, si può
+                        <lb/>credere che gli esempi così illustri e così frequenti di que-
+                        <lb/>ste immolazioni, soprattutto nel tempo del grande periodo
+                        <lb/>letterario della Germania, non abbiano agito sulle genera-
+                        <lb/>zioni seguenti? E poiché ho parlato di Giorgio Sand, si
+                        <lb/>deve credere che i suoi romanzi non abbiano ispirato mi-
+                        <lb/>gliaia d'amori — e d'amori sincerissimi — a donne incom-
+                        <lb/>prese?
+                    </ab>
+                    <ab xml:id="p177_par6" corresp="#p177_col2">    
+                        <lb/>Amori sinceri, ho detto, e veri; altrettanto quanto credo
+                        <lb/>veri i lunghi amori esclusivi, anche essendo persuaso che
+                        <lb/>la natura ci ha creati per gli amori intermittenti — non
+                        <lb/>simultanei, si badi bene — e che la durata media d'un amore
+                        <lb/>felice, completo, in cui sensi e cuore entrino in parte uguale
+                        <lb/>non oltrepasserebbe forse qualche mese, se la civiltà non
+                        <lb/>venisse a correggere la natura.
+                    </ab>
+                    <ab xml:id="p177_par7" corresp="#p177_col2">   
+                        <lb/>Difatti, non c'è ai nostri giorni pregiudizio più diffuso di
+                    </ab>
+                    <pb n="4" facs="#p178" xml:id="pb178"/>
+                    <cb xml:id="c1_p178" n="1" corresp="#pb178"/>
+                    <ab xml:id="p178_par1" corresp="#p178_col1">
+                        <lb/>quello che ci fa considerare come falsi tutti i sentimenti artifi-
+                        <lb/>ciali, e come veri i sentimenti primitivi soltanto; pregiudizio
+                        <lb/>del resto che professiamo solamente a parole e che contrad-
+                        <lb/>diciamo continuamente nei fatti. Invero noi cerchiamo il più
+                        <lb/>delle volte di persuadere noi stessi che taluni fra i nostri
+                        <lb/>sentimenti sono primitivi per nobilitarli ai nostri propri
+                        <lb/>occhi, nel medesimo modo che ci compiacciamo di conside-
+                        <lb/>rare come innate molte idee acquisite, e come spontanee
+                        <lb/>buon numero di forme politiche e letterarie che sono pro-
+                        <lb/>dotti della imitazione cosciente. L'amore coniugale, che è la
+                        <lb/>più alta espressione dell' amore nelle nostre società, — come
+                        <lb/>il regime parlamentare, come la tragedia classica, come il
+                        <lb/>pudore, come il nostro tipo della bellezza — ci appare quale
+                        <lb/>cosa naturale per effetto di molto lunga e molto generale
+                        <lb/>abitudine.
+                        <lb/>For use almost can change the stamp of nature;
+                        <lb/>mentre in verità non è che il risultato d'una lunga lotta
+                        <lb/>contro la natura, oppure, se piace meglio, d'una lunga edu-
+                        <lb/>cazione della natura. Nè quell'amore è perciò meno buono.
+                        <lb/>Non trattiamo dunque troppo l'amore — coniugale od extra,
+                        <lb/>legale — come una passione primitiva dell'uomo, e perciò
+                        <lb/>universale, identica dappertutto, da non potersi giudicare,
+                        <lb/>che dietro un sol tipo; difetto dal quale i nostri due autori
+                        <lb/>non hanno sempre-saputo guardarsi abbastanza; ed ammet-
+                        <lb/>tiamo che nelle nostre società complicate, l'amore ha sa-
+                        <lb/>puto assumere forme e procedimenti diversissimi secondo
+                        <lb/>le esigenze di queste società; ciò che non gli impedisce di
+                        <lb/>essere in fondo dappertutto e sempre lo stesso fanciullo
+                        <lb/>male avvezzo di cui disse Voltaire:
+                        <lb/>Qui que tu sois, voici ton maître;
+                        <lb/>Il l'est, le fut, ou il va l'être.
+                        <lb/>e che Shakespeare ha ritratto in una delle sue più graziose
+                        <lb/>commedie quasi tanto somigliante quanto lo delinearono i
+                        <lb/>signori Mantegazza e Duboc: that same wicked bastard of
+                        <lb/>Venus, that was begot of thought, conceived of spleen, and
+                        <lb/>born of madness; that blind rascally boy that abuses every
+                        <lb/>one's eyes, because his own are out.
+                    </ab>
+                    <closer xml:id="p178_author" corresp="#p178_col1">
+                        <signed rend="align(right) case(allcaps)">
+                            <name><abbr>H.</abbr></name>
+                        </signed>
+                    </closer>
+                </div>
+            </div>
+        </body>
+    </text>
 </TEI>
