@@ -123,7 +123,7 @@
         </surface>
         <surface xml:id="p272" start="#pb272" n="7">
             <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_12.png' width='712.4px' height='1024.4px' />
-            <zone ulx="27" uly="68" lrx="353" lry="991" xml:id="p272_col1" corresp="#pag272_col1"/> />
+            <zone ulx="27" uly="68" lrx="353" lry="991" xml:id="p272_col1" corresp="#pag272_col1"/> 
             <zone ulx="354" uly="69" lrx="680" lry="528" xml:id="p272_col2" corresp="#pag272_col2"/> 
         </surface>
       <!-- Articolo 3 -->
@@ -146,7 +146,7 @@
      <!-- Notizie --> 
         <surface xml:id="p184" start="#pb184" n="11">
             <graphic url='1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_16.png' width='717.666666px' height='1023.666666px' />
-            <zone ulx="365" uly="372" lrx="691" lry="982" xml:id="p184_col2" corresp="#pag184_col2/ />
+            <zone ulx="365" uly="372" lrx="691" lry="982" xml:id="p184_col2" corresp="#pag184_col2/>
         </surface>
         <surface xml:id="p276" start="#pb276" n="12">
             <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16.png' width='712.4px' height='1024.4px' />
@@ -155,7 +155,7 @@
      <!-- Bibliografia -->
          <surface ml:id="p275" start="#pb275" n="14>
             <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='703.666666px' height='1023.666666px' />
-            <zone ulx="37" uly="695" lrx="355" lry="967" xml:id="p275_col1" corresp="#pag275_col1/>/>
+            <zone ulx="37" uly="695" lrx="355" lry="967" xml:id="p275_col1" corresp="#pag275_col1/>
 
             <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='703.666666px' height='1023.666666px' />
             <zone ulx="357" uly="77" lrx="679" lry="974" " xml:id="p275_col2" corresp="#pag275_col2/>
