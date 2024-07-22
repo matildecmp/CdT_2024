@@ -126,4 +126,25 @@
             <zone ulx="27" uly="68" lrx="353" lry="991" xml:id="p272_col1" corresp="#pag272_col1"/> />
             <zone ulx="354" uly="69" lrx="680" lry="528" xml:id="p272_col2" corresp="#pag272_col2"/> 
         </surface>
+      <!-- Articolo 3 -->
+        <surface xml:id="p337" start="#pb337" n="8">
+            <graphic url='1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_13.png'   width='709.666666px' height='1023.666666px' />
+            <zone ulx="369" uly="400" lrx="679" lry="966" xml:id="p337_col2" corresp="#pag337_col2/>
+        </surface>
+        <surface xml:id="p338" start="#pb338" n="9">
+            <graphic url='1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_14.png' width='713.666666px' height='1023.666666px' />
+            <zone ulx="42" uly="66" lrx="357" lry="958"  xml:id="p338_col1" corresp="#pag338_col1/>
+           <graphic url='1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_14.png'   width='713.666666px' height='1023.666666px' />
+           <zone ulx="363" uly="71" lrx="679" lry="962" xml:id="p338_col2" corresp="#pag338_col2 />
+        </surface>
+        <surface xml:id="p339" start="#pb339" n="10">
+           <graphic url='1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_15.png' width='714.666666px' height='1023.666666px' />
+           <zone ulx="41" uly="67" lrx="366" lry="960" xml:id="p339_col1" corresp="#pag339_col1 />
+           <graphic url='1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_15.png' width='714.666666px' height='1023.666666px' />
+           <zone ulx="364" uly="73" lrx="674" lry="203" xml:id="p339_col2" corresp="#pag339_col2/>
+        </surface>
+
+
+
+
 </TEI>
