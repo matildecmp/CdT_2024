@@ -116,13 +116,11 @@
             <graphic url='img1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_10.png' width='712.4px' height='1024.4px' />
             <zone ulx="359" uly="866" lrx="677" lry="993"  xml:id="p270_col2" corresp="#pag270_col2"/>
         </surface>
-
         <surface xml:id="p271" start="#pb271" n="6">
             <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_11.png' width='703.4px' height='1024.4px' />
             <zone ulx="36" uly="72" lrx="363" lry="968" xml:id="p271_col1" corresp="#pag271_col1"/>
             <zone ulx="363" uly="73" lrx="685" lry="971" xml:id="p271_col2" corresp="#pag271_col2"/>
         </surface>
-
         <surface xml:id="p272" start="#pb272" n="7">
             <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_12.png' width='712.4px' height='1024.4px' />
             <zone ulx="27" uly="68" lrx="353" lry="991" xml:id="p272_col1" corresp="#pag272_col1"/> />
