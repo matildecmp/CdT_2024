@@ -295,7 +295,7 @@
                         <lb />sentimento amoroso nelle due cerehie estreme dell'amicizia
                         <lb />o del desiderio, (<foreign xml:lang="de" rend="italic">Begierde</foreign>; il <name type="person" ref="#mantegazza">Mantegazza</name> dice meno gentil-
                         <lb />mente <term rend="italic">la Lussuria</term>). Dal momento in cui il desiderio cessa
-                        <lb /><choice><abbr>d'</abbr><expan>di</expan></choice>essere un appetito indeterminato che <choice><abbr>vuol</abbr><expan>vuole</expan></choice> essere soddi-
+                        <lb /><choice><abbr>d'</abbr><expan>di</expan></choice>essere un appetito indeterminato che <choice><expan>vuol</expan><ex>e</ex></choice> essere soddi-
                         <lb />sfatto; dal momento in cui si personifica, si fissa in modo un
                         <lb />po' durevole sull'individuo scelto, diventa amore, benchè
                         <lb />amore di forma molto inferiore. Il nobilitarlo, il purificarlo,
@@ -430,7 +430,7 @@
                         <lb />Però siccome la <name type="bibl" ref="#ras_set" rend="italic"><choice><abbr>Rassegna</abbr><expan>Rassegna Settimanale</expan></choice></name> non è <distinct time="archaic"><choice><orig>guari</orig><reg resp="#mcamp">affatto</reg></choice></distinct> il luogo da proporre
                         <lb />tali domande nè da ricevervi risposte, mi <distinct time="archaic"><choice><orig>contenterò</orig><reg>accontenterò</reg></choice></distinct>, come
                         <lb /><distinct time="archaic"><choice><orig>feci presentire</orig><reg resp="mcamp">anticipai</reg></choice></distinct> al principio, di domandare a me stesso in
-                        <lb /><choice><abbr>qual</abbr><expan>quale</expan></choice> modo, dato che si debba giudicare dai <roleName type="honorific">signori</roleName> <name type="person" ref="#mantegazza">Man-
+                        <lb /><choice><expan>qual</expan><ex>e</ex></choice> modo, dato che si debba giudicare dai <roleName type="honorific">signori</roleName> <name type="person" ref="#mantegazza">Man-
                         <lb />tegazza</name> e <name type="person" ref="#duboc">Duboc</name>, <choice><abbr>gl'</abbr><expan>gli</expan></choice>Italiani e i Tedeschi ai dì nostri inten-
                         <lb />dono l'amore. Dico « <quote>intendono</quote>, » perchè nel fare ciascuno
                         <lb />in questo mondo ha il suo metodo proprio. E mi appog-
@@ -679,7 +679,7 @@
                         <lb />Non trattiamo dunque troppo l'amore — coniugale od extra
                         <lb />legale — come una passione primitiva dell'uomo, e perciò
                         <lb />universale, identica dappertutto, da non potersi giudicare,
-                        <lb />che dietro un <choice><abbr>sol</abbr><expan>solo</expan></choice> tipo; difetto dal quale i nostri due autori
+                        <lb />che dietro un <choice><expan>sol</expan><ex>o</ex></choice> tipo; difetto dal quale i nostri due autori
                         <lb />non hanno sempre saputo guardarsi abbastanza; ed ammet-
                         <lb />tiamo che nelle nostre società complicate, l'amore ha sa-
                         <lb />puto assumere forme e procedimenti diversissimi secondo
