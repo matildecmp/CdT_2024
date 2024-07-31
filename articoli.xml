@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<?xml-stylesheet type="text/xsl" href="articoli.xsl"?> 
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?> 
 
 <!DOCTYPE TEI SYSTEM "tei_all.dtd">
 
@@ -60,14 +60,12 @@
                     <analytic xml:id="bibl">
                         <title level="a">Bibliografia (Letteratura e storia, Scienze filosofiche)</title>
                         <textLang xml:lang="it">Italiano</textLang>
-                        <!-- vol.2, fasc.16, pp.275-276 -->
                     </analytic>
                     <analytic xml:id="notizie">
                         <title level="a">Notizie</title>
                         <textLang xml:lang="it">Italiano</textLang>
-                        <!-- vol.2, fasc.16, p.276 + vol.2, fasc.11, p.184 -->
                     </analytic>
-                    <monogr>
+                    <monogr xml:id="info_articoli">
                         <title level="j">La Rassegna Settimanale di Politica, Scienze, Lettere ed Arti</title>
                         <textLang xml:lang="it">Italiano</textLang>
                         <respStmt>
@@ -83,6 +81,40 @@
                         <biblScope unit="volume">2, 2, 1</biblScope>
                         <biblScope unit="issue">11, 16, 18</biblScope>
                         <biblScope unit="page">175-178, 270-272, 337-339</biblScope>
+                    </monogr>
+                    <monogr xml:id="info_bibl">
+                        <title level="j">La Rassegna Settimanale di Politica, Scienze, Lettere ed Arti</title>
+                        <textLang xml:lang="it">Italiano</textLang>
+                        <respStmt>
+                            <resp>Fondata da</resp>
+                            <name>Leopoldo Franchetti</name>
+                            <name>Sydney Sonnino</name>
+                        </respStmt>
+                        <imprint>
+                         <pubPlace>Firenze</pubPlace>
+                         <publisher>Casa editrice Barbera</publisher>
+                         <date when="1878-05-26">26 maggio 1878</date>
+                        </imprint>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">16</biblScope>
+                        <biblScope unit="page">275-276</biblScope>
+                    </monogr>
+                    <monogr xml:id="info_notizie">
+                        <title level="j">La Rassegna Settimanale di Politica, Scienze, Lettere ed Arti</title>
+                        <textLang xml:lang="it">Italiano</textLang>
+                        <respStmt>
+                            <resp>Fondata da</resp>
+                            <name>Leopoldo Franchetti</name>
+                            <name>Sydney Sonnino</name>
+                        </respStmt>
+                        <imprint>
+                         <pubPlace>Firenze</pubPlace>
+                         <publisher>Casa editrice Barbera</publisher>
+                         <date when="1878-05-26">26 maggio 1878</date>
+                        </imprint>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">16, 11</biblScope>
+                        <biblScope unit="page">276, 184</biblScope>
                     </monogr>
                 </biblStruct>
          </sourceDesc>         
@@ -165,16 +197,18 @@
     </facsimile>
 
     <text>
+        
+        <!-- Articoli -->
         <body>
             <div type="journal" org="composite">
-                <!-- ARTICOLO 1 -->
+                <!-- Articolo 1 -->
                 <div type="article" n="1" xml:lang="it" source="#art_1">
                     <pb n="1" facs="#p175" xml:id="pb175" />
                     <cb xml:id="c1_p175" n="1" corresp="#pb175"/>
                     <head facs="#p175" xml:id="pag175_tit" corresp="#p175_col1">
                         <lb />Filologia, psicologia e fisiologia dell'amore
                     </head>
-                    <ab xml:id="p175_par1" corresp="#p175_col1">
+                    <p xml:id="p175_par1" corresp="#p175_col1">
                         <lb />Non è soltanto perchè lo scritto del <roleName type="honorific">dottor</roleName> <name type="person" ref="#abel">Abel</name><ref type="bibliography" target="#abel_duboc_mantegazza">*</ref> sul con-
                         <lb />cetto dell'<term type="verbum">amore</term> in lingue diverse, è di data anteriore alla
                         <lb /><name type="bibl" ref="#psic">Psicologìa</name> del <roleName type="honorific">dottor</roleName> <name type="person" ref="duboc">Duboc</name> ed alla <name type="bibl" ref="#fisio">Fisiologia</name> del <roleName type="honorific">professor</roleName>
@@ -198,8 +232,8 @@
                         <lb /><distinct time="archaic"><choice><orig>intiero</orig><reg>intero</reg></choice></distinct>adotterebbe la prima felice invenzione che si pre-
                         <lb />sentasse, come ha adottato senza farsi pregare le cifre ara-
                         <lb />biche ed il sistema decimale.
-                    </ab>
-                    <ab xml:id="p175_par2" corresp="#p175_col1">
+                    </p>
+                    <p xml:id="p175_par2" corresp="#p175_col1">
                         <lb />Lo studio del <roleName type="honorific">dottor</roleName> <name type="person" ref="#abel">Abel</name> non <choice><abbr>s'</abbr><expan>si</expan></choice>occupa che di <num type="cardinal" value="4">quattro</num>
                         <lb />lingue — benché sia noto che egli sarebbe competente an-
                         <lb />che in molte altre — cioè: dell'ebraico come rivelazione
@@ -225,8 +259,8 @@
                         <lb />senza che gli autori lo dicano e quasi senza che ne abbiano
                         <lb />coscienza, dai libri del <roleName type="honorific">dottor</roleName> <name type="person" ref="#duboc">Duboc</name> e del <roleName type="honorific">professor</roleName> <name type="person" ref="#mantegazza">Man-
                         <lb />tegazza</name>.
-                    </ab>
-                    <ab xml:id="p175_par3_i" part="I" corresp="#p175_col1">
+                    </p>
+                    <p xml:id="p175_par3_i" part="I" corresp="#p175_col1">
                         <lb />Debbo però dichiarare <distinct time="archaic"><choice><orig>avanti</orig><reg>preliminarmente</reg></choice></distinct> che entrambi i nostri
                         <lb />autori mi sembrano aver fissato troppo stretti confini alla
                         <lb />passione che hanno studiato; che sono stati per me troppo
@@ -240,7 +274,7 @@
                         <lb />è equivalente a dire che <name type="character" ref="#medea">Medea</name> non amasse <name type="character" ref="#giasone">Giasone</name> o che
                         <lb /><name type="character" ref="#otello">Otello</name> non amasse <name type="character" ref="#desdemona">Desdemona</name>, e perciò si confuta da sé. Ma
                         <lb />anche la proposizione del <name type="person" ref="#mantegazza">Mantegazza</name> è, poco o assai, arbi-
-                    </ab>
+                    </p>
                     <ab type="bibliography" facs="#p175" xml:id="abel_duboc_mantegazza" corresp="#p175_col1">
                         <bibl>
                             <lb />*
@@ -276,7 +310,7 @@
                         </bibl>
                     </ab>
                     <cb xml:id="c2_p175" n="2" corresp="#pb175"/>
-                    <ab xml:id="p175_par3_f" part="F" corresp="#p175_col2">
+                    <p xml:id="p175_par3_f" part="F" corresp="#p175_col2">
                         <lb />traria. Quante volte accade che si desidera una donna, come
                         <lb />l'<name type="character" rend="italic" ref="#adolfo">Adolfo</name> di <name type="person" ref="#constant">Benjamin Constant</name> desidera <name type="character" ref="#ellenor_t">Ellénor</name>,<ref type="bibliography" target="#ellénor_n">*</ref> per pura
                         <lb />vanità e ci si trova poi presi nelle proprie reti (<quote xml:lang="la" rend="italic">capta cepit
@@ -289,13 +323,13 @@
                         <lb />fanciullo feriscono in mille modi, e che il piccolo furfante
                         <lb />sa prendere tutte le maschere, infilarsi in tutte le fessure,
                         <lb />pur di entrare vincitore in casa nostra.
-                    </ab>
-                    <ab xml:id="p175_par4" corresp="#p175_col2">
+                    </p>
+                    <p xml:id="p175_par4" corresp="#p175_col2">
                         <lb />Così pure i nostri due autori relegano troppa parte di
                         <lb />sentimento amoroso nelle due cerehie estreme dell'amicizia
                         <lb />o del desiderio, (<foreign xml:lang="de" rend="italic">Begierde</foreign>; il <name type="person" ref="#mantegazza">Mantegazza</name> dice meno gentil-
                         <lb />mente <term rend="italic">la Lussuria</term>). Dal momento in cui il desiderio cessa
-                        <lb /><choice><abbr>d'</abbr><expan>di</expan></choice>essere un appetito indeterminato che <choice><expan>vuol</expan><ex>e</ex></choice> essere soddi-
+                        <lb /><choice><abbr>d'</abbr><expan>di</expan></choice>essere un appetito indeterminato che <choice><abbr>vuol</abbr><expan>vuole</expan></choice> essere soddi-
                         <lb />sfatto; dal momento in cui si personifica, si fissa in modo un
                         <lb />po' durevole sull'individuo scelto, diventa amore, benchè
                         <lb />amore di forma molto inferiore. Il nobilitarlo, il purificarlo,
@@ -304,13 +338,13 @@
                         <lb />il <roleName type="honorific">professor</roleName> <name type="person" ref="#mantegazza">Mantegazza</name>, quanto per l'involontaria tendenza
                         <lb />della sua indole a prendere il disopra. All'incontro i si-
                         <lb />gnori <name type="person" ref="#mantegazza">Mantegazza</name> e <name type="person" ref="#duboc">Duboc</name>, — il primo soprattutto, poi-
-                        <lb />chè il <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name> ammette e definisce benissimo « <quote xml:lang="de">das
+                        <lb />chè il <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name> ammette e definisce benissimo « <quote xml:lang="de" source="#duboc">das
                         <lb />geschlechtlich angehauchte Sympathieverhältniss</quote> » (il rap-
                         <lb />porto di simpatia a tinta sessuale) sebbene egli neppure
                         <lb />non lo conti come amore — all' incontro, dicevo, i nostri
                         <lb />autori escludono troppo il platonismo dal regno dell'amore.
                         <lb />Forse <name type="person" ref="#ampere"><choice><abbr>J.-J.</abbr><expan>Jean-Jacques</expan></choice> Ampère</name> non amò <roleName type="honorific"><choice><abbr>Mme</abbr><expan>Madame</expan></choice></roleName> <name type="person" ref="#recamier">Récamier</name>, e <name type="person" ref="#varnhagen">Varnha-
-                        <lb />gen la Rachel</name>, che di semplice amicizia, perchè quelle donne
+                        <lb />gen</name> la <name type="person" ref="#rachel">Rachel</name>, che di semplice amicizia, perchè quelle donne
                         <lb />irresistibili avevano vent'anni più di loro? Il platonismo,
                         <lb />se esiste in forma, assoluta, ciò che non credo, può essere
                         <lb />un amore indebolito, affinato, eterizzato; ma non è meno
@@ -323,23 +357,23 @@
                         <lb />monarca sa benissimo adattarsi alle circostanze, e quando
                         <lb />vede che non c'è proprio verso di fare a modo suo, diventa
                         <lb />talvolta il Re più costituzionale del mondo.
-                    </ab>
-                    <ab xml:id="p175_par5" corresp="#p175_col2">
+                    </p>
+                    <p xml:id="p175_par5" corresp="#p175_col2">
                         <lb />Infine mi sembra che sia un disconoscere la natura
                         <lb />di questa strana passione il volerla rinchiudere nei limiti
                         <lb /><choice><abbr>d'</abbr><expan>di</expan></choice>una sola delle età della vita; ben si vede da ciò che
                         <lb />tanto il fisiologo quanto il psicologo, sono ancora nella
                         <lb />felice posizione di non sapere per esperienza ciò che <name type="person" ref="#ovidio">Ovidio</name>
                         <lb />imparò a suo danno:
-                        <lb /><quote xml:lang="la" source="#heroides_ovidio">Venit amor gravius quo serius: urim ur intus,
+                        <lb /><quote xml:lang="la" source="#heroides">Venit amor gravius quo serius: urim ur intus,
                         <lb />Urimur et cæcum pectora vulnus habent.</quote>
                         <lb /><name type="person" ref="#rousseau">Rousseau</name> aveva <num type="cardinal" value="50">cinquant</num>'anni quando amava <roleName type="honorific">madame</roleName> 
                         <lb /><name type="person" ref="#dhoudetot">d'Houdetot</name>, e <name type="person" ref="#goethe">Goethe</name> più di sessanta quando s'innamorò di
                         <lb /><roleName type="honorific">mademoiselle</roleName> <name type="person" ref="#delevezow">de Levezow</name>, e la prosa di <name type="person" ref="#rousseau">Rousseau</name> ed i versi
                         <lb />di <name type="person" ref="#goethe">Goethe</name> dicono abbastanza se quelli furono amori veri,
                         <lb />amori <distinct time="archaic"><choice><orig>intieri</orig><reg>interi</reg></choice></distinct>.
-                    </ab>
-                    <ab xml:id="p175_par6" corresp="#p175_col2">
+                    </p>
+                    <p xml:id="p175_par6" corresp="#p175_col2">
                         <lb />I nostri due osservatori non hanno soltanto ristretto il
                         <lb />terreno dell'amore; stimo anche che non fanno caso <choice><sic>suf-
                         <lb />cente</sic><corr>sufficiente</corr></choice> della parte che l'immaginazione ha nell'amore; o
@@ -348,11 +382,11 @@
                         <lb />nell'<choice><orig>incontrar</orig><reg>incontrare</reg></choice> una od uno, credono di riconoscere questo
                         <lb />ideale e si mettono ad amare. Molto maggiore, sembrami,
                         <lb />è la parte della immaginazione, dopo l'incontro degli « <quote>ato­-</quote>
-                    </ab>
+                    </p>
                     <note place="bottom" xml:id="ellenor_n" corresp="#p175_col2">* E non <name rend="italic">Eleonora</name> come scrive sempre il Dr Duboc.</note>
                     <pb n="2" facs="#p176" xml:id="pb176"/>
                     <cb xml:id="c1_p176" n="1" corresp="#pb176"/>
-                    <ab xml:id="p176_par1" corresp="#p176_col1">
+                    <p xml:id="p176_par1" corresp="#p176_col1">
                         <lb /><quote>mi uncinati.</quote> » Il dio agisce senza molto consultarci; egli
                         <lb />non ha altra preoccupazione, come dice eccellentemente il
                         <lb /><roleName type="honorific">professor</roleName> <name type="person" ref="#mantegazza">Mantegazza</name>, secondo <name type="person" ref="#schopenhauer">Schopenhauer</name> od almeno
@@ -365,10 +399,10 @@
                         <lb />che la bellezza, la bontà, l'intelligenza dell'oggetto amato
                         <lb />siano le cause del suo amore, mentre in realtà egli ame-
                         <lb />rebbe ugualmente quella persona brutta, cattiva e stolta,
-                        <lb />se questo entrasse nelle vedute di <name type="deity" ref="#eros">Eros</name>, il grande conser-
+                        <lb />se questo entrasse nelle vedute di <name type="person" ref="#eros">Eros</name>, il grande conser-
                         <lb />vatore delle razze.
-                    </ab>
-                    <ab xml:id="p176_par2" corresp="#p176_col1">
+                    </p>
+                    <p xml:id="p176_par2" corresp="#p176_col1">
                         <lb />E poiché il nome di <name type="person" ref="#schopenhauer">Schopenhauer</name> mi è venuto sotto la
                         <lb />penna, mi si permetta di non passare sotto silenzio la <num type="ordinal" value="4">quarta</num>
                         <lb />nota dell'appendice del <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name>. Tanto ciò che
@@ -376,15 +410,15 @@
                         <lb />tese nella forma, altrettanto io trovo poco conveniente
                         <lb />il tono con cui il <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name> parla di <name type="person" ref="#schopenhauer">Schopenhauer</name>. Non
                         <lb />si può dire «<quote> l'assurdità di <name type="person" ref="#schopenhauer">Schopenhauer</name> » come non si
-                        <lb />potrebbe dire</quote> « <quote>l'assurdità di Pascal » nè « l'assurdità di
+                        <lb />potrebbe dire</quote> « <quote>l'assurdità di <name type="person" ref="#pascal">Pascal</name> » nè « l'assurdità di
                         <lb /><name type="person" ref="#machiavelli">Machiavelli</name></quote>, » quand'anche geni di quel calibro avessero
                         <lb />per caso commesso una assurdità, cosa che può accadere:
-                        <lb /><quote xml:lang="la" rend="italic" source="#ars_poetica_orazio">quandoque bonus dormitat Homerus</quote>. Io ho d'altronde i miei
+                        <lb /><quote xml:lang="la" rend="italic" source="#ars_poetica">quandoque bonus dormitat Homerus</quote>. Io ho d'altronde i miei
                         <lb />sospetti che il <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name> non abbia riletto <name type="person" ref="#schopenhauer">Schopenhauer</name>,
                         <lb />da lui trattato con tanta disinvoltura, perchè egli non lo
-                        <lb />cita che dalle opere di <name type="person" ref="#hartmann">Hartmann</name>; e parla di una <name type="bibl" xml:lang="de" ref="#metaphysik">Har-
-                        <lb />tmann-Schopenhauerische Metaphysik der Liebe</name> come si potrebbe
-                        <lb />parlare <choice><abbr>d'</abbr><expan>di</expan></choice>una « <quote>Filosofia di <name type="person" ref="#caro">Caro</name> e <name type="person" ref="#cartesio">Descartes</name></quote>, » e come
+                        <lb />cita che dalle opere di <name type="person" ref="#hartmann">Hartmann</name>; e parla di una <soCalled xml:lang="de" rend="italic">Har-
+                        <lb />tmann-Schopenhauerische Metaphysik der Liebe</soCalled> come si potrebbe
+                        <lb />parlare <choice><abbr>d'</abbr><expan>di</expan></choice>una « <soCalled>Filosofia di <name type="person" ref="#caro">Caro</name> e <name type="person" ref="#cartesio">Descartes</name></soCalled>, » e come
                         <lb />se le teorie di quei due filosofi sull'amore fossero identi-
                         <lb />che. Io non ho letto <name type="person" ref="#hartmann">Hartmann</name> e non me ne dolgo se tutto
                         <lb />il suo libro è nello stile delle pagine citate dal <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Du-
@@ -394,8 +428,8 @@
                         <lb />passi citati non solamente differisce in tutto e per tutto
                         <lb />da quanto dice <name type="person" ref="#schopenhauer">Schopenhauer</name>, ma ne è talvolta la contrad-
                         <lb />dizione assoluta.
-                    </ab>
-                    <ab xml:id="p176_par3_i" part="I" corresp="#p176_col1">
+                    </p>
+                    <p xml:id="p176_par3_i" part="I" corresp="#p176_col1">
                         <lb />Fermiamoci però nella critica. Una discussione di que-
                         <lb />sti due lavori, come pure di quello del <roleName type="honorific">signor</roleName> <name type="person" ref="#abel">Abel</name>, ci
                         <lb />condurrebbe troppo in là, poiché chi scrive queste linee non
@@ -419,27 +453,27 @@
                         <lb />della vita: egli cerca soltanto di stabilire che cosa sia la
                         <lb /><foreign xml:lang="de" rend="italic"><term type="verbum">Liebe</term></foreign>. Quanto a me, confesso che mi è difficile collocarmi
                         <lb />all'uno o all'altro di questi punti di vista e che preferirei
-                        <lb /><distinct time="archaic"><choice><orig>di molto</orig><reg>molto</reg></choice></distinct>, se non avessi varcata da tempo l'età di Cheru-
-                        <lb />bino, porre ancora una volta alla <roleName type="nobility"><name type="character" ref="#contessa">Contessa</name></roleName>, e magari anche
+                        <lb /><distinct time="archaic"><choice><orig>di molto</orig><reg>molto</reg></choice></distinct>, se non avessi varcata da tempo l'età di <name type="character" ref="#cherubino">Cheru-
+                        <lb />bino</name>, porre ancora una volta alla <roleName type="nobility"><name type="character" ref="#contessa">Contessa</name></roleName>, e magari anche
                         <lb />a <name type="character" ref="#susanna">Susanna</name>, la famosa domanda:
-                        <lb /><quote source="#nozze_figaro_mozart">Voi che sapete
+                        <lb /><quote source="#nozze_figaro">Voi che sapete
                         <lb />Che cosa è amor</quote>....
-                    </ab>
+                    </p>
                     <cb xml:id="c2_p176" n="2" corresp="#p176_col2"/>
-                    <ab xml:id="p176_par3_f" part="F" corresp="#p176_col1">
+                    <p xml:id="p176_par3_f" part="F" corresp="#p176_col2">
                         <lb />Però siccome la <name type="bibl" ref="#ras_set" rend="italic"><choice><abbr>Rassegna</abbr><expan>Rassegna Settimanale</expan></choice></name> non è <distinct time="archaic"><choice><orig>guari</orig><reg resp="#mcamp">affatto</reg></choice></distinct> il luogo da proporre
                         <lb />tali domande nè da ricevervi risposte, mi <distinct time="archaic"><choice><orig>contenterò</orig><reg>accontenterò</reg></choice></distinct>, come
                         <lb /><distinct time="archaic"><choice><orig>feci presentire</orig><reg resp="mcamp">anticipai</reg></choice></distinct> al principio, di domandare a me stesso in
-                        <lb /><choice><expan>qual</expan><ex>e</ex></choice> modo, dato che si debba giudicare dai <roleName type="honorific">signori</roleName> <name type="person" ref="#mantegazza">Man-
+                        <lb /><choice><abbr>qual</abbr><expan>quale</expan></choice> modo, dato che si debba giudicare dai <roleName type="honorific">signori</roleName> <name type="person" ref="#mantegazza">Man-
                         <lb />tegazza</name> e <name type="person" ref="#duboc">Duboc</name>, <choice><abbr>gl'</abbr><expan>gli</expan></choice>Italiani e i Tedeschi ai dì nostri inten-
-                        <lb />dono l'amore. Dico « <quote>intendono</quote>, » perchè nel fare ciascuno
+                        <lb />dono l'amore. Dico « <soCalled>intendono</soCalled>, » perchè nel fare ciascuno
                         <lb />in questo mondo ha il suo metodo proprio. E mi appog-
                         <lb />gerò nel farlo alle eccellenti osservazioni del <roleName type="honorific">signor</roleName> <name type="person" ref="#abel">Abel</name>
                         <lb />che nel definire l'<foreign xml:lang="la" rend="italic"><term type="verbum">amor</term></foreign> dei Romani ed il <foreign xml:lang="en" rend="italic"><term type="verbum">love</term></foreign> degli Inglesi
                         <lb />ha definito anche qualche cosa di molto simile all'<term type="verbum" rend="italic">Amore</term>
                         <lb />italiano e alla <foreign xml:lang="de" rend="italic"><term type="verbum">Liebe</term></foreign> tedesca.
-                    </ab>
-                    <ab xml:id="p176_par4" corresp="#p176_col2">
+                    </p>
+                    <p xml:id="p176_par4" corresp="#p176_col2">
                         <lb />L'amore, come tutti i sentimenti e come tutti gli atti
                         <lb />dell'uomo, subisce l'influenza della civiltà in mezzo alla
                         <lb />quale si produce; e questa civiltà è alla sua volta il risul-
@@ -449,8 +483,8 @@
                         <lb />che questo fatto — il più importante della vita — sia di-
                         <lb />versamente considerato e trattato presso le diverse nazioni
                         <lb />appena cessa <choice><abbr>d'</abbr><expan>di</expan></choice>essere puramente animale.
-                    </ab>
-                    <ab xml:id="p176_par5" corresp="#p176_col2">
+                    </p>
+                    <p xml:id="p176_par5" corresp="#p176_col2">
                         <lb />Il punto di partenza è indubbiamente il temperamento
                         <lb />così diverso nelle diverse razze. Il languido Slavo deve cer-
                         <lb />tamente amare in altra <distinct time="archaic"><choice><orig>guisa</orig><reg resp="#mcamp">maniera</reg></choice></distinct> che il Celto petulante e
@@ -471,8 +505,8 @@
                         <lb />getto di tutte queste osservazioni, perchè una passione non
                         <lb />si mostra mai nella sua pienezza finché il bisogno ne sof-
                         <lb />foca o ne paralizza lo svolgimento; e l'amore soprattutto
-                        <lb /><distinct time="archaic"><choice><orig>abborre</orig><reg resp="mcamp">aborre</reg></choice></distinct> le cure della vita, perchè <quote xml:lang="la" rend="italic">sine Baccho et Cerere
-                        <lb />friget Venus</quote> — ma anche le classi tra cui i tipi e i concetti
+                        <lb /><distinct time="archaic"><choice><orig>abborre</orig><reg resp="mcamp">aborre</reg></choice></distinct> le cure della vita, perchè <quote xml:lang="la" rend="italic">sine <name type="person" ref="#bacco">Baccho</name> et <name type="person" ref="#cerere">Cerere</name>
+                        <lb />friget <name type="person" ref="#venere">Venus</name></quote> — ma anche le classi tra cui i tipi e i concetti
                         <lb />letterari non penetrano che indirettamente, se ne risentono
                         <lb />sempre. La letteratura tedesca, per esempio, ha avuto il
                         <lb />suo apogeo nel momento in cui il mondo <distinct time="archaic"><choice><orig>intiero</orig><reg>intero</reg></choice></distinct> era affetto
@@ -485,12 +519,12 @@
                         <lb />ne ha conservato un che di misurato, di ragionevole, ani-
                         <lb />mato da una certa gaiezza alla buona e piena di spirito.
                         <lb />Nella <foreign xml:lang="de" rend="italic"><term type="verbum">Liebe</term></foreign> tedesca è rimasto un po' di <foreign xml:lang="de" rend="italic">Schwärmerei</foreign>.
-                    </ab>
-                    <ab xml:id="p176_par6" corresp="#p176_col2">
+                    </p>
+                    <p xml:id="p176_par6" corresp="#p176_col2">
                         <lb />Per venire all'<name type="place" ref="#it">Italia</name>, quando leggo il libro del <roleName type="honorific"><choice><abbr>prof.</abbr><expan>professor</expan></choice></roleName> <name type="person" ref="#mantegazza">Man-
                         <lb />tegazza</name> si direbbe che l'amore italiano sia tutto passione e
                         <lb />che non ammetta cosa alcuna all'infuori della passione, di
-                        <lb /><quote xml:lang="fr" rend="italic" source="#fedra_racine"><name type="deity" ref="#venere">Vénus</name> tout entière à sa proie attachée</quote>.
+                        <lb /><quote xml:lang="fr" rend="italic" source="#fedra"><name type="person" ref="#venere">Vénus</name> tout entière à sa proie attachée</quote>.
                         <lb />Tutto ciò che non è passione — esclusiva, beninteso, cioè
                         <lb />concentrata sopra un unico oggetto — entra pel nostro au-
                         <lb />tore nel campo della patologia; e sarebbe cosa difficile il
@@ -500,13 +534,13 @@
                         <lb />massaia di questo fondo di passione. Inoltre la fedeltà vi
                         <lb />tiene un posto importante. E bene ammesso che si possa
                         <lb />ingannarsi una prima volta; e <name type="person" ref="#mantegazza">Mantegazza</name> scongiura i suoi
-                    </ab>
+                    </p>
                     <pb n="3" facs="#p177" xml:id="pb177"/>
                     <cb xml:id="c1_p177" n="1" corresp="#pb177"/>
-                    <ab xml:id="p177_par1" corresp="#p177_col1">
-                        <lb />giovani lettori di non legarsi con giuramenti, come se <name type="deity" ref="#giove">Giove</name>
+                    <p xml:id="p177_par1" corresp="#p177_col1">
+                        <lb />giovani lettori di non legarsi con giuramenti, come se <name type="person" ref="#giove">Giove</name>
                         <lb />non ridesse dei giuramenti degli innamorati!
-                        <lb /><quote xml:lang="la" rend="italic" source="#elegie_tibullo">Nec jurare time: <name type="deity" ref="#venere">Veneris</name> perjuria venti
+                        <lb /><quote xml:lang="la" rend="italic" source="#elegie">Nec jurare time: <name type="person" ref="#venere">Veneris</name> perjuria venti
                         <lb />Irrita per terras et freta summa ferunt.</quote>
                         <lb />Ma egli non sembra credere che l'amore possa ancora,
                         <lb />dopo trovato il vero oggetto, cambiarlo per un altro, senza
@@ -525,8 +559,8 @@
                         <lb />se i primi passi vengono dalla donna. Non sono però certo
                         <lb />che in ciò tutti <choice><abbr>gl'</abbr><reg>gli</reg></choice>italiani <distinct time="archaic"><choice><orig>dividano</orig><reg>condividano</reg></choice></distinct> l'opinione del loro illu-
                         <lb />stre compatriota.
-                    </ab>
-                    <ab xml:id="p177_par2" corresp="#p177_col1">
+                    </p>
+                    <p xml:id="p177_par2" corresp="#p177_col1">
                         <lb />Quando leggo poi un libro come quello del <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name>
                         <lb />nel quale l'<choice><abbr>A.</abbr><expan>Autore</expan></choice>, colla maggior flemma del mondo e colla più
                         <lb />coscienziosa ingenuità, espone come l'amore sia per natura
@@ -541,7 +575,7 @@
                         <lb />lontane. E quando poi osservo la vita del più grande dei
                         <lb />tedeschi, di <name type="person" ref="#goethe">Goethe</name>, che pare una illustrazione perpetua
                         <lb />dei suoi versi giovanili:
-                        <lb /><quote xml:id="cit_goethe" xml:lang="de" rend="italic" source="#gedichte_goethe">Es küsst sich so süsse die Lippe der Zweiten
+                        <lb /><quote xml:id="cit_goethe" xml:lang="de" rend="italic" source="#gedichte">Es küsst sich so süsse die Lippe der Zweiten
                         <lb />Als kaum sich die Lippe der Ersten geküsst.</quote>
                         <lb />«<quote type="translation" xml:lang="it" corresp="#cit_goethe">(L'amore della seconda ha baci sì dolci quali appena si
                         <lb />coglievano sulle labbra della prima</quote>,) » quando veggo che in
@@ -559,8 +593,8 @@
                         <lb />amore, benché somigli più alla <distinct time="archaic"><choice><orig>bragia</orig><reg>brace</reg></choice></distinct> che scalda e con-
                         <lb />suma che non alla fiamma che crepita e brilla, ma talvolta
                         <lb />lascia intatto il midollo del ramo che scintilla e riluce lontano.
-                    </ab>
-                    <ab xml:id="p177_par3_i" part="I" corresp="#p177_col1">  
+                    </p>
+                    <p xml:id="p177_par3_i" part="I" corresp="#p177_col1">  
                         <lb />Si consideri anche la differenza di costumi. L'amore
                         <lb />generato dall'abitudine, così frequente in <name type="place" ref="#germ">Germania</name>, ove i
                         <lb />due sessi sono così liberi nei loro reciproci rapporti, è for-
@@ -572,16 +606,16 @@
                         <lb />tanto per lentezza di temperamento quanto per effetto <choice><abbr>d'</abbr><reg>di</reg></choice>una
                         <lb />secolare educazione. Ma è qui che l'amore prende la sua
                         <lb />rivincita:
-                        <lb /><quote xml:lang="la" rend="italic" source="#ovidio">Intrat amor mentes usu:</quote>
-                        <lb />(è vero che il poeta aggiunge: <quote xml:lang="la" rend="italic">dediscitur usu</quote>) e non perde
+                        <lb /><quote xml:lang="la" rend="italic" source="#remedia_amoris">Intrat amor mentes usu:</quote>
+                        <lb />(è vero che il poeta aggiunge: <quote xml:lang="la" rend="italic" source="#remedia_amoris">dediscitur usu</quote>) e non perde
                         <lb />nulla nel cambio: poichè sia che si scivoli dolcemente nel-
-                    </ab>
+                    </p>
                     <cb xml:id="c2_p177" n="2" corresp="#pb177"/>
-                    <ab xml:id="p177_par3_f" part="F" corresp="#p177_col2">        
+                    <p xml:id="p177_par3_f" part="F" corresp="#p177_col2">        
                         <lb />l'amore o che vi si precipiti con gran fracasso, si arriva
                         <lb />sempre all'amore.
-                    </ab>
-                    <ab xml:id="p177_par4" corresp="#p177_col2">    
+                    </p>
+                    <p xml:id="p177_par4" corresp="#p177_col2">    
                         <lb />Quanto alla maggiore o minore sensualità delle razze
                         <lb />diverse — se è permesso di toccare questo tasto delicato —
                         <lb />ci credo ben poco. In ciò ancora l'abitudine — abitudine
@@ -604,8 +638,8 @@
                         <lb />noi stessi in seguito: «<said direct="true" aloud="true"> Che volete? l'abbiamo nel sangue!
                         <lb />Siamo organizzati diversamente da voi altri, gente apa-
                         <lb />tica <distinct type="archaic"><choice><orig>ec.</orig><reg>ecc.</reg></choice></distinct> </said>»
-                    </ab>
-                    <ab xml:id="p177_par5" corresp="#p177_col2">    
+                    </p>
+                    <p xml:id="p177_par5" corresp="#p177_col2">    
                         <lb />Prendete, per esempio, la gelosia. Non nego che il me-
                         <lb />ridionale la senta naturalmente con maggiore vivacità del-
                         <lb />l'uomo del Nord, cioè che il suo amor proprio, il suo sen-
@@ -629,8 +663,8 @@
                         <lb />ha perfettamente ragione; soltanto egli ha il torto di cre-
                         <lb />dere questo sentimento universale, mentre non è che tede-
                         <lb />sco. Io ho un sospetto financo che <roleName type="honorific"><choice><abbr>Mme</abbr><expan>Madame</expan></choice></roleName> <name type="person" ref="#sand"><choice><abbr>G.</abbr><reg>Giorgio</reg></choice> Sand</name> quando
-                        <lb />creò il tipo di <name type="bibl" ref="#jacques" rend="italic">Jacques</name> avesse dinanzi un precedente tede-
-                        <lb />sco; perchè i <name type="character" ref="#jacques" rend="italic">Jacques</name> non sono rari in <name type="place" ref="#germ">Germania</name> ed il di-
+                        <lb />creò il tipo di <name type="bibl" ref="#jacques_work" rend="italic">Jacques</name> avesse dinanzi un precedente tede-
+                        <lb />sco; perchè i <name type="character" ref="#jacques_char" rend="italic">Jacques</name> non sono rari in <name type="place" ref="#germ">Germania</name> ed il di-
                         <lb />vorzio permette loro di <distinct type="archaic"><choice><orig>sagrificarsi</orig><reg>sacrificarsi</reg></choice></distinct> senza andare a perdersi
                         <lb />tra i precipizi delle <name type="place" ref="#alpi">Alpi</name> come l'eroe di <name type="person" ref="#sand">Giorgio Sand</name> che
                         <lb />in <name type="place" ref="#fr">Francia</name> non ha provocato che un sorriso. Ebbene, si può
@@ -641,8 +675,8 @@
                         <lb />deve credere che i suoi romanzi non abbiano ispirato mi-
                         <lb />gliaia <choice><abbr>d'</abbr><expan>di</expan></choice>amori — e <choice><abbr>d'</abbr><expan>di</expan></choice>amori sincerissimi — a donne incom-
                         <lb />prese?
-                    </ab>
-                    <ab xml:id="p177_par6" corresp="#p177_col2">    
+                    </p>
+                    <p xml:id="p177_par6" corresp="#p177_col2">    
                         <lb />Amori sinceri, ho detto, e veri; altrettanto quanto credo
                         <lb />veri i lunghi amori esclusivi, anche essendo persuaso che
                         <lb />la natura ci ha creati per gli amori intermittenti — non
@@ -650,13 +684,13 @@
                         <lb />felice, completo, in cui sensi e cuore entrino in parte uguale
                         <lb />non oltrepasserebbe forse qualche mese, se la civiltà non
                         <lb />venisse a correggere la natura.
-                    </ab>
-                    <ab xml:id="p177_par7" corresp="#p177_col2">   
+                    </p>
+                    <p xml:id="p177_par7" corresp="#p177_col2">   
                         <lb />Difatti, non c'è ai nostri giorni pregiudizio più diffuso di
-                    </ab>
+                    </p>
                     <pb n="4" facs="#p178" xml:id="pb178"/>
                     <cb xml:id="c1_p178" n="1" corresp="#pb178"/>
-                    <ab xml:id="p178_par1" corresp="#p178_col1">
+                    <p xml:id="p178_par1" corresp="#p178_col1">
                         <lb />quello che ci fa considerare come falsi tutti i sentimenti artifi-
                         <lb />ciali, e come veri i sentimenti primitivi soltanto; pregiudizio
                         <lb />del resto che professiamo solamente a parole e che contrad-
@@ -679,29 +713,660 @@
                         <lb />Non trattiamo dunque troppo l'amore — coniugale od extra
                         <lb />legale — come una passione primitiva dell'uomo, e perciò
                         <lb />universale, identica dappertutto, da non potersi giudicare,
-                        <lb />che dietro un <choice><expan>sol</expan><ex>o</ex></choice> tipo; difetto dal quale i nostri due autori
+                        <lb />che dietro un <choice><abbr>sol</abbr><expan>solo</expan></choice> tipo; difetto dal quale i nostri due autori
                         <lb />non hanno sempre saputo guardarsi abbastanza; ed ammet-
                         <lb />tiamo che nelle nostre società complicate, l'amore ha sa-
                         <lb />puto assumere forme e procedimenti diversissimi secondo
                         <lb />le esigenze di queste società; ciò che non gli impedisce di
                         <lb />essere in fondo dappertutto e sempre lo stesso fanciullo
                         <lb />male avvezzo di cui disse <name type="person" ref="#voltaire">Voltaire</name>:
-                        <lb /><quote xml:lang="fr" rend="italic" source="poesies_voltaire">Qui que tu sois, voici ton maître;
+                        <lb /><quote xml:lang="fr" rend="italic" source="#voltaire">Qui que tu sois, voici ton maître;
                         <lb />Il l'est, le fut, ou il va l'être</quote>.
                         <lb />e che <name type="person" ref="#shakespeare">Shakespeare</name> ha ritratto in una delle sue più graziose
                         <lb />commedie quasi tanto somigliante quanto lo delinearono i
-                        <lb /><roleName type="honorific">signori</roleName> <name type="person" ref="#mantegazza">Mantegazza</name> e <name type="person" ref="#duboc">Duboc</name>: <quote xml:lang="en" rend="italic" source="comevipiace_shakesp">that same wicked bastard of
+                        <lb /><roleName type="honorific">signori</roleName> <name type="person" ref="#mantegazza">Mantegazza</name> e <name type="person" ref="#duboc">Duboc</name>: <quote xml:lang="en" rend="italic" source="#comevipiace">that same wicked bastard of
                         <lb />Venus, that was begot of thought, conceived of spleen, and
                         <lb />born of madness; that blind rascally boy that abuses every
                         <lb />one's eyes, because his own are out</quote>.
-                    </ab>
+                    </p>
                     <closer xml:id="p178_author" corresp="#p178_col1">
                         <signed rend="align(right) case(allcaps)">
                             <name><abbr>H.</abbr></name>
                         </signed>
                     </closer>
                 </div>
+                <!-- Articolo 2 -->
             </div>
         </body>
+
+        <!-- Appendice -->
+        <back>
+            <div>
+
+                <listPerson>
+                    <head>Elenco delle persone:</head>
+                    <!-- Articolo 1 -->
+                    <person xml:id="abel" sex="M">
+                        <persName>
+                            <ref target="https://en.wikipedia.org/wiki/Carl_Abel"/>
+                            <forename>Carl</forename>
+                            <surname>Abel</surname>
+                        </persName>
+                        <birth>
+                            <date when="1837-11-25">25/11/1837</date>
+                        </birth>
+                        <death>
+                            <date when="1906-11-26">26/11/1906</date>
+                        </death>
+                        <occupation>Filologo</occupation>
+                    </person>
+                    <person xml:id="duboc" sex="M">
+                        <persName>
+                            <ref target="https://en.wikipedia.org/wiki/Julius_Duboc"/>
+                            <forename>Julius</forename>
+                            <surname>Duboc</surname>
+                        </persName>
+                        <birth>
+                            <date when="1829-10-10">10/10/1829</date>
+                        </birth>
+                        <death>
+                            <date when="1903-06-11">11/06/1903</date>
+                        </death>
+                        <occupation>Scrittore e filosofo</occupation>
+                    </person>
+                    <person xml:id="mantegazza" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Paolo_Mantegazza"/>
+                            <forename>Paolo</forename>
+                            <surname>Mantegazza</surname>
+                        </persName>
+                        <birth>
+                            <date when="1831-10-31">31/10/1831</date>
+                        </birth>
+                        <death>
+                            <date when="1910-08-28">28/08/1910</date>
+                        </death>
+                        <occupation>Fisiologo, patologo, igienista, neurologo, antropologo e romanziere</occupation>
+                    </person>
+                    <person xml:id="michelet" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Jules_Michelet"/>
+                            <forename>Jules</forename>
+                            <surname>Michelet</surname>
+                        </persName>
+                        <birth>
+                            <date when="1798-08-21">21/08/1798</date>
+                        </birth>
+                        <death>
+                            <date when="1874-02-09">09/02/1874</date>
+                        </death>
+                        <occupation>Scrittore e storico</occupation>
+                    </person>
+                    <person xml:id="constant" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Benjamin_Constant"/>
+                            <forename>Henri-Benjamin</forename>
+                            <surname>Constant de Rebecque</surname>
+                        </persName>
+                        <birth>
+                            <date when="1767-10-25">25/10/1767</date>
+                        </birth>
+                        <death>
+                            <date when="1830-12-08">08/12/1830</date>
+                        </death>
+                        <occupation>Scrittore, politico, scienziato politico, nobile ed intellettuale</occupation>
+                    </person>
+                    <person xml:id="ampere" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Jean-Jacques_Amp%C3%A8re"/>
+                            <forename>Jean-Jacques</forename>
+                            <surname>Ampère</surname>
+                        </persName>
+                        <birth>
+                            <date when="1800-08-12">12/08/1800</date>
+                        </birth>
+                        <death>
+                            <date when="1864-03-27">27/03/1864</date>
+                        </death>
+                        <occupation>Scrittore</occupation>
+                    </person>
+                    <person xml:id="recamier" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Juliette_R%C3%A9camier"/>
+                            <forename>Juliette</forename>
+                            <surname>Récamier</surname>
+                        </persName>
+                        <birth>
+                            <date when="1777-12-03">03/12/1777</date>
+                        </birth>
+                        <death>
+                            <date when="1849-05-11">11/05/1849</date>
+                        </death>
+                        <occupation>Salottiera</occupation>
+                    </person>
+                    <person xml:id="varnhagen" sex="M">
+                        <persName>
+                            <ref target="https://en.wikipedia.org/wiki/Karl_August_Varnhagen_von_Ense"/>
+                            <forename>Karl August</forename>
+                            <surname>Varnhagen von Ense</surname>
+                        </persName>
+                        <birth>
+                            <date when="1785-02-21">21/02/1785</date>
+                        </birth>
+                        <death>
+                            <date when="1858-10-10">10/10/1858</date>
+                        </death>
+                        <occupation>Biografo e diplomatico</occupation>
+                    </person>
+                    <person xml:id="rachel" sex="F">
+                        <persName>
+                            <ref target="https://en.wikipedia.org/wiki/Karl_August_Varnhagen_von_Ense"/>
+                            <forename>Rahel</forename>
+                            <surname>Varnhagen</surname>
+                        </persName>
+                        <birth>
+                            <date when="1785-02-21">21/02/1785</date>
+                        </birth>
+                        <death>
+                            <date when="1858-10-10">10/10/1858</date>
+                        </death>
+                        <occupation>Scrittrice</occupation>
+                    </person>
+                    <person xml:id="ovidio" sex="M">
+                        <persName>
+                            <ref target="https://en.wikipedia.org/wiki/Karl_August_Varnhagen_von_Ense"/>
+                            <forename>Publio Ovidio</forename>
+                            <surname>Nasone</surname>
+                        </persName>
+                        <birth>
+                            <date when="-0043-03-20">20 marzo 43 a.C.</date>
+                        </birth>
+                        <death>
+                            <date from="0017" to="0018">17-18 d.C.</date>
+                        </death>
+                        <occupation>Poeta</occupation>
+                    </person>
+                    <person xml:id="rousseau" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Jean-Jacques_Rousseau"/>
+                            <forename>Jean-Jacques</forename>
+                            <surname>Rousseau</surname>
+                        </persName>
+                        <birth>
+                            <date when="1712-06-28">28/06/1712</date>
+                        </birth>
+                        <death>
+                            <date when="1778-07-02">02/07/1778</date>
+                        </death>
+                        <occupation>Filosofo e scrittore</occupation>
+                    </person>
+                    <person xml:id="dhoudetot" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Sophie_d%27Houdetot"/>
+                            <forename>Sophie</forename>
+                            <surname>d'Houdetot</surname>
+                        </persName>
+                        <birth>
+                            <date when="1730-12-18">18/12/1730</date>
+                        </birth>
+                        <death>
+                            <date when="1813-01-28">28/01/1813</date>
+                        </death>
+                        <occupation>Nobile</occupation>
+                    </person>
+                    <person xml:id="goethe" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe"/>
+                            <forename>Johann Wolfgang</forename>
+                            <surname>von Goethe</surname>
+                        </persName>
+                        <birth>
+                            <date when="1749-08-28">28/08/1749</date>
+                        </birth>
+                        <death>
+                            <date when="1832-03-22">22/02/1832</date>
+                        </death>
+                        <occupation>Poeta, drammaturgo, scrittore e scienziato</occupation>
+                    </person>
+                    <person xml:id="delevezow" sex="F">
+                        <persName>
+                            <ref target="https://www.treccani.it/enciclopedia/ulrike-von-levetzow/"/>
+                            <forename>Ulrike</forename>
+                            <surname>von Levetzow</surname>
+                        </persName>
+                        <birth>
+                            <date notBefore="1804">1804</date>
+                        </birth>
+                        <death>
+                            <date notAfter="1899">1899</date>
+                        </death>
+                        <occupation>Nobile</occupation>
+                    </person>
+                    <person xml:id="schopenhauer" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Arthur_Schopenhauer"/>
+                            <forename>Arthur</forename>
+                            <surname>Schopenhauer</surname>
+                        </persName>
+                        <birth>
+                            <date when="1788-02-22">22/02/1788</date>
+                        </birth>
+                        <death>
+                            <date when="1860-09-21">21/09/1860</date>
+                        </death>
+                        <occupation>Filosofo</occupation>
+                    </person>
+                    <person xml:id="eros" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Eros"/>
+                            <forename>Eros</forename>
+                            <forename xml:lang="gr">Ἔρως</forename>
+                        </persName>
+                        <occupation>Divinità greca</occupation>
+                    </person>
+                    <person xml:id="mill" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/John_Stuart_Mill"/>
+                            <forename>John Stuart</forename>
+                            <surname>Mill</surname>
+                        </persName>
+                        <birth>
+                            <date when="1806-05-20">20/05/1806</date>
+                        </birth>
+                        <death>
+                            <date when="1873-05-08">08/05/1873</date>
+                        </death>
+                        <occupation>Filosofo ed economista</occupation>
+                    </person>
+                    <person xml:id="machiavelli" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli"/>
+                            <forename>Niccolò</forename>
+                            <surname>Machiavelli</surname>
+                        </persName>
+                        <birth>
+                            <date when="1469-05-03">03/05/1469</date>
+                        </birth>
+                        <death>
+                            <date when="1527-06-21">21/06/1527</date>
+                        </death>
+                        <occupation>Politico, diplomatico, scrittore, storico e filosofo</occupation>
+                    </person>
+                    <person xml:id="hartmann" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Eduard_von_Hartmann"/>
+                            <forename>Eduard</forename>
+                            <surname>von Hartmann</surname>
+                        </persName>
+                        <birth>
+                            <date when="1842-02-23">23/02/1842</date>
+                        </birth>
+                        <death>
+                            <date when="1906-06-05">05/06/1906</date>
+                        </death>
+                        <occupation>Filosofo</occupation>
+                    </person>
+                    <person xml:id="caro" sex="M">
+                        <persName>
+                            <ref target="unknown"/>
+                            <surname>Caro</surname>
+                        </persName>
+                        <occupation>Filosofo</occupation>
+                    </person>
+                    <person xml:id="cartesio" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Eduard_von_Hartmann"/>
+                            <forename>Eduard</forename>
+                            <surname>von Hartmann</surname>
+                        </persName>
+                        <birth>
+                            <date when="1842-02-23">23/02/1842</date>
+                        </birth>
+                        <death>
+                            <date when="1906-06-05">05/06/1906</date>
+                        </death>
+                        <occupation>Filosofo</occupation>
+                    </person>
+                    <person xml:id="pascal" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Blaise_Pascal"/>
+                            <forename>Blaise</forename>
+                            <surname>Pascal</surname>
+                        </persName>
+                        <birth>
+                            <date when="1623-06-19">19/06/1623</date>
+                        </birth>
+                        <death>
+                            <date when="1662-08-19">19/08/1662</date>
+                        </death>
+                        <occupation>Filosofo</occupation>
+                    </person>
+                    <person xml:id="montesquieu" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Montesquieu"/>
+                            <forename>Charles-Louis</forename>
+                            <surname>de Secondat</surname>
+                        </persName>
+                        <birth>
+                            <date when="1689-01-18">18/01/1689</date>
+                        </birth>
+                        <death>
+                            <date when="1755-02-10">10/02/1775</date>
+                        </death>
+                        <occupation>Filosofo, giurista e storico</occupation>
+                    </person>
+                    <person xml:id="taine" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Hippolyte_Taine"/>
+                            <forename>Hippolyte</forename>
+                            <surname>Taine</surname>
+                        </persName>
+                        <birth>
+                            <date when="1828-04-21">21/04/1828</date>
+                        </birth>
+                        <death>
+                            <date when="1893-03-05">05/03/1893</date>
+                        </death>
+                        <occupation>Filosofo, storico e critico letterario</occupation>
+                    </person>
+                    <person xml:id="bacco" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Bacco"/>
+                            <forename>Bacco</forename>
+                        </persName>
+                        <occupation>Divinità greco-romana</occupation>
+                    </person>
+                    <person xml:id="cerere" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Cerere"/>
+                            <forename>Cerere</forename>
+                        </persName>
+                        <occupation>Divinità greco-romana</occupation>
+                    </person>
+                    <person xml:id="venere" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Venere_(divinit%C3%A0)"/>
+                            <forename>Venere</forename>
+                        </persName>
+                        <occupation>Divinità greco-romana</occupation>
+                    </person>
+                    <person xml:id="giove" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Giove_(divinit%C3%A0)"/>
+                            <forename>Venere</forename>
+                        </persName>
+                        <occupation>Divinità greco-romana</occupation>
+                    </person>
+                    <person xml:id="caterinaII" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Caterina_II_di_Russia"/>
+                            <forename>Caterina</forename>
+                            <genName>II</genName>
+                            <addName type="epithet">la Grande</addName>
+                        </persName>
+                        <birth>
+                            <date when="1729-05-02">02/05/1729</date>
+                        </birth>
+                        <death>
+                            <date when="1796-11-17">17/11/1796</date>
+                        </death>
+                        <occupation>Imperatrice di Russia</occupation>
+                    </person>
+                    <person xml:id="sand" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/George_Sand"/>
+                            <forename>Amantine Aurore Lucile</forename>
+                            <surname>Dupin</surname>
+                            <addName type="pseudonym">George Sand</addName>
+                        </persName>
+                        <birth>
+                            <date when="1804-07-01">01/07/1804</date>
+                        </birth>
+                        <death>
+                            <date when="1876-06-08">08/06/1826</date>
+                        </death>
+                        <occupation>Scrittrice e drammaturga</occupation>
+                    </person>
+                    <person xml:id="voltaire" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Voltaire"/>
+                            <forename>François-Marie</forename>
+                            <surname>Arouet</surname>
+                            <addName type="pseudonym">Voltaire</addName>
+                        </persName>
+                        <birth>
+                            <date when="1694-11-21">21/11/1694</date>
+                        </birth>
+                        <death>
+                            <date when="1778-05-30">30/05/1778</date>
+                        </death>
+                        <occupation>Scrittore e filosofo</occupation>
+                    </person>
+                    <person xml:id="shakespeare" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/William_Shakespeare"/>
+                            <forename>William</forename>
+                            <surname>Shakespeare</surname>
+                        </persName>
+                        <birth>
+                            <date notBefore="1564">1564</date>
+                        </birth>
+                        <death>
+                            <date when="1616-04-23">23/04/1616</date>
+                        </death>
+                        <occupation>Drammaturgo e poeta</occupation>
+                    </person>
+                    <person xml:id="medea" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Medea"/>
+                            <name>Medea</name>
+                        </persName>
+                        <occupation>Personaggio mitologico</occupation>
+                    </person>
+                    <person xml:id="giasone" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Giasone_(mitologia)"/>
+                            <name>Giasone</name>
+                        </persName>
+                        <occupation>Personaggio mitologico</occupation>
+                    </person>
+                    <person xml:id="otello" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Otello"/>
+                            <name>Otello</name>
+                        </persName>
+                        <occupation>Personaggio drammatico</occupation>
+                    </person>
+                    <person xml:id="desdemona" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Desdemona_(personaggio)"/>
+                            <name>Desdemona</name>
+                        </persName>
+                        <occupation>Personaggio drammatico</occupation>
+                    </person>
+                    <person xml:id="adolfo" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Adolphe_(romanzo)"/>
+                            <name>Adolphe</name>
+                        </persName>
+                        <occupation>Personaggio letterario</occupation>
+                    </person>
+                    <person xml:id="ellenor_t" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Adolphe_(romanzo)"/>
+                            <name>Ellénore</name>
+                        </persName>
+                        <occupation>Personaggio letterario</occupation>
+                    </person>
+                    <person xml:id="cherubino" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Le_nozze_di_Figaro"/>
+                            <name>Cherubino</name>
+                        </persName>
+                        <occupation>Personaggio operistico</occupation>
+                    </person>
+                    <person xml:id="contessa" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Le_nozze_di_Figaro"/>
+                            <name>Contessa di Almaviva</name>
+                        </persName>
+                        <occupation>Personaggio operistico</occupation>
+                    </person>
+                    <person xml:id="susanna" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Le_nozze_di_Figaro"/>
+                            <name>Susanna</name>
+                        </persName>
+                        <occupation>Personaggio operistico</occupation>
+                    </person>
+                    <person xml:id="werther" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/I_dolori_del_giovane_Werther"/>
+                            <name>Werter</name>
+                        </persName>
+                        <occupation>Personaggio letterario</occupation>
+                    </person>
+                    <person xml:id="ortis" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Ultime_lettere_di_Jacopo_Ortis"/>
+                            <name>Jacopo Ortis</name>
+                        </persName>
+                        <occupation>Personaggio letterario</occupation>
+                    </person>
+                    <person xml:id="jacques_char" sex="M">
+                        <persName>
+                            <ref target="https://en.wikipedia.org/wiki/Jacques_(novel)"/>
+                            <name>Jacques</name>
+                        </persName>
+                        <occupation>Personaggio letterario</occupation>
+                    </person>
+                </listPerson>
+
+                <listPlace>
+                    <head>Elenco dei luoghi:</head>
+                    <!-- Articolo 1 -->
+                    <place xml:id="it" type="nation">
+                        <placeName>Italia</placeName>
+                        <location>
+                            <bloc>Europa</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="germ" type="nation">
+                        <placeName>Germania</placeName>
+                        <location>
+                            <bloc>Europa</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="fr" type="nation">
+                        <placeName>Francia</placeName>
+                        <location>
+                            <bloc>Europa</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="alpi" type="mountain">
+                        <placeName>Alpi</placeName>
+                        <location>
+                            <bloc>Europa</bloc>
+                            <country>Italia</country>
+                        </location>
+                    </place>
+                </listPlace>
+
+                <listBibl>
+                    <head>Elenco dei riferimenti letterari:</head>
+                    <!-- Articolo 1 -->
+                    <bibl xml:id="psic">
+                        <title xml:lang="de">Die Psychologie der Liebe</title>
+                        <author>Julius Duboc</author>
+                        <date>1874</date>
+                        <ref target="https://books.google.it/books/about/Die_Psychologie_der_Liebe.html?id=XxIVkKea01oC&amp;redir_esc=y" />
+                    </bibl>
+                    <bibl xml:id="fisio">
+                        <title xml:lang="de">La fisiologia dell'amore</title>
+                        <author>Paolo Mantegazza</author>
+                        <date>1875 (seconda ed.)</date>
+                        <ref target="https://www.google.it/books/edition/Fisiologia_dell_amore/poFTILsnwgcC?hl=it&amp;gbpv=0" />
+                    </bibl>
+                    <bibl xml:id="filol">
+                        <title xml:lang="de">Ueber den Begriff der Liebe in einigen alten und neuen Sprachen</title>
+                        <author>Carl Abel</author>
+                        <date>1872</date>
+                        <ref target="https://books.google.it/books?id=nbhSAAAAcAAJ&amp;printsec=frontcover&amp;hl=it&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false" />
+                    </bibl>
+                    <bibl xml:id="jacques_work">
+                        <title xml:lang="fr">Jacques</title>
+                        <author>George Sand</author>
+                        <date>1833</date>
+                        <ref target="https://en.wikipedia.org/wiki/Jacques_(novel)" />
+                    </bibl>
+                    <bibl xml:id="ras_set">
+                        <title>La Rassegna Settimanale</title>
+                        <respStmt>
+                            <resp>fondata da</resp>
+                            <name>Leopoldo Franchetti</name>
+                            <name>Sydney Sonnino</name>
+                        </respStmt>
+                        <editor>Casa editrice Barbera</editor>
+                        <date from="1878-01-06" to="1882-01-29">1878-1882</date>
+                        <ref target="https://it.wikipedia.org/wiki/Rassegna_settimanale"></ref>
+                    </bibl>
+                    <bibl xml:id="heroides">
+                        <title xml:lang="la">Heroides</title>
+                        <author ref="#ovidio">Publio Ovidio Nasone</author>
+                        <date>25-16 a.C.</date>
+                        <ref target="https://it.wikipedia.org/wiki/Eroidi"></ref>
+                    </bibl>
+                    <bibl xml:id="ars_poetica">
+                        <title xml:lang="la">Ars Poetica</title>
+                        <author>Quinto Orazio Flacco</author>
+                        <date>13 a.C.</date>
+                        <ref target="https://it.wikipedia.org/wiki/Epistola_ai_Pisoni"></ref>
+                    </bibl>
+                    <bibl xml:id="nozze_figaro">
+                        <title>Le nozze di Figaro</title>
+                        <author>Wolfgang Amadeus Mozart</author>
+                        <date>1786 (prima rappr.)</date>
+                        <ref target="https://it.wikipedia.org/wiki/Le_nozze_di_Figaro"></ref>
+                    </bibl>
+                    <bibl xml:id="fedra">
+                        <title>Fedra</title>
+                        <author>Jean Racine</author>
+                        <date>1677 (prima rappr.)</date>
+                        <ref target="https://it.wikipedia.org/wiki/Fedra_(Racine)"></ref>
+                    </bibl>
+                    <bibl xml:id="elegie">
+                        <title xml:lang="la">Corpus Tibullianum</title>
+                        <author>Albio Tibullo</author>
+                        <date>I secolo a.C.</date>
+                        <ref target="https://it.wikipedia.org/wiki/Corpus_Tibullianum"></ref>
+                    </bibl>
+                    <bibl xml:id="gedichte">
+                        <title xml:lang="de">Gedichte (Poesie)</title>
+                        <author>Johann Wolfgang von Goethe</author>
+                        <date>seconda metà XVIII sec.-1832</date>
+                        <ref target="https://books.google.mu/books?id=geU8vBPpCncC&amp;printsec=frontcover&amp;hl=it#v=onepage&amp;q&amp;f=false"></ref>
+                    </bibl>
+                    <bibl xml:id="remedia_amoris">
+                        <title xml:lang="la">Remedia amoris</title>
+                        <author ref="#ovidio">Publio Ovidio Nasone</author>
+                        <date>1-2 d.C.</date>
+                        <ref target="https://it.wikipedia.org/wiki/Remedia_amoris"></ref>
+                    </bibl>
+                    <bibl xml:id="amleto">
+                        <title>Amleto</title>
+                        <author ref="#shakespeare">William Shakespeare</author>
+                        <date>1600-1602</date>
+                        <ref target="https://it.wikipedia.org/wiki/Amleto"></ref>
+                    </bibl>
+                    <bibl xml:id="comevipiace">
+                        <title>Come vi piace</title>
+                        <author ref="#shakespeare">William Shakespeare</author>
+                        <date>1599-1600</date>
+                        <ref target="https://it.wikipedia.org/wiki/Come_vi_piace"></ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </back>
+
     </text>
 </TEI>
