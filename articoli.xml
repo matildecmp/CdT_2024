@@ -735,7 +735,300 @@
                         </signed>
                     </closer>
                 </div>
-                <!-- Articolo 2 -->
+                
+                 <!-- ARTICOLO 2 -->
+                <div type="article" n="2" xml:lang="it" source="#art_1">
+                <pb n="1" facs="#p270" xml:id="pb270" />
+                    <head facs="#p270" xml:id="pag270_tit" corresp="#p270_col2">
+                        <lb/>LE TAVOLETTE DIPINTE DEI LIBRI D’ENTRATA E D’USCITA DELLA REPUBBLICA DI SIENA.
+                    </head>
+
+                <ab xml:id="p270_par1" corresp="#p270_col2">
+                     <lb/>Le vecchie coperture originali dei libri, sebbene incon-
+                     <lb/>trino spesso la sorte che tocca agli abiti vecchi, cioè di
+                     <lb/>finire in brandelli o d’essere gettate via per far posto ad
+                     <lb/>altre più di moda, meriterebbero in verità di essere tenute
+                     <lb/>in maggiore considerazione. Non solo contengono di sovente
+                     <lb/>note e segni, la cui conservazione giova a far conoscere la
+                </ab>
+                
+                
+                <cb xml:id="c1_p271" n="1" corresp="#pb271"/> 
+                <ab xml:id="p271_par1" corresp="#p271_col1">       
+                    <lb/>provenienza e i passaggi dei libri, ma sono anche impor-
+                    <lb/>tanti, perchè rappresentano la storia e lo sviluppo artistico
+                    <lb/>di un’ industria, che ha parecchie attinenze cogli studi pa-
+                    <lb/>leografici e bibliologici. È notevole la grande varietà di
+                    <lb/>tipi e di forme che presentano le legature e le coperture
+                    <lb/>dei libri del medio evo : ma pure, classificandole convenien-
+                    <lb/>temente, si palesano non capricciose nè arbitrarie, ma ob-
+                    <lb/>bedienti a certe regole d’arte a certe ragioni di tempo e
+                    <lb/>di luogo, e adattate alla diversa qualità e destinazione dei
+                    <lb/>libri, alla diversa natura dei luoghi di deposito.
+                    <lb/>Limitando lo studio agli Archivi, è opportuno ricordare
+                    <lb/>che di tre specie sono le coperture di libri, che comune-
+                    <lb/>mente vi s’incontrano, cioè in tavole, in cuoio e in perga-
+                    <lb/>mena ; e che è pur cosa comune che su queste coperture
+                    <lb/>siano disegnati o dipinti o impressi o sovrapposti stemmi,
+                    <lb/>figure o altri segni, che servono a dar nome ai libri e a
+                    <lb/>distinguerli individualmente o per categorie, come oggi si
+                    <lb/>fa coi numeri di classificazione. Ma non è cosa comune tro
+                    <lb/>vare coperture di libri che siano dipinte come veri e pro
+                    <lb/>pri quadretti. Alle poche citate dal Wattenbach (Das Schrift-
+                    <lb/>wesen im Mittelalter , IV, 3) se ne possono aggiungere
+                    <lb/>parecchie altre di libri che si conservano negli Archivi e
+                    <lb/>nelle Biblioteche d’Italia ; ma sono sempre monumenti iso-
+                    <lb/>lati, manifestazioni artistiche eccezionali. E perciò da se-
+                    <lb/>gnalarsi come un esempio ragguardevolissimo e singolare
+                    <lb/>quello che offrono i libri d’ entrata e uscita degli antichi
+                    <lb/>Archivi finanziari della Repubblica di Siena, detti della
+                    <lb/>Biccherna e della Gabella, le cui coperture in tavole dipinte
+                    <lb/>non si debbono al capriccio di qualche artista o alla boria
+                    <lb/>di qualche camarlingo, ma costituiscono una serie copiosa
+                    <lb/>e ordinata, durata regolarmente per cinque secoli. Di que-
+                    <lb/>sta pregevole raccolta il prof. Luigi Mussini ha dato re-
+                    <lb/>centemente una breve ma interessante notizia alla Sezione
+                    <lb/>di Storia patria dell’ Accademia dei Rozzi di Siena ; * e
+                    <lb/>come a me è stato gradito richiamarmi agli occhi e alla
+                    <lb/>mente, colla scorta di tale scrittura, codesto piccolo museo
+                    <lb/>storico-artistico che più volte ho ammirato e studiato nelle
+                    <lb/>bene ordinate sale dell’ Archivio senese, così spero che non
+                    <lb/>sarà discaro ai lettori della Rassegna d’ averne qualche rag-
+                    <lb/>guaglio.
+                </ab>
+
+                <ab xml:id="p271_par2_i" part="I" corresp="#p271_col1">
+                    <lb/>Non sarà inutile ricordare che in Siena chiamavasi Ma-
+                    <lb/>gistrato della Biccherna quello che presiedeva all’ ammini-
+                    <lb/>strazione dell’ entrata e dell’ uscita generale del Comune, e
+                    <lb/>componevasi di quattro provveditori e di un frate camar-
+                    <lb/>lingo ; e Ufficio della Gabella, quello che incassava e ammi-
+                    <lb/>nistrava i proventi di tutte le imposte dirette e indirette ;
+                    <lb/>e anche quest’ufficio componevasi di quattro e talvolta di
+                    <lb/>tre cittadini, con un frate, al solito, per camarlingo. Si ca-
+                    <lb/>pisce subito che il vocabolo Gabella aveva allora un signi-
+                    <lb/>ficato più esteso di quello che gli si dà oggi ; ma quale sia
+                    <lb/>il significato etimologico dell’ altro vocabolo Biccherna, non
+                    <lb/>so nè oso affermare con certezza, contentandomi di riferire
+                    <lb/>che il Mussini (pag. 28) lo dice « oriundo tedesco, » da Bü-
+                    <lb/>cher, libri : su di che lascio il giudizio ai linguisti. Una
+                    <lb/>cosa sola ho potuto accertare coi documenti, ed è questa :
+                    <lb/>che Biccherna non è nome proprio e originario del Magi-
+                    <lb/>strato sopra 1’ entrata e 1’ uscita, ma del luogo dov’ esso
+                    <lb/>risiedeva : il quale luogo era destinato anticamente alla cu-
+                    <lb/>stodia dei libri ed atti del Comune, specialmente in quanto
+                    <lb/>si riferissero a ragioni finanziarie. Così trovo che nel 1248
+                    <lb/>si pagarono pochi soldi a un artefice che aveva fatto quat-
+                    <lb/>tro casse, quce sunt in Bicherna pro retinendis quaternis et
+                </ab>
+
+                <ab type="bibliography" facs="#p271" xml:id="luigi_mussimi" corresp="#271_col1">
+                    <lb/>* Le Tavole della Biccherna e della Gabella della Repubblica d i Siena.
+                    <lb/>Lettura del prof. Luigi Mussimi. (Negli A tti c Memorie della Sezione let-
+                    <lb/>teraria e di storia patria della 11. Accademia dei Rozzi. Voi. Ili, pa-
+                    <lb/>gine 25-36.) Siena, Bargellini, 1878.
+                </ab>
+
+                <cb xml:id="c2_p271" n="2" corresp="#pb271"/>
+                <ab xml:id="p271_par2_f" part="F" corresp="#p271_col2">  
+                    <lb/>cartis Comunis; che nel 1275 si provvide a porre ivi uno
+                    <lb/>scrigno a tre chiavi, nel quale venissero conservati omnes
+                    <lb/>libri continentes debitum Comunis quacumque de causa ; che
+                    <lb/>nel 1299 si fecero costruire delle volte nel palazzo del Co-
+                    <lb/>mune, ubi est Bicherna, per maggiore sicurezza dei libri e
+                    <lb/>delle altre cose ivi conservate, giacché appunto sotto la
+                    <lb/>Biccherna erano le stalle del potestà, e i garzoni di
+                    <lb/>stalla (ragazï) vi tenevano il lume acceso senz’ alcun ri-
+                    <lb/>guardo.* La Biccherna era dunque in Siena quello che al-
+                    <lb/>trove generalmente appellavasi «la Camera del Comune;»
+                    <lb/>e tale vocabolo come designazione di luogo trovasi stabi-
+                    <lb/>lito ufficialmente fino nella prima metà del secolo XIII
+                    <lb/>(e non « in sullo scorcio, » come dice il Mussini, pag. 28),
+                    <lb/>mentre assai più tardi passò a designare il Magistrato ivi
+                    <lb/>residente, e che propriamente appellavasi, nei documenti
+                    <lb/>di quel secolo, Offitium Camerarii et Quatuor.
+                </ab>
+                
+                <ab xml:id="p271_par3" corresp="#p271_col2">
+                    <lb/>E ora torniamo alle tavole dipinte della Biccherna e
+                    <lb/>della Gabella. I libri d’ entrata e uscita di questi due uf-
+                    <lb/>fici sono originalmente coperti d’ assi o tavolette assicurate
+                    <lb/>con piccole striscie di cuoio, rimanendo il dorso scoperto.
+                    <lb/>Ma (dice il Mussini, pag. 29) « queste assi o tavolette così
+                    <lb/>nude e disadorne non piacquero a cittadini, che venivano
+                    <lb/>creando per la loro città monumenti nei quali si manife-
+                    <lb/>stava il senso più squisito dell’ arte ; e fino dalla metà del
+                    <lb/>secolo XIII, li vediamo avviati a tracciare sulla tavoletta
+                    <lb/>il titolo del libro, gli stemmi del camarlingo e dei quattro
+                    <lb/>cittadini, con molta diligenza messi a colori e ad oro, a
+                    <lb/>regola di blasone. » Bensì, in queste prime dipinture di
+                    <lb/>stemmi, io credo che il senso dell’ arte ci abbia assai poco
+                    <lb/>che fare, e che l’incitamento primo a ciò venisse dal desi-
+                    <lb/>derio che ebbero quelli che avevano fatto parte di quei pri-
+                    <lb/>mari uffici della Repubblica, di serbarne ricordo visibile a
+                    <lb/>decoro delle proprie famiglie. Ma è vero che 1’ arte vi si
+                    <lb/>mescolò quasi subito, e diede impulso a dipingere sulle co-
+                    <lb/>perture dei libri qualche cosa di più e di meglio, oltre i soliti
+                    <lb/>stemmi. E infatti nello stesso secolo XIII s’ incominciò a ri- 
+                    <lb/>trarvi la figura del camarlingo ; poi le tavolette, pur rimanen-
+                    <lb/>do attaccate ai libri, divennero a po’ per volta quadri perfetti
+                    <lb/>ora con imagini di santi, ora con figure simboliche, ora con
+                    <lb/>rappresentazioni di fatti storici. E col tempo presero sviluppo,
+                    <lb/>oltre che nella forma intrinseca, anche nelle dimensioni ;
+                    <lb/>di modo che, fatte più grandi del formato dei libri, non fu-
+                    <lb/>rono più legate a questi, ma forse vi si depositarono sopra,
+                    <lb/>serbandone ancora il titolo, fino a che se ne resero affatto
+                    <lb/>indipendenti e diventarono grandi quadri da appendersi
+                    <lb/>alle pareti. E così, (dice il Mussini, pag. 32) « per fatale
+                    <lb/>svolgimento dell’ idea artistica, dalla piccola tavoletta del
+                    <lb/>secolo XIII dipinta soltanto nella metà superiore si viene
+                    <lb/>fino alla tela del secolo XVII, che si misura a metri. » Delle
+                    <lb/>spese che costavano queste pitture il prof. Mussini non dice
+                    <lb/>nulla : ma vari estratti dei libri di entrata e di uscita della
+                    <lb/>Repubblica di Siena, gentilmente comunicatimi, pongono in
+                    <lb/>sodo, che queste opere d’arte, comecché fatte a iniziativa
+                    <lb/>dei camarlinghi, si pagarono sempre dal Comune ; e che
+                    <lb/>da principio vi si spesero non più di 8 e di 10 soldi, ma
+                    <lb/>poi, come accade, la spesa andò sempre crescendo, fino a
+                    <lb/>far somme di lire e di fiorini : tanto che nel 1411 fu prov-
+                    <lb/>veduto che non vi si spendesse più d’un fiorino d’ oro; ed
+                    <lb/>ecco, per chi ne abbia curiosità, il testo di tale provvisione :
+                    <lb/>Quod in libris Bicherne et Cabelle, qui pignuntur quibuslibet
+                    <lb/>sex mensibus, non possit expendi ultra unum florenum auri
+                    <lb/>pro quolibet libro, non obstante quod in huiusmodi libris fieri
+                    <lb/>soleat maior expensa.**
+                </ab>
+
+                <ab type="bibliography" facs="#p271" xml:id="archivio_di_stato_siena" corresp="#271_col2">
+                    <lb/>* R. Archivio di Stato in Siena. Biccherna, Entr. e Use., anno 1248.
+                    <lb/>Statuti, cod. 3 e 23 (nuineraz. ant.).
+                    <lb/>** Archivio di Stato in Siena. Statuti, cod. 39, a c. 14.
+                </ab>
+
+  <             <pb n="3" facs="#p272" xml:id="pb272" />
+                <cb xml:id="c1_p272" n="1" corresp="#pb272"/>
+                <ab xml:id="p272_par1" corresp="#p272_col1">
+                    <lb/>L’Archivio di Stato di Siena, come possiede i libri della
+                    <lb/>Biccherna e della Gabella, così ha riunite in apposito mu-
+                    <lb/>seo parecchie di queste tavolette, raccolte da varie parti,
+                    <lb/>per deposito, per acquisto e per dono, grazie alle cure del
+                    <lb/>direttore Luciano Banchi. Sono, è vero, soltanto una pic-
+                    <lb/>cola parte dell’ intera collezione, ma pure offrono già suffi-
+                    <lb/>cente materia a uno studio storico e artistico.
+                </ab>
+
+                <ab xml:id="p272_par2" corresp="#p272_col1">
+                    <lb/>Il catalogo pubblicatone dal Mussini (pag. 34-36) ne no-
+                    <lb/>vera 78, aggiuntene una in nota ; e un giornale di Siena
+                    <lb/>(Il Paese, 26 settembre 1878) ci dà la buona notizia che il
+                    <lb/>Consiglio comunale ha approvato recentemente 1’ acquisto
+                    <lb/>di due altre tavolette, degli anni 1396 e 1408, da deposi-
+                    <lb/>tarsi anche queste nell1 Archivio ; cosicché in tutto sono 81,
+                    <lb/>così divise per secoli : 6, del Nili; 10, del XIV; 25, del XV;
+                    <lb/>31, del XVI; 9, del XVII. Sono tuttora attaccate ai libri
+                    <lb/>tre tavolette del secolo XIV, che nel catalogo Mussiniano
+                    <lb/>hanno i numeri 9, 10, 12; e altre diciannove (cioè sino alla
+                    <lb/>22, dell’ anno 1455) serbano tracce non dubbie dell’ antica
+                    <lb/>legatura; cosicché abbiamo documento certo che le tavo-
+                    <lb/>lette furono adoperate nel primitivo ufficio di coperture di
+                    <lb/>libri fino alla seconda metà del secolo XV. Vuol poi no-
+                    <lb/>tarsi che le ultime tre della raccolta, degli anni 1619, 1682,
+                    <lb/>1689, non sono veramente tavole ma grandi tele.
+                </ab>
+
+              <ab xml:id="p272_par3_i" part="I" corresp="#p272_col1">
+                    <lb/>Diamo ora un’ occhiata alle rappresentazioni dipinte
+                    <lb/>nelle tavolette, studiandoci in brevi tratti di ritrarne il ca-
+                    <lb/>rattere secolo per secolo. Nel secolo XIII, e per tutto il
+                    <lb/>XIV, le tavolette recano dipinto, in mezzo agli stemmi o
+                    <lb/>accanto o al disopra di essi, il ritratto del camarlingo se-
+                    <lb/>dente a banco, il più delle volte solo, e altra volta accom-
+                    <lb/>pagnato dallo scrittore di Biccherna : eccetto tre che sono
+                    <lb/>di soggetto religioso (anni 1320, 1334, 1357), e due allego-
+                    <lb/>riche, rappresentanti il buon governo di Siena (anni 1344,
+                    <lb/>1385). Inoltre, la 3a e la 5a (anni 1267, 1273) sono notate
+                    <lb/>nel Catalogo Mussini come aventi i soli stemmi senz’ altra
+                    <lb/>dipintura : vero è che nella seconda di queste sta dipinto
+                    <lb/>il Potestà sedente in tribunale, e davanti a lui in piedi la
+                    <lb/>figura imbecille o piuttosto la caricatura di un giudicabile:
+                    <lb/>ma è senza dubbio una contraffazione moderna, che non ha
+                    <lb/>nulla che fare colla rappresentazione primitiva. Nel se-
+                    <lb/>colo XV si mescolano ai soggetti religiosi ed allegorici gli
+                    <lb/>avvenimenti storici, cioè alcune coronazioni di papi e pa-
+                    <lb/>recchi fatti senesi : ed è pure in questo secolo che la di-
+                    <lb/>pintura delle tavolette tocca il sommo dell’arte. Tra le pa-
+                    <lb/>recchie belle, mi piace di ricordare un San Girolamo nel
+                    <lb/>deserto che predica al leone, composizione stupenda d’ au-
+                    <lb/>tore ignoto (an. 1436) ; un San Niccolò vescovo tra due an-
+                    <lb/>geli, di Giovanni di Paolo, dov’ è bellissima la testa del
+                    <lb/>Santo (an. 1440); un matrimonio illustre senese, di Sano
+                    <lb/>di Pietro, quadro ricco di figure e mirabile di colorito
+                    <lb/>(an. 1473). Nel corso del secolo XVI, mentre le dimensioni
+                    <lb/>delle tavole s’allargano, va deteriorando il loro pregio ar-
+                    <lb/>tistico, rimanendo bensì sempre importanti sotto il rispetto
+                    <lb/>storico. E notevole che i soggetti religiosi scemano d’ assai
+                    <lb/>(sono dieci sopra trentuna tavole) ; e ci s’ è infiltrato anche
+                    <lb/>un tantino di paganesimo, di che offre esempio (unico bensì
+                    <lb/>in tutta la serie) una tavola dell’ anno 1567, nella quale
+                    <lb/>1’ Abbondanza è raffigurata da Cerere e da Bacco in mezzo
+                    <lb/>alle sette vacche faraoniche. Le rappresentazioni poi di fatti
+                    <lb/>storici mostrano che le relazioni politiche si sono allargate,
+                    <lb/>che il mondo storico non è ora più ristretto tra « quei che
+                    <lb/>un muro ed una fossa serra; » e che nella vita del Comune
+                    <lb/>e nei discorsi della città hanno un’ eco i grandi avveni-
+                    <lb/>menti d’ Europa. Così vi troviamo dipinte battaglie navali
+                    <lb/>contro i turchi, e una lega, di Roma, Spagna e Venezia,
+                    <lb/>contro i medesimi (anni 1532, 1566, 1568, 1570) ; l’ incoro-
+                    <lb/>nazione di papa Paolo III (an. 1534); la celebre pace di
+                    <lb/>Castel-Cambresi (an. 1559); l’assemblea di dotti convocata
+                </ab>
+
+                <cb xml:id="c2_p272" n="2" corresp="#pb272"/>
+                <ab xml:id="p272_par3_f" part="F" corresp="#p176_col2">
+                    <lb/>da papa Gregorio XIII, dalla quale uscì la moderna rifo-
+                    <lb/>rma del calendario romano (an. 1582). Rispetto poi alla
+                    <lb/>storia particolare di Siena, parecchie tavole di questo se-
+                    <lb/>colo illustrano alcuni fatti militari degli ultimi anni di li-
+                    <lb/>bertà; e, caduta questa, glorificano i Medici nuovi padroni,
+                    <lb/>rappresentandone incoronazioni, battesimi, sposalizi, e altre
+                    <lb/>geste pompose. Nel secolo XVII si sostituisce alla tempera
+                    <lb/>la pittura a olio ; poi alla tavola, la tela ; non basta più
+                    <lb/>nelle dimensioni il grande, ma si vuole il macchinoso. E
+                    <lb/>quanto alle rappresentazioni dei quadri di questo secolo,
+                    <lb/>non saprei meglio delinearne il carattere che riferendo le
+                    <lb/>appropriate parole del Mussini (pag. 32). « I soggetti civili
+                    <lb/>e patriottici sono scomparsi, perchè della patria non v’ ha
+                    <lb/>più che il nome. I soggetti religiosi riprendono il disopra,
+                    <lb/>quando non sia il caso di adulare il principe e di celebrare
+                    <lb/>i fasti di qualche prelato senese. Ma alla fede sincera del
+                    <lb/>vecchio tempo è subentrata una religione fastosa, non che
+                    <lb/>i miracoli di cui recenti santificazioni hanno creduto nu-
+                    <lb/>trire la pietà o la superstizione del popolo. »
+                </ab>
+
+                <ab xml:id="p272_par4" corresp="#p272_col2">
+                    <lb/>Dobbiamo essere grati al Mussini d’ avere per il primo
+                    <lb/>dato notizia al pubblico delle tavole dipinte della Bic-
+                    <lb/>cherna e della Gabella : ma il saggio di lui, tanto prege-
+                    <lb/>vole e per ottimo sentimento d’ arte e per garbatezza di
+                    <lb/>forma, ci fa ora desiderare qualche cosa di più. Sarebbe,
+                    <lb/>crediamo, di grande utilità per più rispetti la pubblicazione
+                    <lb/>di un catalogo ragionato accuratissimo delle dette tavole
+                    <lb/>senesi (inserendovi anche quelle che sono fuori di Siena,
+                    <lb/>come le trenta del Museo civico di Colonia), colle oppor-
+                    <lb/>tune illustrazioni storiche e artistiche, e coi fac-simili al-
+                    <lb/>meno delle più importanti. Parrà questo un voto troppo
+                    <lb/>ardito in Italia? In ogni modo abbiamo voluto esporlo 
+                    <lb/>come di cosa che crediamo buona ; e speriamo che non vada
+                    <lb/>affatto perduto. 
+                 </ab> 
+                 
+            <closer xml:id="p271_author" corresp="#p272_col2">
+                        <signed>
+                            <name>Cesare Paoli.</name>
+                        </signed>
+                    </closer>
+                </div>
             </div>
         </body>
 
