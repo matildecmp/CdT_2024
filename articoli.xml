@@ -434,7 +434,7 @@
                         <lb />se le teorie di quei due filosofi sull'amore fossero identi-
                         <lb />che. Io non ho letto <name type="person" ref="#hartmann">Hartmann</name> e non me ne dolgo se tutto
                         <lb />il suo libro è nello stile delle pagine citate dal <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Du-
-                        <lb />boc</name> (p. IX, e 186-206) e se le idee contenute nell'opera
+                        <lb />boc</name> <ref>(p. IX, e 186-206)</ref> e se le idee contenute nell'opera
                         <lb />sono povere quanto quelle espresse in quelle pagine; ma
                         <lb />debbo constatare che quanto dice il <roleName type="honorific">signor</roleName> <name type="person" ref="#hartmann">Hartmann</name> nei
                         <lb />passi citati non solamente differisce in tutto e per tutto
@@ -823,7 +823,7 @@
                         <lb/>ficato più esteso di quello che gli si dà oggi; ma quale sia
                         <lb/>il significato etimologico dell' altro vocabolo <term type="verbum" rend="italic" ref="#biccherna">Biccherna</term>, non
                         <lb/>so nè oso affermare con certezza, contentandomi di riferire
-                        <lb/>che il <name type="person" ref="#mussini">Mussini</name> (pag. 28) lo dice « <quote source="#mussini">oriundo tedesco</quote>, » da <term xml:lang="de" rend="italic">Bü-
+                        <lb/>che il <name type="person" ref="#mussini">Mussini</name> <ref>(pag. 28)</ref> lo dice « <quote source="#mussini">oriundo tedesco</quote>, » da <term xml:lang="de" rend="italic">Bü-
                         <lb/>cher</term>, libri: su di che lascio il giudizio ai linguisti. Una
                         <lb/>cosa sola ho potuto accertare <choice><orig>coi</orig><reg>con i</reg></choice> documenti, ed è questa:
                         <lb/>che <term type="verbum" rend="italic" ref="#biccherna">Biccherna</term> non è nome proprio e originario del Magi-
@@ -859,7 +859,7 @@
                         <lb/>trove generalmente appellavasi «<term>la Camera del <name type="org">Comune</name></term>;»
                         <lb/>e tale vocabolo come designazione di luogo trovasi stabi-
                         <lb/>lito ufficialmente fino nella <date from="1200" to="1250">prima metà del secolo XIII</date>
-                        <lb/>(e non « <quote source="#mussini">in sullo scorcio</quote>, » come dice il <name type="person" ref="#mussini">Mussini</name>, pag. 28),
+                        <lb/>(e non « <quote source="#mussini">in sullo scorcio</quote>, » come dice il <name type="person" ref="#mussini">Mussini</name>, <ref>pag. 28</ref>),
                         <lb/>mentre assai più tardi passò a designare il Magistrato <distinct time="archaic"><choice><orig>ivi</orig><reg>lì</reg></choice></distinct>
                         <lb/>residente, e che propriamente appellavasi, nei documenti
                         <lb/>di quel secolo, <term xml:lang="la" rend="italic">Offitium Camerarii et Quatuor</term>.
@@ -869,7 +869,7 @@
                         <lb/>della <name type="org" rend="italic" ref="#gabella">Gabella</name>. I libri d'entrata e uscita di questi due uf-
                         <lb/>fici sono originalmente coperti d'assi o tavolette assicurate
                         <lb/>con piccole striscie di cuoio, rimanendo il dorso scoperto.
-                        <lb/>Ma (dice il <name type="person" ref="#mussini">Mussini</name>, pag. 29) « <quote source="#mussini">queste assi o tavolette così
+                        <lb/>Ma (dice il <name type="person" ref="#mussini">Mussini</name>, <ref>pag. 29</ref>) « <quote source="#mussini">queste assi o tavolette così
                         <lb/>nude e disadorne non piacquero a cittadini, che venivano
                         <lb/>creando per la loro città monumenti nei quali si manife-
                         <lb/>stava il senso più squisito dell'arte; e fino dalla <date notBefore="1250">metà del
@@ -894,7 +894,7 @@
                         <lb/>rono più legate a questi, ma forse vi si depositarono sopra,
                         <lb/>serbandone ancora il titolo, fino a che se ne resero affatto
                         <lb/>indipendenti e diventarono grandi quadri da appendersi
-                        <lb/>alle pareti. E così, (dice il <name type="person" ref="#mussini">Mussini</name>, pag. 32) « <quote source="#mussini">per fatale
+                        <lb/>alle pareti. E così, (dice il <name type="person" ref="#mussini">Mussini</name>, <ref>pag. 32</ref>) « <quote source="#mussini">per fatale
                         <lb/>svolgimento dell'idea artistica, dalla piccola tavoletta del
                         <lb/><date from="1200" to="1299">secolo XIII</date> dipinta soltanto nella metà superiore si viene
                         <lb/>fino alla tela del <date from="1600" to="1699">secolo XVII</date>, che si misura a metri. </quote>» Delle
@@ -940,7 +940,7 @@
                         <lb/>cente materia a uno studio storico e artistico.
                     </p>
                     <p xml:id="p272_par2" corresp="#c1_p272">
-                        <lb/>Il catalogo pubblicatone dal <name type="person" ref="#mussini">Mussini</name> (pag. 34-36) ne <distinct time="archaic"><choice><ex>an</ex><expan>no-
+                        <lb/>Il catalogo pubblicatone dal <name type="person" ref="#mussini">Mussini</name> (<ref>pag. 34-36</ref>) ne <distinct time="archaic"><choice><ex>an</ex><expan>no-
                         <lb/>vera</expan></choice></distinct> <num type="cardinal" value="78">78</num>, aggiuntene una in nota; e un giornale di <name type="place" ref="#siena">Siena</name>
                         <lb/>(<name type="bibl" rend="italic" ref="#il_paese">Il Paese</name>, <date when="1878-09-26">26 settembre 1878</date>) ci dà la buona notizia che il
                         <lb/><name type="org">Consiglio comunale</name> ha approvato recentemente l'acquisto
@@ -1016,7 +1016,7 @@
                         <lb/>nelle dimensioni il grande, ma si vuole il macchinoso. E
                         <lb/>quanto alle rappresentazioni dei quadri di questo secolo,
                         <lb/>non saprei meglio delinearne il carattere che riferendo le
-                        <lb/>appropriate parole del <name type="person" ref="#mussini">Mussini</name> (pag. 32). « <quote source="#mussini">I soggetti civili
+                        <lb/>appropriate parole del <name type="person" ref="#mussini">Mussini</name> (<ref>pag. 32</ref>). « <quote source="#mussini">I soggetti civili
                         <lb/>e patriottici sono scomparsi, perchè della patria non v'ha
                         <lb/>più che il nome. I soggetti religiosi riprendono il disopra,
                         <lb/>quando non sia il caso di adulare il principe e di celebrare
@@ -1115,7 +1115,7 @@
                             <lb/>scrittore, senz'essere però elemento comune e generale della
                             <lb/>dottrina e dello studio. Taluno persino, fra gli scrittori
                             <lb/>dell'<choice><orig>età media</orig><reg>Medioevo</reg></choice>, lamentava che <name type="person" ref="#cicerone">Cicerone</name> fosse letto « <quote source="#hortis">anche
-                            <lb/>troppo</quote> » (pag. 17): se non che questi sono rimpianti di
+                            <lb/>troppo</quote> » (<ref>pag. 17</ref>): se non che questi sono rimpianti di
                             <lb/>ascetici, che si dolgono della non interrotta efficacia del-
                             <lb/>l'antichità pagana, anziché di pensatori i quali salutino
                             <lb/>il ravvivamento dell'avita cultura. L'antagonismo posto
@@ -1134,7 +1134,7 @@
                             <lb/>tanto col <name type="person" ref="#petrarca">Petrarca</name> e col <name type="person" ref="#boccaccio">Boccaccio</name> risorge lo spirito vivifi-
                             <lb/>catore del <name type="org" ref="classicismo">classicismo</name>. « <quote source="hortis">Nelle scuole monastiche</quote>, osserva
                             <lb/>a ragione l'<name type="person" ref="hortis">Hortis</name>, <quote source="hortis">poteva regnare la frase, non lo spirito di
-                            <lb/><name type="person" ref="#cicerone">Cicerone</name></quote> » (pag. 24). Il <name type="person" ref="#petrarca">Petrarca</name> invece, osserva egli altrove,
+                            <lb/><name type="person" ref="#cicerone">Cicerone</name></quote> » (<ref>pag. 24</ref>). Il <name type="person" ref="#petrarca">Petrarca</name> invece, osserva egli altrove,
                             <lb/>modellò su quelle dell'<addName type="epithet" ref="#cicerone">Arpinate</addName> quasi tutte le sue scritture:
                             <lb/>« <quote source="#hortis">sull'esempio di <name type="person" ref="#cicerone">Cicerone</name> egli formò il proprio <name type="bibl" ref="#epist">Epistolario</name>
                             <lb/>e i propri <name type="bibl" ref="#dialoghi">Dialoghi</name>, imitandone in quanto seppe lo stile:
@@ -1143,14 +1143,14 @@
                             <lb/>da <name type="person" ref="#cicerone">Cicerone</name>, e confessando di avere ampliato idee cicero-
                             <lb/>niane. Che più, <choice><expan>s'<ex>e</ex></expan></choice>egli giunge perfino a raccomandare la
                             <lb/>lettura delle <name type="bibl" rend="italic" ref="tusculane">Tusculane</name> per sollievo della <distinct time="archaic"><choice><orig>podagra</orig><reg>gotta</reg></choice></distinct>, affermando
-                            <lb/>che ad altri tornò a bene?</quote> » (pag. 58). Se non che, e que-
+                            <lb/>che ad altri tornò a bene?</quote> » (<ref>pag. 58</ref>). Se non che, e que-
                             <lb/>sto è fatto assai rilevante e che ci porge la chiave di molte
                             <lb/>difficoltà storiche e di molti problemi largamente dibattuti
                             <lb/>circa gli effetti della rinnovata antichità, il <name type="person" ref="#petrarca">Petrarca</name>, dis-
                             <lb/>giungendo gli studi dalla vita, rimproverava <name type="person" ref="#cicerone">Cicerone</name> di
                             <lb/>aver lasciato gli ozi letterari per servire la patria. Certo,
                             <lb/>osserva a ragione l'<name type="person" ref="hortis">Hortis</name>, a nessun romano sarebbe ve-
-                            <lb/>nuto in mente di far questo rimprovero a <name type="person" ref="#cicerone">Cicerone</name> (pag. 88):
+                            <lb/>nuto in mente di far questo rimprovero a <name type="person" ref="#cicerone">Cicerone</name> (<ref>pag. 88</ref>):
                             <lb/>ma troppo spesso le generazioni ulteriori dei dotti italiani
                             <lb/>mostrarono col fatto di approvare il rimprovero del <name type="person" ref="#petrarca">Pe-
                             <lb/>trarca</name>, dimezzando in <num type="cardinal" value="2">due</num> l'uomo, che secondo lo spirito
@@ -1161,7 +1161,7 @@
                             <lb/>del rinnovamento classico: ma, secondo acutamente osserva
                             <lb/>l'<name type="person" ref="#hortis">Hortis</name>, egli cercò nelle opere di <name type="person" ref="#cicerone">Cicerone</name> notizie erudite
                             <lb/>o giudizi autorevoli, laddove il <name type="person" ref="#petrarca">Petrarca</name> vi cercò soprattutto
-                            <lb/>morali ammaestramenti (pag. 83). Così l'uno compiva l'al-
+                            <lb/>morali ammaestramenti (<ref>pag. 83</ref>). Così l'uno compiva l'al-
                             <lb/>tro, e si faceva più intera la cognizione delle lettere antiche.
                             <lb/>Noi abbiamo voluto dare almeno un <choice><expan>piccol<ex>o</ex></expan></choice> cenno di
                             <lb/>queste curiose ed utili ricerche, alle quali si è messo l'<name type="person" ref="#hortis">Hor-
@@ -1222,7 +1222,7 @@
                             <lb/>corpo convenientemente organato... questo risulta di più
                             <lb/>parti tutte materiali od estese,... lo spirito invece risulta
                             <lb/>di facoltà semplicissime, vale a dire non corporee, imma-
-                            <lb/>teriali, inestese....</quote> » (p. 8-9).
+                            <lb/>teriali, inestese....</quote> » <ref>(p. 8-9)</ref>.
                         </p>
                         <p facs="#bibl2_pag275_p3i" part="I" xml:id="bibl2_p275_p3i"> 
                             <lb/>Seguono alcune Lezioni ove si espone come anche i bruti
@@ -1243,7 +1243,7 @@
                             <lb/>nano, correndo naturale relazione fra il senso e lo intel-
                             <lb/>letto da un lato, e l'obbietto sentito e inteso dall'altro;... </quote>»
                             <lb/>e che «<quote source="#valdarnini">la coscienza, essendo da natura, non può ingannare</quote> »
-                            <lb/>neppur essa !
+                            <lb/>neppur essa!
                         </p>
                         <p facs="#bibl2_pag275_p4" xml:id="bibl2_p275_p4">
                             <lb/>Egli è così che l'<choice><abbr>A.</abbr><expan>Autore</expan></choice> giunge a conoscere con certezza
@@ -1269,7 +1269,7 @@
                             <lb/>ad una specie di <soCalled rend="italic">combinazione chimica</soCalled> delle due sostanze,
                             <lb/>le quali, combinandosi, così come l'idrogeno e l'ossigeno
                             <lb/>producono l'acqua, produrrebbero la persona umana....
-                            <lb/>(pag. 73-74). L'<choice><abbr>A.</abbr><expan>Autore</expan></choice> non insiste su quest'analogia, e fa bene,
+                            <lb/>(<ref>pag. 73-74</ref>). L'<choice><abbr>A.</abbr><expan>Autore</expan></choice> non insiste su quest'analogia, e fa bene,
                             <lb/>perchè se essa è atta a dare un'idea dell'<hi rend="italic">unione</hi> del corpo
                             <lb/>e dell'anima, riesce invece affatto inconciliabile coll'immor-
                             <lb/>talità dell'anima, che l'<choice><abbr>A.</abbr><expan>Autore</expan></choice> sostiene calorosamente, colle pa-
@@ -1286,7 +1286,7 @@
                             <lb/>Confessiamo che dopo questa inaspettata irruzione di
                             <lb/>materialismo, ci è mancato il coraggio di continuare la let-
                             <lb/>tura. Solo <choice><expan>abbiam<ex>o</ex></expan></choice> notato che, prendendo commiato dai suoi
-                            <lb/>scolari, l'<choice><abbr>A.</abbr><expan>Autore</expan></choice> dice, a pag. 145: « <quote source="#valdarnini">Eccovi esposte brevemente
+                            <lb/>scolari, l'<choice><abbr>A.</abbr><expan>Autore</expan></choice> dice, a <ref>pag. 145</ref>: « <quote source="#valdarnini">Eccovi esposte brevemente
                             <lb/>le più elementari nozioni di Psicologia <hi rend="italic">sperimentale</hi> e di
                             <lb/>Logica. </quote>» Egli sembra dunque dare alla parola « <term>sperimen-
                             <lb/>tale</term> » un senso del tutto diverso da quello che si suole at-
@@ -2249,7 +2249,7 @@
                         <term xml:id="camerlengo" xml:lang="fr">Camarlingo</term>
                     </label>
                     <item>
-                        <gloss target="#camerlengo" xml:lang="it" source="https://www.treccani.it/vocabolario/camerlengo/">
+                        <gloss target="#camerlengo" xml:lang="it" resp="#mcamp" source="https://www.treccani.it/vocabolario/camerlengo/">
                             Nel Medioevo il ruolo di <hi rend="bold">camarlingo</hi> (o camerlengo) era simile a quello di un tesoriere o amministratore finanziario. Si trattava di una figura preposta alla gestione delle finanze pubbliche, della supervisione dei conti e della riscossione delle entrate della comunità. 
                         </gloss>
                     </item>
