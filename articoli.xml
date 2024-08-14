@@ -10,7 +10,7 @@
             <!-- Titolo del testo codificato e informazioni sui responsabili del contenuto -->
             <titleStmt>
                 <title>
-                    La Rassegna Settimanale: articoli tratti da vol.2 fasc.11, vol.1 fasc.18, vol.1 fasc.16
+                    "La Rassegna Settimanale": articoli tratti da vol.2 fasc.11, vol.1 fasc.18, vol.1 fasc.16
                 </title>
                 <respStmt>
                     <resp>Conversione TEI P5 a cura di</resp>
@@ -62,7 +62,7 @@
                         <textLang xml:lang="it">Italiano</textLang>
                     </analytic>
                     <analytic xml:id="notizie">
-                        <title level="a">Notizie</title>
+                        <title level="a">Notizie (1, 2)</title>
                         <textLang xml:lang="it">Italiano</textLang>
                     </analytic>
                     <monogr xml:id="info_articoli">
@@ -125,67 +125,67 @@
     <facsimile>
         <!-- Articolo 1 -->
         <surface xml:id="p175" start="#pb175" n="1">
-            <graphic url='img/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_7.png' width='693.666666px' height='1023.666666px' />
+            <graphic url='img/1/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_7.png' width='693.666666px' height='1023.666666px' />
             <zone ulx="32" uly="54" lrx="342" lry="963" xml:id="p175_col1" corresp="#pag175_col1"/>
             <zone ulx="341" uly="65" lrx="675" lry="968" xml:id="p175_col2" corresp="#pag175_col2"/>
         </surface>
         <surface xml:id="p176" start="#pb176" n="2">
-            <graphic url='img/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_8.png' width='720.666666px' height='1023.666666px' />
+            <graphic url='img/1/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_8.png' width='720.666666px' height='1023.666666px' />
             <zone ulx="45" uly="69" lrx="371" lry="985" xml:id="p176_col1" corresp="#pag176_col1"/>
             <zone ulx="370" uly="71" lrx="690" lry="978" xml:id="p176_col2" corresp="#pag176_col2"/>
         </surface>
         <surface xml:id="p177" start="#pb177" n="3">
-            <graphic url='img/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_9.png' width='692.666666px' height='1023.666666px' />
+            <graphic url='img/1/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_9.png' width='692.666666px' height='1023.666666px' />
             <zone ulx="31" uly="58" lrx="357" lry="964" xml:id="p177_col1" corresp="#pag177_col1"/>
             <zone ulx="356" uly="70" lrx="681" lry="960" xml:id="p177_col2" corresp="#pag177_col2"/>
         </surface>
         <surface xml:id="p178" start="#pb178" n="4">
-            <graphic url='img/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_10.png' width='718.666666px' height='1023.666666px' />
+            <graphic url='img/1/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_10.png' width='718.666666px' height='1023.666666px' />
             <zone ulx="51" uly="85" lrx="359" lry="579" xml:id="p178_col1" corresp="#pag178_col1"/>
         </surface>
         <!-- Articolo 2 -->                                         
         <surface xml:id="p270" start="#pb270" n="5">
-            <graphic url='img1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_10.png' width='712.4px' height='1024.4px' />
+            <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_10.png' width='712.4px' height='1024.4px' />
             <zone ulx="359" uly="866" lrx="677" lry="993" xml:id="p270_col2" corresp="#pag270_col2"/>
         </surface>
         <surface xml:id="p271" start="#pb271" n="6">
-            <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_11.png' width='703.4px' height='1024.4px' />
+            <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_11.png' width='703.4px' height='1024.4px' />
             <zone ulx="36" uly="72" lrx="363" lry="968" xml:id="p271_col1" corresp="#pag271_col1"/>
             <zone ulx="363" uly="73" lrx="685" lry="971" xml:id="p271_col2" corresp="#pag271_col2"/>
         </surface>
         <surface xml:id="p272" start="#pb272" n="7">
-            <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_12.png' width='712.4px' height='1024.4px'/>
+            <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_12.png' width='712.4px' height='1024.4px'/>
             <zone ulx="27" uly="68" lrx="353" lry="991" xml:id="p272_col1" corresp="#pag272_col1"/> 
             <zone ulx="354" uly="69" lrx="680" lry="528" xml:id="p272_col2" corresp="#pag272_col2"/> 
         </surface>
         <!-- Articolo 3 -->
         <surface xml:id="p337" start="#pb337" n="8">
-            <graphic url='1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_13.png' width='709.666666px' height='1023.666666px' />
+            <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_13.png' width='709.666666px' height='1023.666666px' />
             <zone ulx="369" uly="400" lrx="679" lry="966" xml:id="p337_col2" corresp="#pag337_col2"/>
         </surface>
         <surface xml:id="p338" start="#pb338" n="9">
-            <graphic url='img/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_14.png' width='713.666666px' height='1023.666666px' />
+            <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_14.png' width='713.666666px' height='1023.666666px' />
             <zone ulx="42" uly="66" lrx="357" lry="958"  xml:id="p338_col1" corresp="#pag338_col1"/>
             <zone ulx="363" uly="71" lrx="679" lry="962" xml:id="p338_col2" corresp="#pag338_col2"/>
         </surface>
         <surface xml:id="p339" start="#pb339" n="10">
-           <graphic url='img/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_15.png' width='714.666666px' height='1023.666666px' />
+           <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_15.png' width='714.666666px' height='1023.666666px' />
            <zone ulx="41" uly="67" lrx="366" lry="960" xml:id="p339_col1" corresp="#pag339_col1" />
            <zone ulx="364" uly="73" lrx="674" lry="203" xml:id="p339_col2" corresp="#pag339_col2"/>
         </surface>
         <!-- Notizie --> 
         <surface xml:id="p184" start="#pb184" n="11">
-            <graphic url='img/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_16.png' width='717.666666px' height='1023.666666px' />
+            <graphic url='img/1/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_16.png' width='717.666666px' height='1023.666666px' />
             <zone ulx="365" uly="372" lrx="691" lry="982" xml:id="p184_col2" corresp="#pag184_col2"/>
         </surface>
         <surface xml:id="p276" start="#pb276" n="12">
-            <graphic url='img/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16.png' width='712.4px' height='1024.4px' />
+            <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16.png' width='712.4px' height='1024.4px' />
             <zone ulx="363" uly="167" lrx="683" lry="981"  xml:id="p276_col2" corresp="#pag276_col2"/>
         </surface>
         <!-- Bibliografia -->
         <surface xml:id="bibl1" start="#pb274" n="13">
-            <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_14.png' width='716.4px' height='1024.4px' />
-            <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='704.4px' height='1024.4px' />
+            <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_14.png' width='716.4px' height='1024.4px' />
+            <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='704.4px' height='1024.4px' />
             <zone ulx="470" uly="289" lrx="591" lry="300" xml:id="bibl1_categ" corresp="#bibl1_categoria"/>
             <zone ulx="377" uly="305" lrx="682" lry="329" xml:id="bibl1_tit" corresp="#bibl1_titolo"/>
             <zone ulx="377" uly="336" lrx="684" lry="760" xml:id="bibl1_pag274_p1" corresp="#bibl1_p274_p1"/>
@@ -195,7 +195,7 @@
             <zone ulx="48" uly="526" lrx="353" lry="682" xml:id="bibl1_pag275_p3" corresp="#bibl1_p275_p3"/>
         </surface>
         <surface xml:id="bibl2" start="#pb275" n="14">
-            <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='704.4px' height='1024.4px' />
+            <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='704.4px' height='1024.4px' />
             <zone ulx="146" uly="693" lrx="259" lry="705" xml:id="bibl2_categ" corresp="#bibl2_categoria"/>
             <zone ulx="47" uly="707" lrx="349" lry="745" xml:id="bibl2_tit" corresp="#bibl2_titolo"/>
             <zone ulx="43" uly="750" lrx="355" lry="799" xml:id="bibl2_pag275_p1" corresp="#bibl2_p275_p1"/>
@@ -287,7 +287,7 @@
                         <lb /><name type="character" ref="#otello">Otello</name> non amasse <name type="character" ref="#desdemona">Desdemona</name>, e perciò si confuta da sé. Ma
                         <lb />anche la proposizione del <name type="person" ref="#mantegazza">Mantegazza</name> è, poco o assai, arbi-
                     </p>
-                    <ab type="bibl" facs="#p175" xml:id="abel_duboc_mantegazza" corresp="#c1_p175">
+                    <ab type="bibl" facs="#p175" xml:id="p175_nota1" corresp="#c1_p175">
                         <bibl>
                             <lb />*
                             <author>
@@ -395,7 +395,9 @@
                         <lb />ideale e si mettono ad amare. Molto maggiore, sembrami,
                         <lb />è la parte della immaginazione, dopo l'incontro degli « <quote>ato­-</quote>
                     </p>
-                    <note place="bottom" xml:id="ellenor_n" corresp="#c2_p175">* E non <name rend="italic">Eleonora</name> come scrive sempre il Dr Duboc.</note>
+                    <ab xml:id="p175_nota2" corresp="#c2_p175">
+                        <note place="bottom" xml:id="ellenor_n" corresp="#c2_p175">* E non <name rend="italic">Eleonora</name> come scrive sempre il Dr Duboc.</note>
+                    </ab>
                     <pb n="2" facs="#p176" xml:id="pb176"/>
                     <cb xml:id="c1_p176" n="1" corresp="#pb176"/>
                     <p xml:id="p176_par1" corresp="#c1_p176">
@@ -471,8 +473,8 @@
                         <lb /><quote source="#nozze_figaro">Voi che sapete
                         <lb />Che cosa è amor</quote>....
                     </p>
-                    <cb xml:id="c2_p176" n="2" corresp="c2_p176"/>
-                    <p xml:id="p176_par3_f" part="F" corresp="#p176_col2">
+                    <cb xml:id="c2_p176" n="2" corresp="#pb176"/>
+                    <p xml:id="p176_par3_f" part="F" corresp="#c2_p176">
                         <lb />Però siccome la <name type="bibl" ref="#ras_set" rend="italic"><choice><abbr>Rassegna</abbr><expan>Rassegna Settimanale</expan></choice></name> non è <distinct time="archaic"><choice><orig>guari</orig><reg resp="#mcamp">affatto</reg></choice></distinct> il luogo da proporre
                         <lb />tali domande nè da ricevervi risposte, mi <distinct time="archaic"><choice><orig>contenterò</orig><reg>accontenterò</reg></choice></distinct>, come
                         <lb /><distinct time="archaic"><choice><orig>feci presentire</orig><reg resp="mcamp">anticipai</reg></choice></distinct> al principio, di domandare a me stesso in
@@ -1054,6 +1056,9 @@
                     <pb n="1" facs="#bibl1" xml:id="pb274"/>
                     <cb xml:id="c2_p274" n="2" corresp="#pb274"/>
                     <div type="entrata_bibl" n="1" part="I" corresp="#c2_p274">
+                        <head rend="align(center) case(allcaps)">
+                            <lb />Bibliografia. 
+                        </head>
                         <head rend="align(center) case(allcaps)" facs="#bibl1_categ" xml:id="bibl1_categoria">
                             <lb />Letteratura e storia. 
                         </head>
@@ -1183,7 +1188,7 @@
                             <lb/>l'importante argomento al quale egli ha drizzato l'ingegno.
                         </p>
                     </div>
-                    <div type="entrata_bibl" n="2" corresp="#c1_p275">
+                    <div type="entrata_bibl" n="2" facs="#bibl2" corresp="#c1_p275">
                         <head rend="align(center) case(allcaps)" facs="#bibl2_categ" xml:id="bibl2_categoria">
                             <lb />Scienze filosofiche. 
                         </head>
@@ -1302,12 +1307,14 @@
                             <lb/>senza che si sappia quale corrisponda meglio alla realtà,
                             <lb/>perchè manca ogni termine di paragone obiettivo.
                         </p>
-                        <note type="footnote" xml:id="bibl2_note">
-                            <lb/>* V. <ref><name type="bibl" ref="#ras_set" rend="italic">Rassegna Settimanale</name>, vol. 1°, n. 6: <title rend="italic">Del valore del Metodo subiettivo in Psicologia</title></ref>.
-                        </note>
+                        <ab xml:id="bibl2_nota" corresp="#c2_p275">
+                            <note type="footnote" xml:id="met_sub" corresp="#c2_p275">
+                                <lb/>* V. <ref><name type="bibl" ref="#ras_set" rend="italic">Rassegna Settimanale</name>, vol. 1°, n. 6: <title rend="italic">Del valore del Metodo subiettivo in Psicologia</title></ref>.
+                            </note>
+                        </ab>
                     </div>
                 </div>
-            
+        
             </div>
         </body>
 
