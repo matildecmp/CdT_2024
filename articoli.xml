@@ -836,7 +836,7 @@
                         <lb/>si pagarono pochi soldi a un artefice che aveva fatto quat-
                         <lb/>tro casse, <quote xml:lang="la" rend="italic">quae sunt in Bicherna pro retinendis quaternis et</quote>
                     </p>
-                    <ab type="bibl" facs="#p271" xml:id="muss_lett" corresp="#c1_p271">
+                    <ab type="bibl" facs="#p271" xml:id="p271_nota1" corresp="#c1_p271">
                         <bibl>
                             <lb />* <title rend="italic">Le Tavole della Biccherna e della Gabella della Repubblica di Siena</title>.
                             <lb />Lettura del <author><roleName type="honorific"><choice><abbr>prof.</abbr><expan>professor</expan></choice></roleName> <name type="person" ref="#mussini">LUIGI MUSSINI</name></author>. (Negli <name type="bibl" rend="italic" ref="#atti">Atti e Memorie della Sezione let-
@@ -915,7 +915,7 @@
                         <lb/>pro quolibet libro, non obstante quod in huiusmodi libris fieri
                         <lb/>soleat maior expensa</quote>.**
                     </p>
-                    <ab type="bibl" facs="#p271" xml:id="arch" corresp="#c2_p271">
+                    <ab type="bibl" facs="#p271" xml:id="p271_nota2" corresp="#c2_p271">
                         <bibl>
                             <lb/>*
                             <pubPlace><choice><abbr>R.</abbr><expan>Regio</expan></choice> Archivio di Stato in Siena</pubPlace>.
