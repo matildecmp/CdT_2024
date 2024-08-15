@@ -183,19 +183,18 @@
             <zone ulx="363" uly="167" lrx="683" lry="981"  xml:id="p276_col2" corresp="#pag276_col2"/>
         </surface>
         <!-- Bibliografia -->
-        <surface xml:id="bibl1" start="#pb274" n="13">
+        <surface xml:id="bibl1i" start="#pb274" n="13">
             <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_14.png' width='716.4px' height='1024.4px' />
-            <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='704.4px' height='1024.4px' />
             <zone ulx="470" uly="289" lrx="591" lry="300" xml:id="bibl1_categ" corresp="#bibl1_categoria"/>
             <zone ulx="377" uly="305" lrx="682" lry="329" xml:id="bibl1_tit" corresp="#bibl1_titolo"/>
             <zone ulx="377" uly="336" lrx="684" lry="760" xml:id="bibl1_pag274_p1" corresp="#bibl1_p274_p1"/>
             <zone ulx="378" uly="764" lrx="686" lry="975" xml:id="bibl1_pag274_p2" corresp="#bibl1_p274_p2"/>
+        </surface>
+        <surface xml:id="bibl1f_2" start="#pb275" n="14">
+            <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='704.4px' height='1024.4px' />
             <zone ulx="45" uly="80" lrx="347" lry="392" xml:id="bibl1_pag275_p1" corresp="#bibl1_p275_p1"/>
             <zone ulx="46" uly="395" lrx="351" lry="523" xml:id="bibl1_pag275_p2" corresp="#bibl1_p275_p2"/>
             <zone ulx="48" uly="526" lrx="353" lry="682" xml:id="bibl1_pag275_p3" corresp="#bibl1_p275_p3"/>
-        </surface>
-        <surface xml:id="bibl2" start="#pb275" n="14">
-            <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='704.4px' height='1024.4px' />
             <zone ulx="146" uly="693" lrx="259" lry="705" xml:id="bibl2_categ" corresp="#bibl2_categoria"/>
             <zone ulx="47" uly="707" lrx="349" lry="745" xml:id="bibl2_tit" corresp="#bibl2_titolo"/>
             <zone ulx="43" uly="750" lrx="355" lry="799" xml:id="bibl2_pag275_p1" corresp="#bibl2_p275_p1"/>
@@ -1053,7 +1052,7 @@
 
                 <!-- Bibliografia e notizie  -->
                 <div type="bibl_notiz" org="uniform" sample="medial">
-                    <pb n="1" facs="#bibl1" xml:id="pb274"/>
+                    <pb n="1" facs="#bibl1i" xml:id="pb274"/>
                     <cb xml:id="c2_p274" n="2" corresp="#pb274"/>
                     <div type="entrata_bibl" n="1" part="I" corresp="#c2_p274">
                         <head rend="align(center) case(allcaps)">
@@ -1132,9 +1131,9 @@
                             <lb/>non furono del tutto sconosciuti agli autori medievali, sol­-
                         </p>
                     </div>
-                    <pb n="2" facs="#bibl1" xml:id="pb275"/>
+                    <pb n="2" facs="#bibl1f_2" xml:id="pb275"/>
                     <cb xml:id="c1_p275" n="1" corresp="#pb275"/>
-                    <div type="entrata_bibl" n="1" part="F" corresp="#c2_p274">
+                    <div type="entrata_bibl" n="1" part="F" corresp="#c1_p275">
                         <p facs="#bibl1_pag275_p1" xml:id="bibl1_p275_p1">       
                             <lb/>tanto col <name type="person" ref="#petrarca">Petrarca</name> e col <name type="person" ref="#boccaccio">Boccaccio</name> risorge lo spirito vivifi-
                             <lb/>catore del <name type="org" ref="classicismo">classicismo</name>. « <quote source="hortis">Nelle scuole monastiche</quote>, osserva
