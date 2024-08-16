@@ -216,8 +216,8 @@
                 <div type="article" n="1" xml:lang="it" source="#art_1">
                     <pb n="1" facs="#p175" xml:id="pb175" />
                     <cb xml:id="c1_p175" n="1" corresp="#pb175"/>
-                    <head facs="#p175" xml:id="pag175_tit" corresp="#c1_p175">
-                        <lb />FILOLOGIA, PSICOLOGIA E FISIOLOGIA DELL'AMORE.
+                    <head facs="#p175" xml:id="pag175_tit" corresp="#c1_p175" rend="align(center) case(allcaps)">
+                        <lb />Filologia, psicologia e fisiologia dell'amore.
                     </head>
                     <p xml:id="p175_par1" corresp="#c1_p175">
                         <lb />Non è soltanto perchè lo scritto del <roleName type="honorific">dottor</roleName> <name type="person" ref="#abel">Abel</name><ref type="bibl" target="#abel_duboc_mantegazza">*</ref> sul con-
@@ -327,7 +327,7 @@
                         <lb />vanità e ci si trova poi presi nelle proprie reti (<quote xml:lang="la" rend="italic">capta cepit
                         <lb />captorem</quote>); quante volte la compassione conduce all'interes-
                         <lb />samento, l'interessamento all'affetto, e questo alla sua volta
-                        <lb />scivola pian piano nell' amore più naturale e meno pato-
+                        <lb />scivola pian piano nell'amore più naturale e meno pato-
                         <lb />logico del mondo, <distinct time="archaic"><choice><orig>checché</orig><reg>qualunque cosa</reg></choice></distinct> ne possa dire il <roleName type="honorific">professor</roleName> <name type="person" ref="#mantegazza">Man-
                         <lb />tegazza</name>. Qui ancora il poeta, come quasi sempre, ha ra-
                         <lb />gione contro il dotto, quando ci dice che i dardi del dio
@@ -352,7 +352,7 @@
                         <lb />chè il <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name> ammette e definisce benissimo « <quote xml:lang="de" source="#duboc">das
                         <lb />geschlechtlich angehauchte Sympathieverhältniss</quote> » (il rap-
                         <lb />porto di simpatia a tinta sessuale) sebbene egli neppure
-                        <lb />non lo conti come amore — all' incontro, dicevo, i nostri
+                        <lb />non lo conti come amore — all'incontro, dicevo, i nostri
                         <lb />autori escludono troppo il platonismo dal regno dell'amore.
                         <lb />Forse <name type="person" ref="#ampere"><choice><abbr>J.-J.</abbr><expan>Jean-Jacques</expan></choice> Ampère</name> non amò <roleName type="honorific"><choice><abbr>Mme</abbr><expan>Madame</expan></choice></roleName> <name type="person" ref="#recamier">Récamier</name>, e <name type="person" ref="#varnhagen">Varnha-
                         <lb />gen</name> la <name type="person" ref="#rachel">Rachel</name>, che di semplice amicizia, perchè quelle donne
@@ -634,7 +634,7 @@
                         <lb />ci credo ben poco. In ciò ancora l'abitudine — abitudine
                         <lb />della immaginazione quanto della vita — ha una parte
                         <lb />prominente. Il più sensuale degli uomini se distoglie il suo
-                        <lb />pensiero dall'amore, se si avvezza a concentrarlo sull' am-
+                        <lb />pensiero dall'amore, se si avvezza a concentrarlo sull'am-
                         <lb />bizione, sulla scienza, sul desiderio di guadagno, si cal-
                         <lb />merà ben presto senza perciò atrofizzarsi; e la più fredda
                         <lb />delle donne se prende l'abitudine di fare dell'amore il suo
@@ -664,7 +664,7 @@
                         <lb />macchia all'onore coniugale porta a tutti gli estremi. Guar-
                         <lb />date il <foreign xml:lang="fr" rend="italic">giuri</foreign> francese che assolve regolarmente l'assassino
                         <lb />della donna adultera e dell'amante, mentre il suo pensiero
-                        <lb />e il suo sentimento morale sono lungi dall' essere severi
+                        <lb />e il suo sentimento morale sono lungi dall'essere severi
                         <lb />per quelle vittime; guardate l'<name type="place" ref="#it">Italia</name> dove nei processi cri-
                         <lb />minali è quasi sempre l'amante, non il marito, come in
                         <lb /><name type="place" ref="#fr">Francia</name>, che si lascia trasportare dalla gelosia fino al de-
@@ -753,9 +753,9 @@
                 <div type="article" n="2" xml:lang="it" source="#art_2">
                     <pb n="1" facs="#p270" xml:id="pb270"/>
                     <cb xml:id="c2_p270" n="1" corresp="#pb270"/>
-                    <head facs="#p270" xml:id="pag270_tit" corresp="#c2_p270">
-                        <lb/>LE TAVOLETTE DIPINTE
-                        <lb/>DEI LIBRI D'ENTRATA E D'USCITA DELLA REPUBBLICA DI SIENA.
+                    <head facs="#p270" xml:id="pag270_tit" corresp="#c2_p270" rend="align(center) case(allcaps)">
+                        <lb/>Le tavolette dipinte
+                        <lb/>dei libri d'entrata e d'uscita della Repubblica di Siena.
                     </head>
                     <p xml:id="p270_par1" corresp="#c2_p270">
                         <lb/>Le vecchie coperture originali dei libri, sebbene incon-
@@ -822,7 +822,7 @@
                         <lb/><num type="cardinal" value="3">tre</num> cittadini, con un frate, al solito, per <term ref="#camerlengo">camarlingo</term>. Si ca-
                         <lb/>pisce subito che il vocabolo <term type="verbum" rend="italic" ref="#gabella">Gabella</term> aveva allora un signi-
                         <lb/>ficato più esteso di quello che gli si dà oggi; ma quale sia
-                        <lb/>il significato etimologico dell' altro vocabolo <term type="verbum" rend="italic" ref="#biccherna">Biccherna</term>, non
+                        <lb/>il significato etimologico dell'altro vocabolo <term type="verbum" rend="italic" ref="#biccherna">Biccherna</term>, non
                         <lb/>so nè oso affermare con certezza, contentandomi di riferire
                         <lb/>che il <name type="person" ref="#mussini">Mussini</name> <ref>(pag. 28)</ref> lo dice « <quote source="#mussini">oriundo tedesco</quote>, » da <term xml:lang="de" rend="italic">Bü-
                         <lb/>cher</term>, libri: su di che lascio il giudizio ai linguisti. Una
@@ -1048,20 +1048,19 @@
                         </signed>
                     </closer>
                 </div>
-                <!-- Articolo 3 -->
 
                 <!-- Bibliografia e notizie  -->
                 <div type="bibl_notiz" org="uniform" sample="medial">
                     <pb n="1" facs="#bibl1i" xml:id="pb274"/>
                     <cb xml:id="c2_p274" n="2" corresp="#pb274"/>
-                    <div type="entrata_bibl" n="1" part="I" corresp="#c2_p274">
-                        <head rend="align(center) case(allcaps)">
+                    <div type="entrata_bibl" n="1" part="I">
+                        <head rend="align(center) case(allcaps)" >
                             <lb />Bibliografia. 
                         </head>
-                        <head rend="align(center) case(allcaps)" facs="#bibl1_categ" xml:id="bibl1_categoria">
+                        <head rend="align(center) case(allcaps)" facs="#bibl1_categ" xml:id="bibl1_categoria" corresp="#c2_p274">
                             <lb />Letteratura e storia. 
                         </head>
-                        <ab facs="#bibl1_tit" xml:id="bibl1_titolo">
+                        <ab facs="#bibl1_tit" xml:id="bibl1_titolo" corresp="#c2_p274">
                             <bibl xml:id="hortis_bibl">
                                 <lb />
                                 <author rend="case(allcaps)">
@@ -1078,7 +1077,7 @@
                                 <date when="1878">1878</date>
                             </bibl>
                         </ab>
-                        <p facs="#bibl1_pag274_p1" xml:id="bibl1_p274_p1"> 
+                        <p facs="#bibl1_pag274_p1" xml:id="bibl1_p274_p1" corresp="#c2_p274"> 
                             <lb/>Il titolo aggiunto dall'<choice><abbr>A.</abbr><expan>Autore</expan></choice> stesso a quello che sopra ab-
                             <lb/>biamo riferito, quello cioè di <name type="bibl" rend="italic" ref="#ricerche">Ricerche intorno alla storia del-
                             <lb/>l'erudizione classica nel <choice><orig>medio evo</orig><reg>Medioevo</reg></choice></name>, spiega chiaramente l'in-
@@ -1112,7 +1111,7 @@
                             <lb/>minare le carte dei moderni in su quel primo risvegliarsi
                             <lb/>dell'intelletto.
                         </p>
-                        <p facs="#bibl1_pag274_p2" xml:id="bibl1_p274_p2">
+                        <p facs="#bibl1_pag274_p2" xml:id="bibl1_p274_p2" corresp="#c2_p274">
                             <lb/>Certo la conoscenza dei grandi scrittori pagani non fu
                             <lb/>interamente spenta nell'età media: ma osserva a ragione
                             <lb/>l'<choice><abbr>A.</abbr><expan>Autore</expan></choice>, che il culto degli antichi si trova qua e là in qualche
@@ -1133,8 +1132,8 @@
                     </div>
                     <pb n="2" facs="#bibl1f_2" xml:id="pb275"/>
                     <cb xml:id="c1_p275" n="1" corresp="#pb275"/>
-                    <div type="entrata_bibl" n="1" part="F" corresp="#c1_p275">
-                        <p facs="#bibl1_pag275_p1" xml:id="bibl1_p275_p1">       
+                    <div type="entrata_bibl" n="1" part="F">
+                        <p facs="#bibl1_pag275_p1" xml:id="bibl1_p275_p1" corresp="#c1_p275">       
                             <lb/>tanto col <name type="person" ref="#petrarca">Petrarca</name> e col <name type="person" ref="#boccaccio">Boccaccio</name> risorge lo spirito vivifi-
                             <lb/>catore del <name type="org" ref="classicismo">classicismo</name>. « <quote source="hortis">Nelle scuole monastiche</quote>, osserva
                             <lb/>a ragione l'<name type="person" ref="hortis">Hortis</name>, <quote source="hortis">poteva regnare la frase, non lo spirito di
@@ -1160,7 +1159,7 @@
                             <lb/>trarca</name>, dimezzando in <num type="cardinal" value="2">due</num> l'uomo, che secondo lo spirito
                             <lb/>dell'antichità era <num type="cardinal" value="1">uno</num> e individuo.
                         </p>
-                        <p facs="#bibl1_pag275_p2" xml:id="bibl1_p275_p2">
+                        <p facs="#bibl1_pag275_p2" xml:id="bibl1_p275_p2" corresp="#c1_p275">
                             <lb/>Anche il <name type="person" ref="#boccaccio">Boccaccio</name> fu altamente benemerito dell'opera
                             <lb/>del rinnovamento classico: ma, secondo acutamente osserva
                             <lb/>l'<name type="person" ref="#hortis">Hortis</name>, egli cercò nelle opere di <name type="person" ref="#cicerone">Cicerone</name> notizie erudite
@@ -1172,7 +1171,7 @@
                             <lb/>tis</name>, e che siamo sicuri recheranno buon frutto agli studi
                             <lb/>della nostra storia letteraria.
                         </p>
-                        <p facs="#bibl1_pag275_p3" xml:id="bibl1_p275_p3">
+                        <p facs="#bibl1_pag275_p3" xml:id="bibl1_p275_p3" corresp="#c1_p275">
                             <lb/>A ben condurre queste industriose investigazioni è ne-
                             <lb/>cessario aver esatta notizia dell'<choice><orig>evo medio</orig><reg>Medioevo</reg></choice>, per cono-
                             <lb/>scere ciò che possedeva e ciò che gli mancava: dell'anti-
@@ -1187,11 +1186,11 @@
                             <lb/>l'importante argomento al quale egli ha drizzato l'ingegno.
                         </p>
                     </div>
-                    <div type="entrata_bibl" n="2" facs="#bibl2" corresp="#c1_p275">
+                    <div type="entrata_bibl" n="2" facs="#bibl2">
                         <head rend="align(center) case(allcaps)" facs="#bibl2_categ" xml:id="bibl2_categoria">
                             <lb />Scienze filosofiche. 
                         </head>
-                        <ab facs="#bibl2_tit" xml:id="bibl2_titolo">
+                        <ab facs="#bibl2_tit" xml:id="bibl2_titolo" corresp="#c1_p275">
                             <bibl xml:id="valdarnini_bibl">
                                 <lb />
                                 <author>
@@ -1210,13 +1209,13 @@
                                 <date when="1878">1878</date>.
                             </bibl>
                         </ab>
-                        <p facs="#bibl2_pag275_p1" xml:id="bibl2_p275_p1"> 
+                        <p facs="#bibl2_pag275_p1" xml:id="bibl2_p275_p1" corresp="#c1_p275"> 
                             <lb/>« <quote source="#valdarnini">L'unico e vero fine di <choice><expan><ex>co</ex>sì</expan></choice> breve ed umile Trattato</quote> » si
                             <lb/>è, dice l'<choice><abbr>A.</abbr><expan>Autore</expan></choice>, di porgere alla gioventù un Manuale, che «<quote source="#valdarnini"> alla
                             <lb/>chiarezza e semplicità dell'esposizione unisse la sobrietà
                             <lb/>delle dottrine, l'ordine e <hi rend="italic">il rigore scientifico</hi>.</quote> »
                         </p>
-                        <p facs="#bibl2_pag275_p2" xml:id="bibl2_p275_p2"> 
+                        <p facs="#bibl2_pag275_p2" xml:id="bibl2_p275_p2" corresp="#c1_p275"> 
                             <lb/>« <quote source="#valdarnini">L'uomo... risulta composto di due sostanze, una ma-
                             <lb/>teriale che dicesi <term type="verbum">corpo</term>, l'altra spirituale che dicesi <term type="verbum">anima</term>.
                             <lb/>Queste due sostanze, unite insieme, formano un solo indi-
@@ -1228,12 +1227,12 @@
                             <lb/>di facoltà semplicissime, vale a dire non corporee, imma-
                             <lb/>teriali, inestese....</quote> » <ref>(p. 8-9)</ref>.
                         </p>
-                        <p facs="#bibl2_pag275_p3i" part="I" xml:id="bibl2_p275_p3i"> 
+                        <p facs="#bibl2_pag275_p3i" part="I" xml:id="bibl2_p275_p3i" corresp="#c1_p275"> 
                             <lb/>Seguono alcune Lezioni ove si espone come anche i bruti
                             <lb/>sieno forniti di un'anima, la quale però è solo <soCalled rend="italic">sensitiva</soCalled>,
                         </p>
                         <cb xml:id="c2_p275" n="2" corresp="#pb275"/>
-                        <p facs="#bibl2_pag275_p3f" part="F" xml:id="bibl2_p275_p3f">
+                        <p facs="#bibl2_pag275_p3f" part="F" xml:id="bibl2_p275_p3f" corresp="#c2_p275">
                             <lb/>mentre quella dell'uomo è anche <soCalled rend="italic">intellettiva</soCalled> e <soCalled rend="italic">volitiva</soCalled>. Posta
                             <lb/>questa distinzione, corre liscia e veloce la spiegazione di
                             <lb/>qualsivoglia fatto psicologico: tutto è chiaro, tutto è evi-
@@ -1249,7 +1248,7 @@
                             <lb/>e che «<quote source="#valdarnini">la coscienza, essendo da natura, non può ingannare</quote> »
                             <lb/>neppur essa!
                         </p>
-                        <p facs="#bibl2_pag275_p4" xml:id="bibl2_p275_p4">
+                        <p facs="#bibl2_pag275_p4" xml:id="bibl2_p275_p4" corresp="#c2_p275">
                             <lb/>Egli è così che l'<choice><abbr>A.</abbr><expan>Autore</expan></choice> giunge a conoscere con certezza
                             <lb/>l'essenza, l'origine ed il fine dell'anima umana. Essa è
                             <lb/>« <quote source="#valdarnini">un principio od una sostanza immateriale, che sente, ra-
@@ -1260,7 +1259,7 @@
                             <lb/>zionali operano senza gli organi corporali, o rivestita di
                             <lb/>membra più sottili e perfette.</quote> »
                         </p>
-                        <p facs="#bibl2_pag275_p5" xml:id="bibl2_p275_p5">
+                        <p facs="#bibl2_pag275_p5" xml:id="bibl2_p275_p5" corresp="#c2_p275">
                             <lb/>Se non che in questa <num type="ordinal" value="9">IX</num> Lezione l'<choice><abbr>A.</abbr><expan>Autore</expan></choice> inciampa, per la
                             <lb/>prima ed ultima volta, in una <soCalled rend="italic">difficoltà</soCalled>; e precisamente nel
                             <lb/>quesito intorno al <term type="verbum" rend="italic">commercio</term> dell'anima e del corpo. « <quote source="#valdarnini">A dir
@@ -1286,7 +1285,7 @@
                             <lb/>similitudine, in un argomento di così capitale importanza è
                             <lb/>per lo meno impropria.
                         </p>
-                        <p facs="#bibl2_pag275_p6" xml:id="bibl2_p275_p6">
+                        <p facs="#bibl2_pag275_p6" xml:id="bibl2_p275_p6" corresp="#c2_p275">
                             <lb/>Confessiamo che dopo questa inaspettata irruzione di
                             <lb/>materialismo, ci è mancato il coraggio di continuare la let-
                             <lb/>tura. Solo <choice><expan>abbiam<ex>o</ex></expan></choice> notato che, prendendo commiato dai suoi
@@ -1313,15 +1312,13 @@
                         </ab>
                     </div>
                 </div>
-                
-        
-            </div>
-                             <!-- Articolo 3 -->
+
+                <!-- Articolo 3 -->
                 <div type="article" n="3" xml:lang="it" source="#art_3">
                     <pb n="1" facs="#p337" xml:id="pb337" />
                     <cb xml:id="c2_p337" n="2" corresp="#pb337"/>
-                    <head facs="#p337" xml:id="pag337_tit" corresp="#p337_col2">
-                         <lb/>LA CALABRIA DESCRITTA DA UN CALABRESE.
+                    <head facs="#p337" xml:id="pag337_tit" corresp="#p337_col2" rend="align(center) case(allcaps)">
+                         <lb/>La Calabria descritta da un calabrese.
                     </head>
                     <p xml:id="p337_par1" corresp="#c2_p337">
                         <lb/>L'<name type="place" ref="#it">Italia</name> non conosce sé stessa: e non solo l'italiano che
@@ -1370,7 +1367,7 @@
                     </p>
                     <pb n="2" facs="#p338" xml:id="pb338"/>
                     <cb xml:id="c1_p338" n="1" corresp="#pb338"/>
-                    <p xml:id="p338_par1" corresp="#c1_338">
+                    <p xml:id="p338_par1" corresp="#c1_p338">
                         <lb/>cito ricordare <distinct time="archaic"><choice><abbr>pel</abbr><expan>per il</expan></choice></distinct> passato <distinct time="archaic"><choice><orig>niun</orig><reg>nessun</reg></choice></distinct> altro studio in proposito
                         <lb/>salvo quello del <name type="person" ref="#pnai-rossi">Pani-Rossi</name> sulla <name type="place" ref="#basilicata">Basilicata</name>: ma da una
                         <lb/>recente pubblicazione del <roleName type="honorific">signor</roleName> <name type="person" ref="#padula">Padula</name><ref target="#p338_nota">*</ref> ci si conceda to-
@@ -1440,21 +1437,20 @@
                         <lb/>Gabriele: tanto si ama ciò che è utile, e tanto ciò che è
                         <lb/>utile par bello! Di più: l'animale prediletto che dà da man-
                     </p>
-                    <ab type="bibliography" facs="#p338" xml:id="p338_nota" corresp="#338_col1"> 
-                      <bibl> 
-                         <title rend="italic">Il Bruzio</title>,
-                         <lb/> giornale politico letterario di
-                         <author>
-                            <name> Vincenzo Padula da Acri</name>
-                         </author>,
-                        <lb/>vol. I, see. ediz. — 
-                        <pubPlace>Napoli</pubPlace>,
-                        <publisher>Testa</publisher>,
-                        <date when="1878">1878</date>.
-                      </bibl>
+                    <ab type="bibliography" facs="#p338" xml:id="p338_nota" corresp="#c1_p338"> 
+                        <bibl> 
+                            <title rend="italic">Il Bruzio</title>, giornale politico letterario di
+                            <author rend="case(allcaps)">
+                                <name>Vincenzo Padula</name> da Acri,
+                            </author>
+                            <lb/>vol. I, sec. ediz. — 
+                            <pubPlace>Napoli</pubPlace>,
+                            <publisher>Testa</publisher>,
+                            <date when="1878">1878</date>.
+                        </bibl>
                     </ab>
                     <cb xml:id="c2_p338" n="2" corresp="#pb338"/>
-                    <p xml:id="p338_par3_f" part="F" corresp="#c2_338">
+                    <p xml:id="p338_par3_f" part="F" corresp="#c2_p338">
                         <lb/>giare al povero, poco o punto costandogli, sicché sia me-
                         <lb/>glio, come vedemmo, allevare un porco che un figlio, è anche
                         <lb/>10 spazzaturaio del paese. Le case non hanno chiaviche, nè
@@ -1496,127 +1492,129 @@
                         <lb/>è factotum: la moglie lavora il lino e la lana, e domina sulle
                         <lb/>vicine che sien da meno. Ma i <term type="archaic" rend="italic" ref="#massaro">massari</term>, de' quali almeno la
                         <lb/>vita materiale è buona, vanno ogni giorno scemando di
-                    <lb/>numero, e cresce invece la classe dei <term type="archaic" rend="italic" ref="#massaro">massarotti</term>, de' quali il
-                    <lb/><name type="person" ref="#padula">Padula</name>distingue quattro specie. La prima è di quelli a cui
-                    <lb/>11 galantuomo dà i bovi da arare il campo, con spese e gua-
-                    <lb/>dagni a mezzo, più il companatico, ma non il pane e il vino.
-                    <lb/>Questa classe è agiata nei paesi che hanno vie carreggiabili,
-                    <lb/>miserabile in quelli che ne sono privi, perchè salvo in due
-                    <lb/>stagioni dell'anno, nelle altre stentano la vita. La seconda
-                    <lb/>specie è di quelli che prendono i buoi dal proprietario con
-                    <lb/>un contratto che dicesi <term rend="italic">pedatico</term>. Il proprietario non rischia
-                    <lb/>nulla, e guadagna il quattordici per cento. Il <term type="archaic" rend="italic" ref="#massaro">massarotto</term>
-                    <lb/>della terza specie corrisponde al <term type="archaic" rend="italic" ref="#mezzaiolo">mezzaiolo</term> quanto alla forma
-                    <lb/>del contratto, non quanto ai patti, che al lavoratore riescono
-                    <lb/>onerosissimi. Sia una terra di <num type="cardinal" value="10">dieci</num> moggiate: il galantuomo
-                    <lb/>anticipa dieci moggi di grano: ma alla trebbiatura preleva
-                    <lb/>i dieci moggi, più <num type="cardinal" value="10">dieci </num> quarti come frutto dell'anticipa-
-                    <lb/>zione, più trenta moggi come terratico: e il resto si divide.
-                    <lb/>La quarta specie è dei Attuari, e costoro mandano a male
-                    <lb/>i terreni, in modo che non trovano facilmente chi loro af-
-                    <lb/>fitti le terre, salvo dove sieno comunali. Ma, conclude l'Au-
-                    <lb/>tore, la sparizione della classe dei <term type="archaic" rend="italic" ref="#massaro">massari</term>, e la diminuzione
-                    <lb/>crescente dei <term type="archaic" rend="italic" ref="#massaro">massarotti</term>, sono due piaghe dell'ordine sociale
-                    <lb/>in <name type="place" ref="#calabria">Calabria </name>. Il popolo è quasi tutto, attualmente, di <hi rend="italic">coloni</hi>
-                    <lb/>e di <hi rend="italic">braccianti</hi>.
-                 </p>
-                <p xml:id="p338_par5" corresp="#c2_p338">
-                    <lb/>Il <term type="archaic" rend="italic" ref="#massaro">massarotto</term> diventa colono per miseria, ma non ci perde, 
-                    <lb/>anzi ci guadagna: chi ci perde è il proprietario, al quale
-                    <lb/>nocciono la distanza dei fondi, la mancanza di strade, la
-                    <lb/>paura <choice><abbr>de'</abbr><expan>dei</expan></choice>briganti. Intanto il mezzadro lo froda nella fo-
-                    <lb/>glia, lo froda nei frutti, lo froda nel grano. Entrato nel
-                </p>
-                <pb n="3" facs="#p339" xml:id="pb339"/>
-                <cb xml:id="c1_p339" n="1" corresp="#pb339"/>
-                <p xml:id="p339_par1" corresp="#c1_339">
-                    <lb/>fondo per bisogno, e intendendo di rimanervi finche il bi-
-                    <lb/>sogno duri, non vi piglia amore e trascura la coltivazione.
-                    <lb/>Dispersi in fondi lontani da ogni aggregazione civile, rele-
-                    <lb/>gati nelle <hi rend="italic"> torri</hi> <choice><orig>ond'hanno</orig><reg>dove hanno</reg></choice> il nome di <term type="archaic" rend="italic" ref="#torrieri">torrieri</term>, ignari di 
-                    <lb/>scrivere e di leggere, e privi d'istruzione religiosa, vivono,
-                    <lb/>dice l'Autore, questi coloni del Cosentino in uno stato che
-                    <lb/>confina con quello del bruto. Si accordano col brigante, e
-                    <lb/>quando il brigante non c'è, lo inventano per impaurire il
-                    <lb/>padrone, chiedendogli danaro a nome del brigante: e se il
-                    <lb/>padrone va al podere, si fanno manutengoli del malfattore.
-                    <lb/>Così una classe di coloni ruba al proprietario: un'altra è
-                    <lb/>dal proprietario rubata e angariata.
-                </p>
-                <p xml:id="p339_par2" corresp="#c1_p339">
-                    <lb/>La classe più numerosa e più miserabile è quella dei
-                    <lb/>braccianti. «Fino ad otto anni il fanciullo calabrese va dietro
-                    <lb/>all'asino, alle pecore, o al maiale: a nove, lavora nel campo
-                    <lb/>e guadagna <num type="cardinal" value="42">42 </num>centesimi al giorno: a <num type="cardinal" value="15">quindici</num>, ne ha <num type="cardinal" value="67">67</num>:
-                    <lb/>a <num type="cardinal" value="20">venti</num>, <num type="cardinal" value="85">85</num> e la minestra, o <num type="cardinal" value="1">1</num>, <num type="cardinal" value="25">25</num> senza minestra. Allora
-                    <lb/>pensa ad ammogliarsi.... perchè in <name type="place" ref="#calabria">Calabria </name> per dormire a
-                    <lb/>letto bisogna essere marito. Fino a <num type="cardinal" value="2">due</num> anni dormì nel
-                    <lb/>misero letto dove fu concepito: nacque il <num type="ordinal" value="2">secondo</num> fratello,
-                    <lb/>ed egli fu respinto nella parte inferiore; nacque il <num type="ordinal" value="3">terzo </num>,
-                    <lb/>ed egli uscì dal letto e dormì sopra il cassone: nacque il
-                    <lb/><num type="ordinal" value="4">quarto</num>, ed ei cadde giù dal cassone e si trovò a dormire
-                    <lb/>sul focolare. Poi crebbe, e d'inverno passò la notte nel pa-
-                    <lb/>gliere accanto all'asino: d'estate prese sonno sulla via allo
-                    <lb/>scoverto, e se aveva un'innamorata, andò a dormire sullo
-                    <lb/>scalino della porta, o sul ballatoio della scala di lei.» Alcuni
-                    <lb/>Canti popolari calabresi, che il <name type="person" ref="#padula">Padula</name>riferisce, e che ci
-                    <lb/>duole non poter qui riportare per mancanza di spazio, dipin-
-                    <lb/>gono la misera condizione del bracciante. Ci contenteremo
-                    <lb/>di due versi che dipingono la miseria del bracciante, op-
-                    <lb/>presso, per di più, dal debito:
-                    <lb/><distinct type="dialect" rend="italic">Iu chiangu, amaru io! quant' aju de davi;
-                    <lb/>Nun mi resta nu fìlli de capelli! </distinct>
-                </p>
-                <p xml:id="p339_par3" corresp="#c1_p339">
-                    <lb/>Troppo lunga è anche la vivace descrizione che della
-                    <lb/>casa del bracciante e de' suoi poveri arredi, fa l'Autore no-
-                    <lb/>stro: contentiamoci anche qui di un cenno: « La casa è a
-                    <lb/>terreno, non battuta nè ammattonata: riceve la luce dalla
-                    <lb/>porta, e se ha finestra, la è senza vetri o impannata. Di
-                    <lb/>fianco è il focolare privo di cappa o di cammino.... Di fac-
-                    <lb/>cia è '1 letto fatto di un saccone. » Cibo ordinario, sono
-                    <lb/>frutta secche e legumi: quando sia ricchissimo, mangia pane
-                    <lb/>di segala, o d'orzo, o d'una mistura di veccia, lupini e fave.
-                    <lb/>Vino mai, carne mai.
-                </p>
-                <p xml:id="p339_par4_i" part="I" corresp="#c1_p339">
-                    <lb/>Più giù nell'abiezione e nella miseria, stanno altre classi
-                    <lb/>di lavoratori, e <num type="ordinal">primo</num> il bifolco, che sta a servizio del <distinct time="archaic">mas- <!--BIFOLCO -->
-                    <lb/>saro</distinct> o <distinct time="archaic">massarotto</distinct> per dieci tumuli di formentone e due di
-                    <lb/>grano all'anno, e cinque lire al mese, più un calzare detto
-                    <lb/>calandrella: e non ha vitto dal padrone. Nè migliori sono
-                    <lb/>le condizioni del Gapraro e del Vaccaro, non chè degli altri
-                    <lb/>de' quali il <name type="person" ref="#padula">Padula</name> parlerà in seguito: <term rend="italic">Bufalieri</term>, <choice><orig><term rend="italic">Vignaiuoli</term></orig><reg><term rend="italic">Vignaioli</term></reg></choice>,
-                    <lb/><term rend="italic">Ortolani</term>, <term rend="italic">Giardinieri</term>, <term rend="italic">Fattoiani</term>, <term rend="italic">Concari</term>, <term rend="italic">Passatori</term>, <term rend="italic">Pescatori</term>,
-                    <lb/><term rend="italic">Guardiani</term>, <term rend="italic">Marinari</term>, <term rend="italic">Mulattieri</term>, <term rend="italic">Lettighieri</term>, <term rend="italic">Vetturini</term>, <term rend="italic">Carret-
-                    <lb/>tieri</term>, ec. Più si va giù, e più cresce una miseria che par-
-                    <lb/>rebbe anche a' primi gradi incomportabile, una ignoranza
-                    <lb/>che si direbbe non superabile, una abbiezione di vita che
-                    <lb/>ravvicina l'uomo al preferito animale: a quello che se avesse
-                    <lb/>l'ali, sarebbe l'angelo Gabriele. E condizioni non molto
-                    <lb/>dissimili a queste delle popolazioni calabresi si riscontrano
-                    <lb/>in altre province della peninola. Se la nostra voce avesse
-                    <lb/>autorità, diremmo ai giovani scrittori: Lasciate i lavori di
-                    <lb/>fantasia, i drammi, i romanzi, e dacché avete in bocca il
-                    <lb/>vero e il <name type="org" ref="#verismo">verismo</name>, eccovi largo campo di osservazioni, eccovi
-                    <lb/>miserie, eccovi affetti, ecco creature umane da ritrarre senza
-                    <lb/><distinct time="archaic"><choice><orig>mischianza</orig><reg>mescolanza</reg></choice></distinct> di falso, e con giunta, un resultato benefico; ai
-                    <lb/>teneri di cuore e alle nervose signore che si attristano per
-                    <lb/>le bestie maltrattate, diremmo: <said direct="true" aloud="true">Eccovi uomini e donne cui</said>
-                </p>
-                <cb xml:id="c2_p339" n="2" corresp="#pb339"/>
-                <p xml:id="p339_par4_f" part="F" corresp="#c2_339">
-                    <lb/><said direct="true" aloud="true">la società e la fortuna tratta peggio che bestie; agli uomini
-                    <lb/>di Stato, ai politicanti, ai giornalisti, diremmo: Guardate
-                    <lb/>qua, studiate qua; belle cose, la repubblica di <name type="person" ref="#platone">Platone</name>, la
-                    <lb/>fratellanza universale dei popoli, i diritti sovrani della plebe,
-                    <lb/>l'allargamento del suffragio: ma qui vi è gente che è men
-                    <lb/>che plebe da sollevare, da riscattare, da istruire</said>. A tutti
-                    <lb/>diremmo: <said direct="true" aloud="true">Studiamo l'<name type="place" ref="#it">Italia</name> vera, i suoi veri bisogni, il suo
-                    <lb/>stato reale: perchè noi, duro a dirsi, non conosciamo an-
-                    <lb/>cora la patria nostra!</said>
-                 </p>
+                        <lb/>numero, e cresce invece la classe dei <term type="archaic" rend="italic" ref="#massaro">massarotti</term>, de' quali il
+                        <lb/><name type="person" ref="#padula">Padula</name>distingue quattro specie. La prima è di quelli a cui
+                        <lb/>il galantuomo dà i bovi da arare il campo, con spese e gua-
+                        <lb/>dagni a mezzo, più il companatico, ma non il pane e il vino.
+                        <lb/>Questa classe è agiata nei paesi che hanno vie carreggiabili,
+                        <lb/>miserabile in quelli che ne sono privi, perchè salvo in due
+                        <lb/>stagioni dell'anno, nelle altre stentano la vita. La seconda
+                        <lb/>specie è di quelli che prendono i buoi dal proprietario con
+                        <lb/>un contratto che dicesi <term rend="italic">pedatico</term>. Il proprietario non rischia
+                        <lb/>nulla, e guadagna il quattordici per cento. Il <term type="archaic" rend="italic" ref="#massaro">massarotto</term>
+                        <lb/>della terza specie corrisponde al <term type="archaic" rend="italic" ref="#mezzaiolo">mezzaiolo</term> quanto alla forma
+                        <lb/>del contratto, non quanto ai patti, che al lavoratore riescono
+                        <lb/>onerosissimi. Sia una terra di <num type="cardinal" value="10">dieci</num> moggiate: il galantuomo
+                        <lb/>anticipa dieci moggi di grano: ma alla trebbiatura preleva
+                        <lb/>i dieci moggi, più <num type="cardinal" value="10">dieci </num> quarti come frutto dell'anticipa-
+                        <lb/>zione, più trenta moggi come terratico: e il resto si divide.
+                        <lb/>La quarta specie è dei Attuari, e costoro mandano a male
+                        <lb/>i terreni, in modo che non trovano facilmente chi loro af-
+                        <lb/>fitti le terre, salvo dove sieno comunali. Ma, conclude l'Au-
+                        <lb/>tore, la sparizione della classe dei <term type="archaic" rend="italic" ref="#massaro">massari</term>, e la diminuzione
+                        <lb/>crescente dei <term type="archaic" rend="italic" ref="#massaro">massarotti</term>, sono due piaghe dell'ordine sociale
+                        <lb/>in <name type="place" ref="#calabria">Calabria</name>. Il popolo è quasi tutto, attualmente, di <hi rend="italic">coloni</hi>
+                        <lb/>e di <hi rend="italic">braccianti</hi>.
+                    </p>
+                    <p xml:id="p338_par5" corresp="#c2_p338">
+                        <lb/>Il <term type="archaic" rend="italic" ref="#massaro">massarotto</term> diventa colono per miseria, ma non ci perde, 
+                        <lb/>anzi ci guadagna: chi ci perde è il proprietario, al quale
+                        <lb/>nocciono la distanza dei fondi, la mancanza di strade, la
+                        <lb/>paura <choice><abbr>de'</abbr><expan>dei</expan></choice>briganti. Intanto il mezzadro lo froda nella fo-
+                        <lb/>glia, lo froda nei frutti, lo froda nel grano. Entrato nel
+                    </p>
+                    <pb n="3" facs="#p339" xml:id="pb339"/>
+                    <cb xml:id="c1_p339" n="1" corresp="#pb339"/>
+                    <p xml:id="p339_par1" corresp="#c1_p339">
+                        <lb/>fondo per bisogno, e intendendo di rimanervi finche il bi-
+                        <lb/>sogno duri, non vi piglia amore e trascura la coltivazione.
+                        <lb/>Dispersi in fondi lontani da ogni aggregazione civile, rele-
+                        <lb/>gati nelle <hi rend="italic"> torri</hi> <choice><orig>ond'hanno</orig><reg>dove hanno</reg></choice> il nome di <term type="archaic" rend="italic" ref="#torrieri">torrieri</term>, ignari di 
+                        <lb/>scrivere e di leggere, e privi d'istruzione religiosa, vivono,
+                        <lb/>dice l'Autore, questi coloni del Cosentino in uno stato che
+                        <lb/>confina con quello del bruto. Si accordano col brigante, e
+                        <lb/>quando il brigante non c'è, lo inventano per impaurire il
+                        <lb/>padrone, chiedendogli danaro a nome del brigante: e se il
+                        <lb/>padrone va al podere, si fanno manutengoli del malfattore.
+                        <lb/>Così una classe di coloni ruba al proprietario: un'altra è
+                        <lb/>dal proprietario rubata e angariata.
+                    </p>
+                    <p xml:id="p339_par2" corresp="#c1_p339">
+                        <lb/>La classe più numerosa e più miserabile è quella dei
+                        <lb/>braccianti. «Fino ad otto anni il fanciullo calabrese va dietro
+                        <lb/>all'asino, alle pecore, o al maiale: a nove, lavora nel campo
+                        <lb/>e guadagna <num type="cardinal" value="42">42 </num>centesimi al giorno: a <num type="cardinal" value="15">quindici</num>, ne ha <num type="cardinal" value="67">67</num>:
+                        <lb/>a <num type="cardinal" value="20">venti</num>, <num type="cardinal" value="85">85</num> e la minestra, o <num type="cardinal" value="1">1</num>, <num type="cardinal" value="25">25</num> senza minestra. Allora
+                        <lb/>pensa ad ammogliarsi.... perchè in <name type="place" ref="#calabria">Calabria </name> per dormire a
+                        <lb/>letto bisogna essere marito. Fino a <num type="cardinal" value="2">due</num> anni dormì nel
+                        <lb/>misero letto dove fu concepito: nacque il <num type="ordinal" value="2">secondo</num> fratello,
+                        <lb/>ed egli fu respinto nella parte inferiore; nacque il <num type="ordinal" value="3">terzo </num>,
+                        <lb/>ed egli uscì dal letto e dormì sopra il cassone: nacque il
+                        <lb/><num type="ordinal" value="4">quarto</num>, ed ei cadde giù dal cassone e si trovò a dormire
+                        <lb/>sul focolare. Poi crebbe, e d'inverno passò la notte nel pa-
+                        <lb/>gliere accanto all'asino: d'estate prese sonno sulla via allo
+                        <lb/>scoverto, e se aveva un'innamorata, andò a dormire sullo
+                        <lb/>scalino della porta, o sul ballatoio della scala di lei.» Alcuni
+                        <lb/>Canti popolari calabresi, che il <name type="person" ref="#padula">Padula</name>riferisce, e che ci
+                        <lb/>duole non poter qui riportare per mancanza di spazio, dipin-
+                        <lb/>gono la misera condizione del bracciante. Ci contenteremo
+                        <lb/>di due versi che dipingono la miseria del bracciante, op-
+                        <lb/>presso, per di più, dal debito:
+                        <lb/><distinct type="dialect" rend="italic">Iu chiangu, amaru io! quant' aju de davi;
+                        <lb/>Nun mi resta nu fìlli de capelli! </distinct>
+                    </p>
+                    <p xml:id="p339_par3" corresp="#c1_p339">
+                        <lb/>Troppo lunga è anche la vivace descrizione che della
+                        <lb/>casa del bracciante e de' suoi poveri arredi, fa l'Autore no-
+                        <lb/>stro: contentiamoci anche qui di un cenno: « La casa è a
+                        <lb/>terreno, non battuta nè ammattonata: riceve la luce dalla
+                        <lb/>porta, e se ha finestra, la è senza vetri o impannata. Di
+                        <lb/>fianco è il focolare privo di cappa o di cammino.... Di fac-
+                        <lb/>cia è '1 letto fatto di un saccone. » Cibo ordinario, sono
+                        <lb/>frutta secche e legumi: quando sia ricchissimo, mangia pane
+                        <lb/>di segala, o d'orzo, o d'una mistura di veccia, lupini e fave.
+                        <lb/>Vino mai, carne mai.
+                    </p>
+                    <p xml:id="p339_par4_i" part="I" corresp="#c1_p339">
+                        <lb/>Più giù nell'abiezione e nella miseria, stanno altre classi
+                        <lb/>di lavoratori, e <num type="ordinal">primo</num> il bifolco, che sta a servizio del <distinct time="archaic">mas- <!--BIFOLCO -->
+                        <lb/>saro</distinct> o <distinct time="archaic">massarotto</distinct> per dieci tumuli di formentone e due di
+                        <lb/>grano all'anno, e cinque lire al mese, più un calzare detto
+                        <lb/>calandrella: e non ha vitto dal padrone. Nè migliori sono
+                        <lb/>le condizioni del Gapraro e del Vaccaro, non chè degli altri
+                        <lb/>de' quali il <name type="person" ref="#padula">Padula</name> parlerà in seguito: <term rend="italic">Bufalieri</term>, <choice><orig><term rend="italic">Vignaiuoli</term></orig><reg><term rend="italic">Vignaioli</term></reg></choice>,
+                        <lb/><term rend="italic">Ortolani</term>, <term rend="italic">Giardinieri</term>, <term rend="italic">Fattoiani</term>, <term rend="italic">Concari</term>, <term rend="italic">Passatori</term>, <term rend="italic">Pescatori</term>,
+                        <lb/><term rend="italic">Guardiani</term>, <term rend="italic">Marinari</term>, <term rend="italic">Mulattieri</term>, <term rend="italic">Lettighieri</term>, <term rend="italic">Vetturini</term>, <term rend="italic">Carret-
+                        <lb/>tieri</term>, ec. Più si va giù, e più cresce una miseria che par-
+                        <lb/>rebbe anche a' primi gradi incomportabile, una ignoranza
+                        <lb/>che si direbbe non superabile, una abbiezione di vita che
+                        <lb/>ravvicina l'uomo al preferito animale: a quello che se avesse
+                        <lb/>l'ali, sarebbe l'angelo Gabriele. E condizioni non molto
+                        <lb/>dissimili a queste delle popolazioni calabresi si riscontrano
+                        <lb/>in altre province della peninola. Se la nostra voce avesse
+                        <lb/>autorità, diremmo ai giovani scrittori: Lasciate i lavori di
+                        <lb/>fantasia, i drammi, i romanzi, e dacché avete in bocca il
+                        <lb/>vero e il <name type="org" ref="#verismo">verismo</name>, eccovi largo campo di osservazioni, eccovi
+                        <lb/>miserie, eccovi affetti, ecco creature umane da ritrarre senza
+                        <lb/><distinct time="archaic"><choice><orig>mischianza</orig><reg>mescolanza</reg></choice></distinct> di falso, e con giunta, un resultato benefico; ai
+                        <lb/>teneri di cuore e alle nervose signore che si attristano per
+                        <lb/>le bestie maltrattate, diremmo: <said direct="true" aloud="true">Eccovi uomini e donne cui</said>
+                    </p>
+                    <cb xml:id="c2_p339" n="2" corresp="#pb339"/>
+                    <p xml:id="p339_par4_f" part="F" corresp="#c2_p339">
+                        <lb/><said direct="true" aloud="true">la società e la fortuna tratta peggio che bestie</said>; agli uomini
+                        <lb/>di Stato, ai politicanti, ai giornalisti, diremmo: <said direct="true" aloud="true">Guardate
+                        <lb/>qua, studiate qua; belle cose, la repubblica di <name type="person" ref="#platone">Platone</name>, la
+                        <lb/>fratellanza universale dei popoli, i diritti sovrani della plebe,
+                        <lb/>l'allargamento del suffragio: ma qui vi è gente che è men
+                        <lb/>che plebe da sollevare, da riscattare, da istruire</said>. A tutti
+                        <lb/>diremmo: <said direct="true" aloud="true">Studiamo l'<name type="place" ref="#it">Italia</name> vera, i suoi veri bisogni, il suo
+                        <lb/>stato reale: perchè noi, duro a dirsi, non conosciamo an-
+                        <lb/>cora la patria nostra!</said>
+                    </p>
                 </div>
+        
+            </div>
         </body>
 
         <!-- Appendice -->
@@ -2559,6 +2557,14 @@
                     <item>
                         <gloss target="#camerlengo" xml:lang="it" resp="#mcamp" source="https://www.treccani.it/vocabolario/camerlengo/">
                             Nel Medioevo il ruolo di <hi rend="bold">camarlingo</hi> (o camerlengo) era simile a quello di un tesoriere o amministratore finanziario. Si trattava di una figura preposta alla gestione delle finanze pubbliche, della supervisione dei conti e della riscossione delle entrate della comunità. 
+                        </gloss>
+                    </item>
+                    <label>
+                        <term xml:id="quest_sociale">Questione sociale</term>
+                    </label>
+                    <item>
+                        <gloss target="#quest_sociale" resp="#acar" source="https://it.wikipedia.org/wiki/Questione_operaia">
+                            Insieme di problematiche sorte durante il processo di industrializzazione nella seconda metà del XIX secolo, legate alle precarie condizioni di vita e lavorative di contadini e operai.
                         </gloss>
                     </item>
                 </list>
