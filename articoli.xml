@@ -1313,8 +1313,334 @@
                         </ab>
                     </div>
                 </div>
+                
         
             </div>
+             <!-- ARTICOLO 3 -->
+    <div type="article" n="3" xml:lang="it" source="#art_3">
+            <pb n="1" facs="#p337" xml:id="pb337" />
+            <cb xml:id="c2_p337" n="2" corresp="#p337"/>
+            <head facs="#p337" xml:id="pag337_tit" corresp="#p337_col2">
+                 <lb/>LA CALABRIA DESCRITTA DA UN CALABRESE
+            </head>
+            
+<!--SECONDA COLONNA PAGINA 337 -->
+<!--PRIMO PARAGRAFO-->
+          <p xml:id="p337_par1" corresp="#c2_p337">
+            <lb/>L’<name type="place" ref="#it">Italia</name> non conosce sé stessa : e non solo l’italiano che
+            <lb/>la percorre viaggiando prende a guida il <name type="person" ref="#dupays">Du Pays</name> o il
+            <lb/><name type="person" ref="#baedeker">Baedeker</name>, ma lo <roleName>statista</roleName> e lo <roleName>studioso</roleName> mancano assai spesso
+            <lb/>di sussidi a conoscerne le condizioni reali. Appena qualche 
+            <lb/>cosa si è cominciato a fare descrivendo la natura mate-
+            <lb/>riale di qualche provincia, e le industrie e i commerci : ma
+            <lb/>di uno studio dell’ essere morale delle varie province o re-
+            <lb/>gioni si incomincia ora soltanto a vedere l’utilità, anzi la
+            <lb/>necessità indispensabile. Nel <num type="ordinal">primo</num> ardore del nostro ri-
+            <lb/>sorgimento nazionale si credette che un ordinamento libe-
+            <lb/>rale, uguale per ogni antico stato che veniva ad agglome-
+            <lb/>rarsi e perdersi nel seno della nazione, potesse essere a
+            <lb/>tutte le parti d’<name type="place" ref="#it">Italia</name>  egualmente acconcio, e per ognuna
+            <lb/>strumento a futuri miglioramenti ; ma le tradizioni sono più
+            <lb/>forti delle leggi ; e dove credevamo che il carro trionfale
+            <lb/>dovesse procedere senza inciampi e senza scosse a mèta
+            <lb/>gloriosa, oggi cominciamo a dubitare che ciascuno dei cor-
+            <lb/>sieri abbia vizi o virtù proprie, e quale sia bisognoso di
+            <lb/>freno e quale di pungolo : e che ad ogni modo il farli an-
+            <lb/>dare uniti e d’ accordo riesca più difficile che non pareva.
+            <lb/>Certo è che dal giogo non vanno disgiunti : o, per uscir
+            <lb/>di metafora, che l’unità non va disfatta, nè menomata: ma
+            <lb/>lo sthdiare le condizioni speciali di ciascun paese, derivanti
+            <lb/>da diversità di tradizioni, di storia, di stirpe, di clima, di
+            <lb/>bisogni, è ormai obbligo morale del cittadino che voglia la
+            <lb/>patria unita e possente e prospera.
+          </p>
+
+  <!--SECONDO PARARAFO SEMPRE A PAGINA 337-->
+           <p xml:id="p337_par2_i" part="I" corresp="#c2_p337">
+            <lb/>Fra le men conosciute province d’<name type="place" ref="#it">Italia</name>  ognuno pone le
+            <lb/>meridionali, che la tirannide borbonica, e prima ancora la <!--TIRANNIDE BORBONICA va etichetatto? -->
+            <lb/>mala signoria spagnuola, aveva segregate dal resto d’ <name type="place" ref="#it">Italia</name> <!--SIGNORIA SPAGNUOLA: va etichetatto?-->
+            <lb/>con una muraglia più che Chinese. Veduta <name type="place" ref="#napoli">Napoli</name>, il più
+            <lb/>degli italiani non cercavano, e non cercano ancora i più,
+            <lb/>nuli’ altro ; e la poca sicurezza, e le strade non compiute,
+            <lb/>e la scarsa attrattiva di città non cospicue per monumenti
+            <lb/>d’ arte o per istituti scientifici, fanno sì che, salvo qualche
+            <lb/>archeologo, di visitatori italiani od esteri non abbondino
+            <lb/>terre che, aggiungendovi anche i l cuor di <name type="place" ref="#Sicilia">Sicilia </name>, formano
+            <lb/>quasi mezza l’<name type="place" ref="#it">Italia</name>. Ai viaggi, alle ispezioni, agli studi
+            <lb/>de visu suppliscano, perchè si formi una idea chiara e
+            <lb/>generale delle condizioni e dei bisogni di quelle province,
+            <lb/>suppliscano almeno ed ampiamente le descrizioni di per-
+            <lb/>sone competenti. Su questo nostro giornale non ci è le­-
+        </p>
+ 
+  <!--PAGINA 338: PRIMA COLONNA CONTINUAZONE SECONDO PARAGRAFO-->
+        <pb n="2" facs="#p338" xml:id="p338"/>
+        <cb xml:id="c1_p338" n="1" corresp="#p338"/>
+        <p xml:id="p338_par2_f" part="F" corresp="#c1_338">
+            <lb/>cito ricordare pel passato niun altro studio in proposito
+            <lb/>salvo quello del <name type="person" ref="#pnai-rossi">Pani-Rossi</name> sulla <name type="place" ref="#basilicata">Basilicata </name> : ma da una
+            <lb/>recente pubblicazione del <roleName type="honorific">signor</roleName> <name type="person" ref="#padula"> Padula</name> * ci si conceda to-
+            <lb/>gliere quanto può dare notizia della vita economica e mo-
+            <lb/>rale in <name type="place" ref="#calabria">Calabria</name>. Ciò che diremo non è compiuto, perchè
+            <lb/>1’ opera del <roleName type="honorific">signor</roleName>  <name type="person" ref="#padula"> Padula</name>, nella quale andiamo spigolando,
+            <lb/>non è terminata : ma quel che diremo, è almeno testimo-
+            <lb/>nianza di un nativo de1 luoghi, illuminato insieme ed ap-
+            <lb/>passionato amatore della propria provincia.
+         </p>
+
+  <!--TERZO PARAGRAFO-->
+        <p xml:id="p338_par3" corresp="#c1_p338">
+            <lb/>Non è da meravigliarsi che le sue osservazioni volgansi
+            <lb/>specialmente sullo stato della misera plebe delle città e dei
+            <lb/>campi: chè a tale studio è chiamato ogni uomo di cuore e
+            <lb/>d’intelletto, e quella che dicesi <term rend="italic">questione sociale </term> è speranza <!--NON SO SE USARE IL TAG HI AL POSTO DI TERM PER "questione sociale"però ho pensato fosse un termine tecnico/storico quindi ho preferito <term>-->
+            <lb/>e sgomento insieme degli odierni statisti. Or ecco come il
+            <lb/><name type="person" ref="#padula">Padula</name>ci descrive 1’ abitazione del povero in <name type="place" ref="#calabria">Calabria </name>. « A
+            <lb/>destra dell’ uscio un asino che sgretola il suo fieno, poi un
+            <lb/>focolare senza fuoco, senza pentola, con un gatto soriano
+            <lb/>accoccolato sulla cenere, poi di fronte una finestra priva di
+            <lb/>vetri e d’impannata, con orciuoli e scodelle sul davanzale ;
+            <lb/>poi a sinistra un fetido pagliericcio, e sotto quel pagliericcio
+            <lb/>che chiamasi letto, un truogo, e presso al truogo, un porco,
+            <lb/>e razzolanti qua e colà, galli, galline e pulcini, che beccano
+            <lb/>ciò che cade dalla bocca dell’ asino e la crusca rimasta ap-
+            <lb/>piastricciata sul grifo del porco ; e quando il bimbo che
+            <lb/>sta sul letto vagisce, il porco grugnisce, il gatto miagola,
+            <lb/>1’ asino raglia, la gallina schiamazza, e la donna di casa con
+            <lb/>la granata in mano strepita anch’ essa inseguendo il gallo,
+            <lb/>che svolazzando ha fracassato 1’orciuolo. Voi da quel bac-
+            <lb/>cano, da quel tramestìo vi formerete l’idea dell’ inferno.
+            <lb/>Ebbene! in quell’inferno nasce l’infelice calabrese, che ve-
+            <lb/>nuto ai venti anni piglia il mestiero di brigante, o finisce
+            <lb/>di vivere come 1’ animale con cui fu educato. » Il sorriso
+            <lb/>che ci spuntava sulle labbra alla viva descrizione di quella
+            <lb/>pìccola arca di <name type="person" ref="#Noe">Noè</name>, muore a mezzo, e ci lascia pensosi; e
+            <lb/>pensosi proseguiamo a leggere l’articolo intitolato <title rend="italic">1’ Ostra-
+            <lb/>cismo de' porci</title>. <!--I TITOLI DELLE OPERE VANNO CON IL TAG "TITLE"?-->
+
+ <!--QUARTO PARAGRAFO-->
+        <p xml:id="p338_par4_i" part="I" corresp="#c1_p338">
+            <lb/>Sono quasi ormai cinque secoli dacché <name type="person">Francesco Petrarca</name>
+            <lb/>(non meravigli il lettore di vedere accozzati insieme il gentil.
+            <lb/>Poeta e <hi rend="italic">gli animali neri</hi>) lagnavasi con <name type="person" ref="francesco-da-carrara">Francesco da Car-
+            <lb/>rara</name> <roleName type="honorific">signor</roleName> di <name type="place" ref="#padova">Padova</name>, perchè la città sua, « così splendida
+            <lb/>e gloriosa.... quasi rozza ed incolta campagna, bruttamente
+            <lb/>si vedesse percorsa ed ingombrata da gregge di porci, che
+            <lb/>da tutti i lati odi turpemente grugnire, e vedi col grifo
+            <lb/>scavare in tutti i luoghi la terra. » E soggiungeva : « Av-
+            <lb/>vezzi alla turpe vista ed all’ ingrato puzzo, noi lo soffriamo
+            <lb/>con animo indifferente ; ma i forestieri ne prendono scan-
+            <lb/>dalo e meraviglia» {Senili, trad. Fracassetti, II, 351). Quel
+            <lb/>che era scandalo in <name type="place" ref="#padova">Padova</name> nel secolo decimoquarto, è spet-
+            <lb/>tacolo quotidiano, tollerato e gradito nelle <name type="place" ref="calabrie">Calabrie</name>, e' non
+            <lb/>solo nei campi, ma nelle città. « Il porco in <name type="place" ref="#calabria">Calabria </name>, dice
+            <lb/>il <name type="person" ref="#padula">Padula</name>, dorme sotto il letto, scorazza per le vie, si con-
+            <lb/>duce a passeggiare per le piazze, spinge il grifo nei caffè,
+            <lb/>si ferma innanzi alle bettole per raccogliere le bucce di lu-
+            <lb/>pini e di castagne che gli buttano i bevitori, e quando bene
+            <lb/>gli pare, entra in chiesa a sentire la predica. » Aggiungiamo,
+            <lb/>secondo scrisse lo sventurato <name type="person" ref="#cerri">Cerri</name>, autore delle <title rend="italic">Tribolazioni
+            <lb/>di un insegnante di ginnasio</title>, che il maiale entra anche nelle <!--I TITOLI DELLE OPERE VANNO CON IL TAG "TITLE"?-->
+            <lb/>scuole, e niuno lo scaccia ! Togliere la cittadinanza ai porci
+            <lb/>non si può, assevera l’autore nostro: anzi, secondo un pro-
+            <lb/>verbio del luogo, meglio è un porco che un figlio: <distinct type="dialect" rend="italic">Miegliu
+            <lb/>è crisciari u puorcu ca nu figliu </distinct>: e un frate calabrese ebbe 
+            <lb/>a dire che se il porco avesse 1’ ali somiglierebbe all’ <distinct time="archaic"><choice><orig>angiolo</orig><reg>angelo</reg></choice></distict>
+            <lb/>Gabriele: tanto si ama ciò che è utile, e tanto ciò che è
+            <lb/>utile par bello! Di più: l’animale prediletto che dà da man-
+        </p>
+
+        <ab type="bibliography" facs="#p338" xml:id="giornale_politico_letterario" corresp="#338_col1"> 
+              <bibl> 
+                 <title rend="italic">Il Bruzio</title>,
+                 <lb/> giornale politico letterario di
+                 <author>
+                    <name> Vincenzo Padula da Acri</name>
+                 </author>,
+                <lb/>vol. I, see. ediz. — 
+                <pubPlace>Napoli</pubPlace>,
+                <publisher>Testa</publisher>,
+                <date when="1878">1878</date>.
+              </bibl>
+        </ab>
+
+<!--SECONAD COLONNA PAGINA 338-->
+        <cb xml:id="c2_p338" n="2" corresp="#p338"/>
+        <p xml:id="p338_par4_f" part="F" corresp="#c2_338">
+            <lb/>giare al povero, poco o punto costandogli, sicché sia me-
+            <lb/>glio, come vedemmo, allevare un porco che un figlio, è anche
+            <lb/>10 spazzaturaio del paese. Le case non hanno chiaviche, nè
+            <lb/>fogne, nè condotti, nè tutto quel che qui non vogliam dire :
+            <lb/>le immondezze si depongono nell’ abitato, ma il maiale le
+            <lb/>mangia, e sbratta così il terreno. « All’ alba di un giorno
+            <lb/>estivo, dice il <name type="person" ref="#padula">Padula </name>, vedete aprirsi gli usci delle case, e
+            <lb/>uscire fuori figure bianche. Paiono spettri avvolti in len-
+            <lb/>zuolo di neve, e non sono spettri; Fate, che meditino un
+            <lb/>incantesimo, e non sono Fate. Chi sono dunque? Sono
+            <lb/>donne. Saltarono nude dal letto, si chiamarono dietro il
+            <lb/>porcello, e.... » e il resto lo immagini il lettore: <foreign xml:lang="la" rend="italic">sapienti pauca</foreign>.
+            <lb/>Ma, « fatte le fogne di pietra, cessa la necessità delle fogne
+            <lb/>vive, che sono i porci: e allora o i padroni dovrebbero tenerli
+            <lb/>legati in casa, o associarli sotto la guardia di un uomo, che
+            <lb/>di giorno fi menerebbe a pascere in contado, come si fa in
+            <lb/><name type="place" ref="#svz">Svizzera </name>delle mucche. »
+        </p>
+
+<!--QUINTO PARAGRAFO-->
+        <p xml:id="p338_par5" corresp="#c2_p338">
+            <lb/>E ora lasciamo il porco, e veniamo all’uomo. Tre ceti
+            <lb/>di uomini calabresi prende a descrivere nelle consuetudini
+            <lb/>della loro vita intellettuale, morale e materiale, il nostro
+            <lb/>Autore: cioè il <hi rend="italic">basso,</hi><hi rend="italic"> il medio,</hi> e quello dei <hi rend="italic">galantuomini</hi>,
+            <lb/>con che si designano, ed è vocabolo che dà molto da pen-
+            <lb/>sare, i ricchi. Nel ceto basso stanno gli agricoltori possi-
+            <lb/>denti, i <distinct time="archaic"> <choice> <origin>fittaiuoli</origin><reg>fittaioli</reg></choice>, i coloni, i braccianti, i pastori, i guar-
+            <lb/>diani, i garzoni ed i servitori ; e di tutti costoro si studiano
+            <lb/>l’indole, i bisogni, i vizi, le virtù, cominciando dal <distinct time="archaic" rend="italic">mas- 
+            <lb/>saro</distinct> che è 1’ agricoltore possidente di una <hi rend="italic">masseria</hi>, o campo 
+            <lb/>seminato. Ila egli di suo le capre e le pecore, i bovi per
+            <lb/>arare, l’asino per trasportare i prodotti: si ciba di pane di
+            <lb/>segala, perchè il pane di frumento è de’ soli galantuomini, e
+            <lb/><hi rend="italic">Donna di pane bianco</hi> significa <hi rend="italic">signora</hi>: ma fa il pane una <!--NON SO se è giusto il TAG DI "Donna di pane bianco" -->
+            <lb/>volta al mese, sgretolandovi i denti. Disprezza il cacio e il
+            <lb/>presciutto, e beve un vinello che è detto <term rend="italic">erbino </term>: trascura
+            <lb/>1’ eleganza del vestire, e dice in proverbio : <distinct type="dialect">trippa china e
+            <lb/>faccia tinta</distinct>, cioè <hi rend="italic">pancia piena e faccia sudicia</hi>. Vive agiato, <!--DUBBIO: LA TRADUZIONE DEL PROVERBIO IN ITALIANO è GIUSTO ETICHETTARLA CON IL TAG HI?-->
+            <lb/>è signore in casa: e ne’paesi dove mancano galantuomini,
+            <lb/>è factotum : la moglie lavora il lino e la lana, e domina sulle
+            <lb/>vicine che sien da meno. Ma i <distinct time="archaic" rend="italic">massari</distinct>, de’ quali almeno la
+            <lb/>vita materiale è buona, vanno ogni giorno scemando di
+            <lb/>numero, e cresce invece la classe dei <distinct time="archaic" rend="italic">massarotti</distinct>, de’ quali il
+            <lb/><name type="person" ref="#padula">Padula</name>distingue quattro specie. La prima è di quelli a cui
+            <lb/>11 galantuomo dà i bovi da arare il campo, con spese e gua-
+            <lb/>dagni a mezzo, più il companatico, ma non il pane e il vino.
+            <lb/>Questa classe è agiata nei paesi che hanno vie carreggiabili,
+            <lb/>miserabile in quelli che ne sono privi, perchè salvo in due
+            <lb/>stagioni dell’ anno, nelle altre stentano la vita. La seconda
+            <lb/>specie è di quelli che prendono i buoi dal proprietario con
+            <lb/>un contratto che dicesi <term rend="italic">pedatico</term>. Il proprietario non rischia
+            <lb/>nulla, e guadagna il quattordici per cento. Il<distinct time="archaic" rend="italic"> massarotto </distict>
+            <lb/>della terza specie corrisponde al <distinct time="archaic" rend="italic">mezzaiolo</distinct> quanto alla forma
+            <lb/>del contratto, non quanto ai patti, che al lavoratore riescono
+            <lb/>onerosissimi. Sia una terra di <num type="cardinal" value="10">dieci</num> moggiate : il galantuomo
+            <lb/>anticipa dieci moggi di grano : ma alla trebbiatura preleva
+            <lb/>i dieci moggi, più <num type="cardinal" value="10">dieci </num> quarti come frutto dell’ anticipa-
+            <lb/>zione, più trenta moggi come terratico: e il resto si divide.
+            <lb/>La quarta specie è dei Attuari, e costoro mandano a male
+            <lb/>i terreni, in modo che non trovano facilmente chi loro af-
+            <lb/>fitti le terre, salvo dove sieno comunali. Ma, conclude l’Au-
+            <lb/>tore, la sparizione della classe dei <distinct time="archaic" rend="italic">massari</distinct>, e la diminuzione
+            <lb/>crescente dei <distinct time="archaic" rend="italic">massarotti</distinct>, sono due piaghe dell’ ordine sociale
+            <lb/>in <name type="place" ref="#calabria">Calabria </name>. Il popolo è quasi tutto, attualmente, di <hi rend="italic">coloni </hi>
+            <lb/>e di <hi rend="italic">braccianti</hi>.
+         </p>
+
+
+<!--SESTO PARAGRAFO-->
+        <p xml:id="p338_par6_i" part="I" corresp="#c2_p338">
+            <lb/>Il <distinct time="archaic" rend="italic">massarotto</distinct> diventa colono per miseria, ma non ci perde, 
+            <lb/>anzi ci guadagna: chi ci perde è il proprietario, al quale
+            <lb/>nocciono la distanza dei fondi, la mancanza di strade, la
+            <lb/>paura <choice><abbr>de'</abbr><expan>dei</expan></choice>briganti. Intanto il mezzadro lo froda nella fo-
+            <lb/>glia, lo froda nei frutti, lo froda nel grano. Entrato nel
+        </p>
+
+<!--PAGINA 339: CONTINUAZIONE SESTO  PRIMA COLONNA-->
+        <pb n="3" facs="#p339" xml:id="pb339"/>
+        <cb xml:id="c1_p339" n="1" corresp="#p339"/>
+        <p xml:id="p339_par6_f" part="F" corresp="#c1_339">
+            <lb/>fondo per bisogno, e intendendo di rimanervi finche il bi-
+            <lb/>sogno duri, non vi piglia amore e trascura la coltivazione.
+            <lb/>Dispersi in fondi lontani da ogni aggregazione civile, rele-
+            <lb/>gati nelle  <hi rend="italic"> torri </hi> <choice><orig>ond'hanno</orig><reg> dove hanno</reg></choice> il nome di <ditinct time="archaic"rend="italic">torrieri</distinct>, ignari di <!--Ond'hanno -->
+            <lb/>scrivere e di leggere, e privi d’istruzione religiosa, vivono,
+            <lb/>dice 1’ Autore, questi coloni del Cosentino in uno stato che
+            <lb/>confina con quello del bruto. Si accordano col brigante, e
+            <lb/>quando il brigante non c’ è, lo inventano per impaurire il
+            <lb/>padrone, chiedendogli danaro a nome del brigante : e se il
+            <lb/>padrone va al podere, si fanno manutengoli del malfattore. <!--MANUTENGOLO-->
+            <lb/>Così una classe di coloni ruba al proprietario : un’ altra è
+            <lb/>dal proprietario rubata e angariata.
+        </p>
+
+<!--SETTIMO PARAGRAFO-->
+        <p xml:id="p339_par7" corresp="#c1_p339">
+            <lb/>La classe più numerosa e più miserabile è quella dei
+            <lb/>braccianti. «Fino ad otto anni il fanciullo calabrese va dietro
+            <lb/>all’ asino, alle pecore, o al maiale : a nove, lavora nel campo
+            <lb/>e guadagna <num type="cardinal" value="42">42 </num>centesimi al giorno : a <num type="cardinal" value="15">quindici</num>, ne ha <num type="cardinal" value="67">67</num> :
+            <lb/>a <num type="cardinal" value="20">venti</num>, <num type="cardinal" value="85">85</num> e la minestra, o <num type="cardinal" value="1">1</num>, <num type="cardinal" value="25">25</num> senza minestra. Allora
+            <lb/>pensa ad ammogliarsi.... perchè in <name type="place" ref="#calabria">Calabria </name> per dormire a
+            <lb/>letto bisogna essere marito. Fino a <num type="cardinal" value="2">due</num> anni dormì nel
+            <lb/>misero letto dove fu concepito : nacque il <num type="ordinal">secondo</num> fratello,
+            <lb/>ed egli fu respinto nella parte inferiore; nacque il <num type="ordinal">terzo </num>,
+            <lb/>ed egli uscì dal letto e dormì sopra il cassone: nacque il
+            <lb/><num type="ordinal">quarto</num>, ed ei cadde giù dal cassone e si trovò a dormire <!--CONTROLLA I NUMERI ORDINALI-->
+            <lb/>sul focolare. Poi crebbe, e d’inverno passò la notte nel pa-
+            <lb/>gliere accanto all’ asino : d’ estate prese sonno sulla via allo
+            <lb/>scoverto, e se aveva un’ innamorata, andò a dormire sullo
+            <lb/>scalino della porta, o sul ballatoio della scala di lei.» Alcuni
+            <lb/>Canti popolari calabresi, che il <name type="person" ref="#padula">Padula</name>riferisce, e che ci
+            <lb/>duole non poter qui riportare per mancanza di spazio, dipin-
+            <lb/>gono la misera condizione del bracciante. Ci contenteremo
+            <lb/>di due versi che dipingono la miseria del bracciante, op-
+            <lb/>presso, per di più, dal debito:
+            <lb/> <distinct type="dialect" rend="italic">Iu chiangu, amaru io! quant’ aju de davi;
+            <lb/>Nun mi resta nu fìlli de capelli ! </distinct>
+            <lb/>Troppo lunga è anche la vivace descrizione che della
+            <lb/>casa del bracciante e de’ suoi poveri arredi, fa l’Autore no-
+            <lb/>stro : contentiamoci anche qui di un cenno : « La casa è a
+            <lb/>terreno, non battuta nè ammattonata: riceve la luce dalla
+            <lb/>porta, e se ha finestra, la è senza vetri o impannata. Di
+            <lb/>fianco è il focolare privo di cappa o di cammino.... Di fac-
+            <lb/>cia è ’1 letto fatto di un saccone. » Cibo ordinario, sono
+            <lb/>frutta secche e legumi : quando sia ricchissimo, mangia pane
+            <lb/>di segala, o d’ orzo, o d’una mistura di veccia, lupini e fave.
+            <b/>Vino mai, carne mai.
+        </p>
+
+<!--OTTAVO PARGARFO-->
+        <p xml:id="p339_par8_i" part="I" corresp="#c1_p339">
+            <lb/>Più giù nell’ abiezione e nella miseria, stanno altre classi
+            <lb/>di lavoratori, e <num type="ordinal">primo</num> il bifolco, che sta a servizio del <distinct time="archaic">mas- <!--BIFOLCO -->
+            <lb/>saro</distinct> o <distinct time="archaic">massarotto</distinct> per dieci tumuli di formentone e due di
+            <lb/>grano all’ anno, e cinque lire al mese, più un calzare detto
+            <lb/>calandrella: e non ha vitto dal padrone. Nè migliori sono
+            <lb/>le condizioni del Gapraro e del Vaccaro, non chè degli altri
+            <lb/>de’ quali il <name type="person" ref="#padula">Padula</name> parlerà in seguito : Bufalieri, Vignaiuoli,
+            <lb/>Ortolani, Giardinieri, Fattoiani, Concari, Passatori, Pescatori,
+            <lb/>Guardiani, Marinari, Mulattieri, Lettighieri, Vetturini, Carret-
+            <lb/>tieri, ec. Più si va giù, e più cresce una miseria che par-
+            <lb/>rebbe anche a’ primi gradi incomportabile, una ignoranza
+            <lb/>che si direbbe non superabile, una abbiezione di vita che
+            <lb/>ravvicina l’uomo al preferito animale : a quello che se avesse
+            <lb/>l’ali, sarebbe l’angelo Gabriele. E condizioni non molto
+            <lb/>dissimili a queste delle popolazioni calabresi si riscontrano
+            <lb/>in altre province della peninola. Se la nostra voce avesse
+            <lb/>autorità, diremmo ai giovani scrittori : Lasciate i lavori di
+            <lb/>fantasia, i drammi, i romanzi, e dacché avete in bocca il
+            <lb/>vero e il verismo, eccovi largo campo di osservazioni, eccovi
+            <lb/>miserie, eccovi affetti, ecco creature umane da ritrarre senza
+            <lb/>mischianza di falso, e con giunta, un resultato benefico ; ai <!--MISCHIANZA-->
+            <lb/>teneri di cuore e alle nervose signore che si attristano per
+            <lb/>le bestie maltrattate, diremmo : Eccovi uomini e donne cui
+        </p>
+
+<!--CONTINUAZIONE OTTAVO PARAGRAFO SECONDA COLONNA -->
+        <cb xml:id="c2_p339" n="2" corresp="#p339"/>
+        <p xml:id="p339_par8_f" part="F" corresp="#c2_339">
+            <lb/>la società e la fortuna tratta peggio che bestie ; agli uomini
+            <lb/>di Stato, ai politicanti, ai giornalisti, diremmo : Guardate
+            <lb/>qua, studiate qua; belle cose, la repubblica di <name type="person" ref="#platone">Platone</name>, la
+            <lb/>fratellanza universale dei popoli, i diritti sovrani della plebe,
+            <lb/>1’ allargamento del suffragio : ma qui vi è gente che è men
+            <lb/>che plebe da sollevare,- da riscattare, da istruire. A tutti
+            <lb/>diremmo: Studiamo 1’ <name type="place" ref="#it"> Italia</name> vera, i suoi veri bisogni, il suo
+            <lb/>stato reale : perchè noi, duro a dirsi, non conosciamo an-
+            <lb/>cora la patria nostra !
+         </p>
+</div>
         </body>
 
         <!-- Appendice -->
