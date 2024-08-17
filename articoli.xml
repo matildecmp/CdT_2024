@@ -1541,8 +1541,8 @@
                     </p>
                     <p xml:id="p339_par2" corresp="#c1_p339">
                         <lb/>La classe più numerosa e più miserabile è quella dei
-                        <lb/>braccianti. «Fino ad otto anni il fanciullo calabrese va dietro
-                        <lb/>all'asino, alle pecore, o al maiale: a nove, lavora nel campo
+                        <lb/>braccianti. «Fino ad <num type="cardinal value="8">otto</num> anni il fanciullo calabrese va dietro
+                        <lb/>all'asino, alle pecore, o al maiale: a <num type="cardinal value="9">nove</num>, lavora nel campo
                         <lb/>e guadagna <num type="cardinal" value="42">42 </num>centesimi al giorno: a <num type="cardinal" value="15">quindici</num>, ne ha <num type="cardinal" value="67">67</num>:
                         <lb/>a <num type="cardinal" value="20">venti</num>, <num type="cardinal" value="85">85</num> e la minestra, o <num type="cardinal" value="1">1</num>, <num type="cardinal" value="25">25</num> senza minestra. Allora
                         <lb/>pensa ad ammogliarsi.... perchè in <name type="place" ref="#calabria">Calabria </name> per dormire a
