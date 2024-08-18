@@ -220,9 +220,9 @@
                         <lb />Filologia, psicologia e fisiologia dell'amore.
                     </head>
                     <p xml:id="p175_par1" corresp="#c1_p175">
-                        <lb />Non è soltanto perchè lo scritto del <roleName type="honorific">dottor</roleName> <name type="person" ref="#abel">Abel</name><ref type="bibl" target="#abel_duboc_mantegazza">*</ref> sul con-
+                        <lb />Non è soltanto perchè lo scritto del <roleName type="honorific">dottor</roleName> <name type="person" ref="#abel">Abel</name><ref type="bibl" target="#p175_nota1">*</ref> sul con-
                         <lb />cetto dell'<term type="verbum">amore</term> in lingue diverse, è di data anteriore alla
-                        <lb /><name type="bibl" ref="#psic">Psicologìa</name> del <roleName type="honorific">dottor</roleName> <name type="person" ref="duboc">Duboc</name> ed alla <name type="bibl" ref="#fisio">Fisiologia</name> del <roleName type="honorific">professor</roleName>
+                        <lb /><name type="bibl" ref="#psic">Psicologìa</name> del <roleName type="honorific">dottor</roleName> <name type="person" ref="#duboc">Duboc</name> ed alla <name type="bibl" ref="#fisio">Fisiologia</name> del <roleName type="honorific">professor</roleName>
                         <lb /><name type="person" ref="#mantegazza">Mantegazza</name>, che, nel titolo di questo cenno, ho dato il
                         <lb />primo posto alla <name type="bibl" ref="#filol">Filologia</name>; ma più ancora l'ho fatto per-
                         <lb />chè sono convinto che non si può toccare questo delicato
@@ -376,7 +376,7 @@
                         <lb />tanto il fisiologo quanto il psicologo, sono ancora nella
                         <lb />felice posizione di non sapere per esperienza ciò che <name type="person" ref="#ovidio">Ovidio</name>
                         <lb />imparò a suo danno:
-                        <lb /><quote xml:lang="la" source="#heroides">Venit amor gravius quo serius: urim ur intus,
+                        <lb /><quote xml:lang="la" source="#heroides" rend="italic">Venit amor gravius quo serius: urim ur intus,
                         <lb />Urimur et cæcum pectora vulnus habent.</quote>
                         <lb /><name type="person" ref="#rousseau">Rousseau</name> aveva <num type="cardinal" value="50">cinquant</num>'anni quando amava <roleName type="honorific">madame</roleName> 
                         <lb /><name type="person" ref="#dhoudetot">d'Houdetot</name>, e <name type="person" ref="#goethe">Goethe</name> più di sessanta quando s'innamorò di
@@ -669,7 +669,7 @@
                         <lb />minali è quasi sempre l'amante, non il marito, come in
                         <lb /><name type="place" ref="#fr">Francia</name>, che si lascia trasportare dalla gelosia fino al de-
                         <lb />litto. Sarebbe cosa assurda l'affermare che il Tedesco
-                        <lb />ignori queste tre forme di gelosia; ma è però rarissimo
+                        <lb />ignori queste <num type="cardinal" value="3">tre</num> forme di gelosia; ma è però rarissimo
                         <lb />che esse lo conducano a simili eccessi; mentre è frequente
                         <lb />il caso che l'amante <distinct type="archaic"><choice><orig>rinunzi</orig><reg>rinunci</reg></choice></distinct> a quella che ama per cederla
                         <lb />ad un altro, e vi <distinct type="archaic"><choice><orig>rinunzi</orig><reg>rinunci</reg></choice></distinct> per amore. In ciò il <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name>
@@ -726,7 +726,7 @@
                         <lb />Non trattiamo dunque troppo l'amore — coniugale od extra
                         <lb />legale — come una passione primitiva dell'uomo, e perciò
                         <lb />universale, identica dappertutto, da non potersi giudicare,
-                        <lb />che dietro un <choice><abbr>sol</abbr><expan>solo</expan></choice> tipo; difetto dal quale i nostri due autori
+                        <lb />che dietro un <choice><expan>sol<ex>o</ex></expan></choice> tipo; difetto dal quale i nostri due autori
                         <lb />non hanno sempre saputo guardarsi abbastanza; ed ammet-
                         <lb />tiamo che nelle nostre società complicate, l'amore ha sa-
                         <lb />puto assumere forme e procedimenti diversissimi secondo
@@ -807,7 +807,7 @@
                         <lb/>come a me è stato gradito richiamarmi agli occhi e alla
                         <lb/>mente, <choice><orig>colla</orig><reg>con la</reg></choice> scorta di tale scrittura, codesto piccolo museo
                         <lb/>storico-artistico che più volte ho ammirato e studiato nelle
-                        <lb/>bene ordinate sale dell'<name type="org" ref="arch_siena">Archivio senese</name>, così spero che non
+                        <lb/>bene ordinate sale dell'<name type="org" ref="#arch_siena">Archivio senese</name>, così spero che non
                         <lb/>sarà <distinct time="archaic"><choice><orig>discaro</orig><reg resp="#mcamp">sgradito</reg></choice></distinct> ai lettori della <name type="bibl" ref="#ras_set" rend="italic"><choice><abbr>Rassegna</abbr><expan>Rassegna Settimanale</expan></choice></name> d'averne qualche rag-
                         <lb/>guaglio.
                     </p>
@@ -839,7 +839,7 @@
                         <bibl>
                             <lb />* <title rend="italic">Le Tavole della Biccherna e della Gabella della Repubblica di Siena</title>.
                             <lb />Lettura del <author><roleName type="honorific"><choice><abbr>prof.</abbr><expan>professor</expan></choice></roleName> <name type="person" ref="#mussini">LUIGI MUSSINI</name></author>. (Negli <name type="bibl" rend="italic" ref="#atti">Atti e Memorie della Sezione let-
-                            <lb/>teraria e di storia patria della <name type="org" ref="#acc_rozzi"><choice><abbr>R.</abbr><expan>Regia</expan></choice> Accademia dei Rozzi</name></name>. Vol. III, pa-
+                            <lb/>teraria e di storia patria</name> della <name type="org" ref="#acc_rozzi"><choice><abbr>R.</abbr><expan>Regia</expan></choice> Accademia dei Rozzi</name>. Vol. III, pa-
                             <lb/>gine 25-36.)
                             <pubPlace>Siena</pubPlace>,
                             <publisher>Bargellini</publisher>, 
@@ -946,7 +946,7 @@
                         <lb/>(<name type="bibl" rend="italic" ref="#il_paese">Il Paese</name>, <date when="1878-09-26">26 settembre 1878</date>) ci dà la buona notizia che il
                         <lb/><name type="org">Consiglio comunale</name> ha approvato recentemente l'acquisto
                         <lb/>di due altre tavolette, degli anni <date when="1396">1396</date> e <date when="1408">1408</date>, da deposi-
-                        <lb/>tarsi anche queste nell'<name type="org" ref="arch_siena">Archivio</name>; cosicché in tutto sono <num type="cardinal" value="81">81</num>,
+                        <lb/>tarsi anche queste nell'<name type="org" ref="#arch_siena">Archivio</name>; cosicché in tutto sono <num type="cardinal" value="81">81</num>,
                         <lb/>così divise per secoli: <num type="cardinal" value="6">6</num>, del <date from="1200" to="1299">XIII</date>; <num type="cardinal" value="10">10</num>, del <date from="1300" to="1399">XIV</date>; <num type="cardinal" value="25">25</num>, del <date from="1400" to="1499">XV</date>;
                         <lb/><num type="cardinal" value="31">31</num>, del <date from="1500" to="1599">XVI</date>; <num type="cardinal" value="9">9</num>, del <date from="1600" to="1699">XVII</date>. Sono tuttora attaccate ai libri
                         <lb/><num type="cardinal" value="3">tre</num> tavolette del <date from="1300" to="1399">secolo XIV</date>, che nel catalogo Mussiniano
@@ -1001,12 +1001,12 @@
                         <lb/>menti d'Europa. Così vi troviamo dipinte battaglie navali
                         <lb/>contro i turchi, e una lega, di <name type="place" ref="#roma">Roma</name>, <name type="place" ref="#spagna">Spagna</name> e <name type="place" ref="#venezia">Venezia</name>,
                         <lb/>contro i medesimi (anni <date when="1532">1532</date>, <date when="1566">1566</date>, <date when="1568">1568</date>, <date when="1570">1570</date>); l'incoro-
-                        <lb/>nazione di <roleName>papa</roleName> <name type="person" ref="paoloIII">Paolo III</name> (<choice><abbr>an.</abbr><expan>anno</expan></choice> <date when="1534">1534</date>); la celebre <name type="event" ref="#pace_cc">pace di
+                        <lb/>nazione di <roleName>papa</roleName> <name type="person" ref="#paoloIII">Paolo III</name> (<choice><abbr>an.</abbr><expan>anno</expan></choice> <date when="1534">1534</date>); la celebre <name type="event" ref="#pace_cc">pace di
                         <lb/>Castel-Cambresi</name> (<choice><abbr>an.</abbr><expan>anno</expan></choice> <date when="1559">1559</date>); l'assemblea di dotti convocata
                     </p>
                     <cb xml:id="c2_p272" n="2" corresp="#pb272"/>
                     <p xml:id="p272_par3_f" part="F" corresp="#c2_p272">
-                        <lb/>da <roleName>papa</roleName> <name type="person" ref="gregXIII">Gregorio XIII</name>, dalla quale uscì la moderna rifo-
+                        <lb/>da <roleName>papa</roleName> <name type="person" ref="#gregXIII">Gregorio XIII</name>, dalla quale uscì la moderna rifo-
                         <lb/>rma del calendario romano (<choice><abbr>an.</abbr><expan>anno</expan></choice> <date when="1582">1582</date>). Rispetto poi alla
                         <lb/>storia particolare di <name type="place" ref="#siena">Siena</name>, parecchie tavole di questo se-
                         <lb/>colo illustrano alcuni fatti militari degli ultimi anni di li-
@@ -1066,7 +1066,7 @@
                                 <author rend="case(allcaps)">
                                     <name type="person" ref="#hortis">
                                         <forename>Attilio</forename>
-                                        <surname>Hortis</surname>
+                                        <surname>Hortis</surname>,
                                     </name>
                                 </author>
                                 <title rend="italic"> <name type="person" ref="#cicerone"><choice><abbr>M. T.</abbr><expan>Marco Tullio</expan></choice> Cicerone</name> nelle opere del <name type="person" ref="#petrarca">Petrarca</name> e 
@@ -1105,7 +1105,7 @@
                             <lb/>punto di veduta prescelto dall'<name type="person" ref="#hortis">Hortis</name>, essendo <name type="person" ref="#cicerone">Cicerone</name> da
                             <lb/>un lato, e il <name type="person" ref="#petrarca">Petrarca</name> e il <name type="person" ref="#boccaccio">Boccaccio</name> dall'altro, quasi sim-
                             <lb/>boli dell'antica dottrina e della nuova o rinnovata: cosic-
-                            <lb/>ché in fin dei conti, i resultati delle ricerche dell'<name type="person" ref="hortis">Hortis</name>
+                            <lb/>ché in fin dei conti, i resultati delle ricerche dell'<name type="person" ref="#hortis">Hortis</name>
                             <lb/>sono anche maggiori di quello che porterebbe il titolo, mo-
                             <lb/>strando quanta parte dello scibile antico venisse ad illu-
                             <lb/>minare le carte dei moderni in su quel primo risvegliarsi
@@ -1135,8 +1135,8 @@
                     <div type="entrata_bibl" n="1" part="F">
                         <p facs="#bibl1_pag275_p1" xml:id="bibl1_p275_p1" corresp="#c1_p275">       
                             <lb/>tanto col <name type="person" ref="#petrarca">Petrarca</name> e col <name type="person" ref="#boccaccio">Boccaccio</name> risorge lo spirito vivifi-
-                            <lb/>catore del <name type="org" ref="classicismo">classicismo</name>. « <quote source="hortis">Nelle scuole monastiche</quote>, osserva
-                            <lb/>a ragione l'<name type="person" ref="hortis">Hortis</name>, <quote source="hortis">poteva regnare la frase, non lo spirito di
+                            <lb/>catore del <name type="org" ref="#classicismo">classicismo</name>. « <quote source="#hortis">Nelle scuole monastiche</quote>, osserva
+                            <lb/>a ragione l'<name type="person" ref="#hortis">Hortis</name>, <quote source="#hortis">poteva regnare la frase, non lo spirito di
                             <lb/><name type="person" ref="#cicerone">Cicerone</name></quote> » (<ref>pag. 24</ref>). Il <name type="person" ref="#petrarca">Petrarca</name> invece, osserva egli altrove,
                             <lb/>modellò su quelle dell'<addName type="epithet" ref="#cicerone">Arpinate</addName> quasi tutte le sue scritture:
                             <lb/>« <quote source="#hortis">sull'esempio di <name type="person" ref="#cicerone">Cicerone</name> egli formò il proprio <name type="bibl" ref="#epist">Epistolario</name>
@@ -1145,14 +1145,14 @@
                             <lb/>non entrare più addentro in materia, perchè già trattata
                             <lb/>da <name type="person" ref="#cicerone">Cicerone</name>, e confessando di avere ampliato idee cicero-
                             <lb/>niane. Che più, <choice><expan>s'<ex>e</ex></expan></choice>egli giunge perfino a raccomandare la
-                            <lb/>lettura delle <name type="bibl" rend="italic" ref="tusculane">Tusculane</name> per sollievo della <distinct time="archaic"><choice><orig>podagra</orig><reg>gotta</reg></choice></distinct>, affermando
+                            <lb/>lettura delle <name type="bibl" rend="italic" ref="#tusculane">Tusculane</name> per sollievo della <distinct time="archaic"><choice><orig>podagra</orig><reg>gotta</reg></choice></distinct>, affermando
                             <lb/>che ad altri tornò a bene?</quote> » (<ref>pag. 58</ref>). Se non che, e que-
                             <lb/>sto è fatto assai rilevante e che ci porge la chiave di molte
                             <lb/>difficoltà storiche e di molti problemi largamente dibattuti
                             <lb/>circa gli effetti della rinnovata antichità, il <name type="person" ref="#petrarca">Petrarca</name>, dis-
                             <lb/>giungendo gli studi dalla vita, rimproverava <name type="person" ref="#cicerone">Cicerone</name> di
                             <lb/>aver lasciato gli ozi letterari per servire la patria. Certo,
-                            <lb/>osserva a ragione l'<name type="person" ref="hortis">Hortis</name>, a nessun romano sarebbe ve-
+                            <lb/>osserva a ragione l'<name type="person" ref="#hortis">Hortis</name>, a nessun romano sarebbe ve-
                             <lb/>nuto in mente di far questo rimprovero a <name type="person" ref="#cicerone">Cicerone</name> (<ref>pag. 88</ref>):
                             <lb/>ma troppo spesso le generazioni ulteriori dei dotti italiani
                             <lb/>mostrarono col fatto di approvare il rimprovero del <name type="person" ref="#petrarca">Pe-
@@ -1186,7 +1186,7 @@
                             <lb/>l'importante argomento al quale egli ha drizzato l'ingegno.
                         </p>
                     </div>
-                    <div type="entrata_bibl" n="2" facs="#bibl2">
+                    <div type="entrata_bibl" n="2" facs="#bibl1f_2">
                         <head rend="align(center) case(allcaps)" facs="#bibl2_categ" xml:id="bibl2_categoria">
                             <lb />Scienze filosofiche. 
                         </head>
@@ -1229,9 +1229,11 @@
                         </p>
                         <p facs="#bibl2_pag275_p3i" part="I" xml:id="bibl2_p275_p3i" corresp="#c1_p275"> 
                             <lb/>Seguono alcune Lezioni ove si espone come anche i bruti
-                            <lb/>sieno forniti di un'anima, la quale però è solo <soCalled rend="italic">sensitiva</soCalled>,
+                            <lb/><distinct time="archaic"><choice><orig>sieno</orig><reg>siano</reg></choice></distinct> forniti di un'anima, la quale però è solo <soCalled rend="italic">sensitiva</soCalled>,
                         </p>
-                        <cb xml:id="c2_p275" n="2" corresp="#pb275"/>
+                    </div>
+                    <cb xml:id="c2_p275" n="2" corresp="#pb275"/>
+                    <div type="entrata_bibl" n="2" facs="#bibl1f_2">
                         <p facs="#bibl2_pag275_p3f" part="F" xml:id="bibl2_p275_p3f" corresp="#c2_p275">
                             <lb/>mentre quella dell'uomo è anche <soCalled rend="italic">intellettiva</soCalled> e <soCalled rend="italic">volitiva</soCalled>. Posta
                             <lb/>questa distinzione, corre liscia e veloce la spiegazione di
@@ -1410,7 +1412,7 @@
                     <p xml:id="p338_par3_i" part="I" corresp="#c1_p338">
                         <lb/>Sono quasi ormai cinque secoli dacché <name type="person">Francesco Petrarca</name>
                         <lb/>(non meravigli il lettore di vedere accozzati insieme il gentil
-                        <lb/>Poeta e gli <hi rend="italic">animali neri</hi>) lagnavasi con <name type="person" ref="francesco-da-carrara">Francesco da Car-
+                        <lb/>Poeta e gli <hi rend="italic">animali neri</hi>) lagnavasi con <name type="person" ref="#francesco-da-carrara">Francesco da Car-
                         <lb/>rara</name> <roleName type="honorific">signor</roleName> di <name type="place" ref="#padova">Padova</name>, perchè la città sua, «<quote source="#petrarca"> così splendida
                         <lb/>e gloriosa.... quasi rozza ed incolta campagna, bruttamente
                         <lb/>si vedesse percorsa ed ingombrata da gregge di porci, che
@@ -1541,8 +1543,8 @@
                     </p>
                     <p xml:id="p339_par2" corresp="#c1_p339">
                         <lb/>La classe più numerosa e più miserabile è quella dei
-                        <lb/>braccianti. «Fino ad <num type="cardinal value="8">otto</num> anni il fanciullo calabrese va dietro
-                        <lb/>all'asino, alle pecore, o al maiale: a <num type="cardinal value="9">nove</num>, lavora nel campo
+                        <lb/>braccianti. «Fino ad <num type="cardinal" value="8">otto</num> anni il fanciullo calabrese va dietro
+                        <lb/>all'asino, alle pecore, o al maiale: a <num type="cardinal" value="9">nove</num>, lavora nel campo
                         <lb/>e guadagna <num type="cardinal" value="42">42 </num>centesimi al giorno: a <num type="cardinal" value="15">quindici</num>, ne ha <num type="cardinal" value="67">67</num>:
                         <lb/>a <num type="cardinal" value="20">venti</num>, <num type="cardinal" value="85">85</num> e la minestra, o <num type="cardinal" value="1">1</num>, <num type="cardinal" value="25">25</num> senza minestra. Allora
                         <lb/>pensa ad ammogliarsi.... perchè in <name type="place" ref="#calabria">Calabria </name> per dormire a
@@ -1570,7 +1572,7 @@
                         <lb/>terreno, non battuta nè ammattonata: riceve la luce dalla
                         <lb/>porta, e se ha finestra, la è senza vetri o impannata. Di
                         <lb/>fianco è il focolare privo di cappa o di cammino.... Di fac-
-                        <lb/>cia è '1 letto fatto di un saccone. » Cibo ordinario, sono
+                        <lb/>cia è il letto fatto di un saccone. » Cibo ordinario, sono
                         <lb/>frutta secche e legumi: quando sia ricchissimo, mangia pane
                         <lb/>di segala, o d'orzo, o d'una mistura di veccia, lupini e fave.
                         <lb/>Vino mai, carne mai.
@@ -1893,17 +1895,17 @@
                     </person>
                     <person xml:id="cartesio" sex="M">
                         <persName>
-                            <ref target="https://it.wikipedia.org/wiki/Eduard_von_Hartmann"/>
-                            <forename>Eduard</forename>
-                            <surname>von Hartmann</surname>
+                            <ref target="https://it.wikipedia.org/wiki/Cartesio"/>
+                            <forename>René</forename>
+                            <surname>Descartes</surname>
                         </persName>
                         <birth>
-                            <date when="1842-02-23">23/02/1842</date>
+                            <date when="1596-03-31">31/03/1596</date>
                         </birth>
                         <death>
-                            <date when="1906-06-05">05/06/1906</date>
+                            <date when="1650-02-11">11/02/1650</date>
                         </death>
-                        <occupation>Filosofo</occupation>
+                        <occupation>Filosofo e matematico</occupation>
                     </person>
                     <person xml:id="pascal" sex="M">
                         <persName>
@@ -1995,7 +1997,7 @@
                             <ref target="https://it.wikipedia.org/wiki/George_Sand"/>
                             <forename>Amantine Aurore Lucile</forename>
                             <surname>Dupin</surname>
-                            <addName type="pseudonym">George Sand</addName>
+                            <addName type="pseudonym">"George Sand"</addName>
                         </persName>
                         <birth>
                             <date when="1804-07-01">01/07/1804</date>
@@ -2010,7 +2012,7 @@
                             <ref target="https://it.wikipedia.org/wiki/Voltaire"/>
                             <forename>François-Marie</forename>
                             <surname>Arouet</surname>
-                            <addName type="pseudonym">Voltaire</addName>
+                            <addName type="pseudonym">"Voltaire"</addName>
                         </persName>
                         <birth>
                             <date when="1694-11-21">21/11/1694</date>
@@ -2373,7 +2375,6 @@
                             <name>Classicismo o umanesimo volgare</name>
                             <ref target="https://it.wikipedia.org/wiki/Umanesimo_volgare"/>
                         </orgName>
-                        <state type="governance" from="1125" to="1559"></state>
                     </org>
                 </listOrg>
 
@@ -2426,6 +2427,13 @@
                         <location>
                             <bloc>Europa</bloc>
                             <country>Italia</country>
+                        </location>
+                    </place>
+                    <place xml:id="colonia" type="city">
+                        <placeName>Colonia</placeName>
+                        <location>
+                            <bloc>Europa</bloc>
+                            <country>Germania</country>
                         </location>
                     </place>
                     <place xml:id="venezia" type="city">
@@ -2547,6 +2555,31 @@
                         <author>Ambrogio Lorenzetti</author>
                         <date>1338-1339</date>
                         <ref target="https://it.wikipedia.org/wiki/Allegoria_ed_effetti_del_Buono_e_del_Cattivo_Governo" />
+                    </bibl>
+                    <bibl xml:id="atti">
+                        <title>Atti e Memorie, Sezione letteraria e di storia patria</title>
+                        <author>Accademia dei Rozzi</author>
+                    </bibl>
+                    <bibl xml:id="il_paese">
+                        <title>Il Paese</title>
+                    </bibl>
+                    <!-- Bibliografia -->
+                    <bibl xml:id="tusculane">
+                        <title>Tusculanae disputationes</title>
+                        <author ref="#cicerone">Marco Tullio Cicerone</author>
+                        <date>45 a.C.</date>
+                        <ref target="https://it.wikipedia.org/wiki/Tusculanae_disputationes" />
+                    </bibl>
+                    <bibl xml:id="epist">
+                        <title>Epistole</title>
+                        <author ref="#petrarca">Francesco Petrarca</author>
+                        <date>1325-1374</date>
+                        <ref target="https://it.wikipedia.org/wiki/Epistole_(Petrarca)" />
+                    </bibl>
+                    <bibl xml:id="dialoghi">
+                        <title>Dialoghi</title>
+                        <author ref="#petrarca">Francesco Petrarca</author>
+                        <date>XIV secolo</date>
                     </bibl>
                 </listBibl>
 
