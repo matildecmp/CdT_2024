@@ -390,7 +390,7 @@
                         <lb />cente</sic><corr>sufficiente</corr></choice> della parte che l'immaginazione ha nell'amore; o
                         <lb />almeno il <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name> limita questa parte ad una specie
                         <lb />di prologo: il giovane, la fanciulla si fanno un ideale; poi
-                        <lb />nell'<choice><orig>incontrar</orig><reg>incontrare</reg></choice> una od uno, credono di riconoscere questo
+                        <lb />nell'<choice><expan>incontrar<ex>e</ex></expan></choice> una od uno, credono di riconoscere questo
                         <lb />ideale e si mettono ad amare. Molto maggiore, sembrami,
                         <lb />è la parte della immaginazione, dopo l'incontro degli « <quote>ato­-</quote>
                     </p>
@@ -466,7 +466,7 @@
                         <lb />della vita: egli cerca soltanto di stabilire che cosa sia la
                         <lb /><foreign xml:lang="de" rend="italic"><term type="verbum">Liebe</term></foreign>. Quanto a me, confesso che mi è difficile collocarmi
                         <lb />all'uno o all'altro di questi punti di vista e che preferirei
-                        <lb /><distinct time="archaic"><choice><orig>di molto</orig><reg>molto</reg></choice></distinct>, se non avessi varcata da tempo l'età di <name type="character" ref="#cherubino">Cheru-
+                        <lb />di molto, se non avessi varcata da tempo l'età di <name type="character" ref="#cherubino">Cheru-
                         <lb />bino</name>, porre ancora una volta alla <roleName type="nobility"><name type="character" ref="#contessa">Contessa</name></roleName>, e magari anche
                         <lb />a <name type="character" ref="#susanna">Susanna</name>, la famosa domanda:
                         <lb /><quote source="#nozze_figaro">Voi che sapete
