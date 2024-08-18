@@ -148,10 +148,6 @@ button#corr {
     background: #ffe8e8;
 }
 
-.expan .show {
-    display: block;
-}
-
 /* Testo e immagini */
 
 .testo_cont h2 {
@@ -260,4 +256,3 @@ footer {
     padding-bottom: 2%;
     padding-top: 2%;
 }
-
