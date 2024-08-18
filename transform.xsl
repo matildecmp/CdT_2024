@@ -550,7 +550,7 @@
         </xsl:element>
     </xsl:template>
     <!-- Testo in lingua straniera -->
-    <xsl:template match="*[@xml:lang]">
+    <xsl:template match="*[@xml:lang] | *[@type='dialect']">
         <xsl:element name="span">
             <xsl:attribute name="class">foreign</xsl:attribute>
             <xsl:apply-templates />
