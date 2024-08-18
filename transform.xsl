@@ -476,7 +476,25 @@
             </xsl:if>
         </xsl:for-each>
     </xsl:template>
-    <!-- Luoghi-->
+    <!-- Organizzazioni -->
+    <xsl:template match="tei:name[@type='org']">
+        <xsl:variable name="org_ref" select="substring-after(@ref, '#')" />
+        <xsl:element name="span">
+            <xsl:attribute name="class">org</xsl:attribute>
+            <xsl:element name="a">
+                <xsl:attribute name="href"><xsl:value-of select="/tei:TEI/tei:text/tei:back/tei:div/tei:listOrg/tei:org[@xml:id=$org_ref]/tei:orgName/tei:ref/@target"/></xsl:attribute>
+                <xsl:apply-templates />
+            </xsl:element>
+        </xsl:element>
+        <xsl:for-each select="/tei:TEI/tei:text/tei:back/tei:div/tei:listOrg/tei:org">
+            <xsl:if test="@xml:id = $org_ref">
+                <span class="info">
+                    <strong>Nome: </strong><xsl:value-of select="./tei:orgName"/>
+                </span>
+            </xsl:if>
+        </xsl:for-each>
+    </xsl:template>
+    <!-- Luoghi -->
     <xsl:template match="tei:name[@type='place']">
         <xsl:variable name="place_ref" select="substring-after(@ref, '#')" />
         <xsl:element name="span">
@@ -510,7 +528,7 @@
             </xsl:if>
         </xsl:for-each>
     </xsl:template>
-    <!--Date-->
+    <!-- Date -->
     <xsl:template match="tei:date">
         <xsl:element name="span">
             <xsl:attribute name="class">date</xsl:attribute>
@@ -524,14 +542,14 @@
             <xsl:apply-templates />
         </xsl:element>
     </xsl:template>
-    <!--Verbum-->
+    <!-- Verbum -->
     <xsl:template match="tei:term[@type='verbum']">
         <xsl:element name="span">
             <xsl:attribute name="class">verbum</xsl:attribute>
             <xsl:apply-templates />
         </xsl:element>
     </xsl:template>
-    <!-- Testo straniero -->
+    <!-- Testo in lingua straniera -->
     <xsl:template match="*[@xml:lang]">
         <xsl:element name="span">
             <xsl:attribute name="class">foreign</xsl:attribute>
@@ -577,47 +595,7 @@
             </xsl:if>
         </xsl:for-each>
     </xsl:template>
-    <!-- Organizzazioni -->
-    <xsl:key name="orgById" match="tei:org" use="@xml:id" />
-    <xsl:template match="tei:name[@type='org']">
-        <xsl:variable name="org_ref" select="substring-after(@ref, '#')" />
-        <xsl:variable
-            name="org_element" select="key('orgById', $org_ref)[1]" />
-        <xsl:choose>
-            <xsl:when test="$org_element/@role = 'association'">
-                <span class="assoc">
-                    <xsl:element name="a">
-                        <xsl:attribute name="href"><xsl:value-of select="/tei:TEI/tei:text/tei:back/tei:div/tei:listOrg/tei:org[@xml:id=$org_ref]/tei:orgName/tei:ref/@target"/></xsl:attribute>
-                        <xsl:apply-templates />
-                    </xsl:element>  
-                </span>
-            </xsl:when>
-            <xsl:when test="$org_element/@role = 'literary'">
-                <span class="lit">
-                    <xsl:element name="a">
-                        <xsl:attribute name="href"><xsl:value-of select="/tei:TEI/tei:text/tei:back/tei:div/tei:listOrg/tei:org[@xml:id=$org_ref]/tei:orgName/tei:ref/@target"/></xsl:attribute>
-                        <xsl:apply-templates />
-                    </xsl:element> 
-                </span>
-            </xsl:when>
-            <xsl:when test="$org_element/@role = 'public institution'">
-                <span class="pub_inst">
-                    <xsl:element name="a">
-                        <xsl:attribute name="href"><xsl:value-of select="/tei:TEI/tei:text/tei:back/tei:div/tei:listOrg/tei:org[@xml:id=$org_ref]/tei:orgName/tei:ref/@target"/></xsl:attribute>
-                        <xsl:apply-templates />
-                    </xsl:element> 
-                </span>
-            </xsl:when>
-        </xsl:choose>
-        <xsl:for-each select="/tei:TEI/tei:text/tei:back/tei:div/tei:listOrg/tei:org">
-            <xsl:if test="@xml:id=$org_ref">
-                <span class="info">
-                    <strong><xsl:value-of select="./tei:orgName"/></strong>
-                </span>
-            </xsl:if>
-        </xsl:for-each>
-    </xsl:template>
-    <!-- Glossario -->
+    <!-- Glossario
     <xsl:template match="tei:term/@ref">
         <xsl:variable name="gloss_ref" select="." /> #camerlengo
         <xsl:element name="span">
@@ -634,7 +612,7 @@
                 </span>
             </xsl:if>
         </xsl:for-each>
-    </xsl:template>
+    </xsl:template> -->
 
     <!-- Interventi editoriali -->
     <xsl:template match="tei:expan">
