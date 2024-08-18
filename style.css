@@ -102,31 +102,22 @@ button {
     border: none;
     box-shadow: 0.5px 0.5px 2px grey;
 }
-button#persone:active, button#personaggi:active, button#bibl:active, button#luoghi:active, button#eventi:active, button#org:active, button#casa_ed:active,
-button#date:active, button#verbum:active, button#foreign:active, button#cit:active, button#num:active, button#expan:active, button#ex:active, button#reg:active,
-button#corr:active {
-    box-shadow: 0.5px 0.5px 10px red;
-    transition: 0.3s ease;
-}
-button#persone {
+button#person {
     background: #ff6f69;
 }
-button#personaggi {
+button#character {
     background: #ffcc5c;
 }
 button#bibl {
     background: #ffeead;
 }
-button#luoghi {
+button#place {
     background: rgb(215, 255, 142);
 }
-button#eventi {
+button#event {
     background: #96ceb4;
 }
 button#org {
-    background: #7effd4;
-}
-button#casa_ed {
     background: #ade6ff;
 }
 button#date {
@@ -145,18 +136,20 @@ button#num {
     background: #ebf1dd;
 }
 button#expan {
-    background: #bccad6;
+    background: #dafdfd;	 		
 }
 button#reg {
-    background: #8d9db6;
-    color: white;
+    background: #e0f0ff;
 }
 button#ex {
-    background: #667292;
-    color: white;
+    background: #e3e3ff;
 }
 button#corr {
-    background: #f1e3dd;
+    background: #ffe8e8;
+}
+
+.expan .show {
+    display: block;
 }
 
 /* Testo e immagini */
@@ -230,6 +223,32 @@ area:hover {
 	cursor: pointer;
 }
 
+/* Informazioni entità e interventi */
+
+span.info{
+	position: absolute;
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+	padding: 15px;
+    margin: 0 10px;
+	width: 15%;
+	visibility: hidden;
+}
+
+a {
+    color: black; 
+}
+a:visited {
+    color: black; 
+}
+a:hover {
+    color: black; 
+}
+a:active {
+    color: black; 
+}
+
 /* Footer */
 
 footer {
@@ -241,3 +260,4 @@ footer {
     padding-bottom: 2%;
     padding-top: 2%;
 }
+
