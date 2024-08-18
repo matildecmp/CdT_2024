@@ -559,8 +559,7 @@
     <!-- Said -->
     <xsl:template match="tei:said">
         <xsl:element name="span">
-            <xsl:attribute name="class">cit</xsl:attribute>
-            <xsl:attribute name="class">said</xsl:attribute>
+            <xsl:attribute name="class">cit said</xsl:attribute>
             <xsl:apply-templates />
         </xsl:element>
     </xsl:template>
