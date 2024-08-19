@@ -68,6 +68,7 @@
                             <button class="int" id="ex">Aggiunte</button>
                             <button class="int" id="corr">Correzioni</button>
                         </div>
+                        <button id="clean" title="Ripulisci tutto"><img width="20" height="20" src="https://img.icons8.com/ios-glyphs/30/broom.png" alt="Ripulisci tutto"/></button>
                     </div>
                 </div>
 
@@ -304,13 +305,13 @@
             <xsl:attribute name="alt">Immagine <xsl:value-of select="@xml:id"/></xsl:attribute>
             <xsl:attribute name="class">facsimile</xsl:attribute>
         </xsl:element>
-    
         <xsl:element name="map">
             <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
             <xsl:for-each select="tei:zone">
                 <xsl:element name="area">
                     <xsl:attribute name="id"><xsl:value-of select="@xml:id"/></xsl:attribute>
                     <xsl:attribute name="coords"><xsl:value-of select="@ulx"/>,<xsl:value-of select="@uly"/>,<xsl:value-of select="@lrx"/>,<xsl:value-of select="@lry"/></xsl:attribute>
+                    <xsl:attribute name="data-corresp"><xsl:value-of select="@corresp"/></xsl:attribute>
                 </xsl:element>
             </xsl:for-each>
         </xsl:element>
@@ -325,7 +326,7 @@
     <!-- cb -->
     <xsl:template match="tei:cb">
         <xsl:variable name="col_id" select="@xml:id"/>
-            <xsl:element name="span_col">
+            <xsl:element name="span">
                 <xsl:attribute name="id">
                     <xsl:value-of select="$col_id"/>
                 </xsl:attribute>
@@ -441,9 +442,7 @@
             <xsl:if test="@xml:id=$char_ref">
                 <span class="info">
                     <strong>Nome: </strong><xsl:value-of select="./tei:persName"/><br/>
-                    <strong>Nascita: </strong><xsl:value-of select="./tei:birth"/><br/>
-                    <strong>Morte: </strong><xsl:value-of select="./tei:death"/><br/>
-                    <strong>Ruolo: </strong><xsl:value-of select="./tei:occupation"/><br/>
+                    <strong>Ruolo: </strong><xsl:value-of select="./tei:occupation"/>
                 </span>
             </xsl:if>
         </xsl:for-each>
