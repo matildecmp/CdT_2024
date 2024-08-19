@@ -2483,6 +2483,54 @@
                             <bloc>Europa</bloc>
                         </location>
                     </place>
+                    
+                    <!--Articolo 3-->
+                    <place xml:id="Sicilia" type="region">
+                        <placeName>Sicilia</placeName>
+                        <location>
+                            <bloc>Europa</bloc>
+                            <country>Italia</country>
+                         </location>
+                    </place>
+
+                    <place xml:id="napoli" type="city">
+                        <placeName>Napoli</placeName>
+                        <location>
+                            <bloc>Europa</bloc>
+                            <country>Italia</country>
+                        </location>
+                    </place>    
+                    
+                     <place xml:id="Basilicata" type="region">
+                        <placeName>Basilicata</placeName>
+                        <location>
+                            <bloc>Europa</bloc>
+                            <country>Italia</country>
+                         </location>
+                    </place>
+    
+                    <place xml:id="calabria" type="region">
+                        <placeName>Calabria</placeName>
+                        <location>
+                            <bloc>Europa</bloc>
+                            <country>Italia</country>
+                         </location>
+                    </place>
+
+                    <place xml:id="padova" type="city">
+                        <placeName>Padova</placeName>
+                        <location>
+                            <bloc>Europa</bloc>
+                            <country>Italia</country>
+                        </location>
+                    </place>      
+                       
+                    <place xml:id="#svz" type="nation">
+                        <placeName>Svizzera</placeName>
+                        <location>
+                            <bloc>Europa</bloc>
+                        </location>
+                    </place>    
                 </listPlace>
 
                 <listBibl>
