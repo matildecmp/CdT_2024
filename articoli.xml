@@ -2530,7 +2530,25 @@
                         <location>
                             <bloc>Europa</bloc>
                         </location>
-                    </place>    
+                    </place>   
+
+                     <!--Notizie-->
+                     <place xml:id="new-york" type="city">
+                        <placeName>New-York</placeName>
+                        <location>
+                            <bloc>America</bloc>
+                            <country>Unted States</country>
+                        </location>
+                    </place>
+
+                     <place xml:id="san-francisco" type="city">
+                        <placeName>San Francisco</placeName>
+                        <location>
+                            <bloc>America</bloc>
+                            <country>Unted States</country>
+                        </location>
+                    </place>
+
                 </listPlace>
 
                 <listBibl>
