@@ -148,6 +148,12 @@ button#corr {
     background: #ffe8e8;
 }
 
+button#clean {
+    margin: 3px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
 /* Testo e immagini */
 
 .testo_cont h2 {
@@ -217,6 +223,12 @@ table.colonne td {
 
 area:hover {
 	cursor: pointer;
+}
+
+span.selected {
+    background-color: rgb(176, 208, 255);;
+    border-radius: 20px;
+    padding: 10px;
 }
 
 /* Informazioni entità e interventi */
