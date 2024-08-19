@@ -173,15 +173,22 @@
            <zone ulx="41" uly="67" lrx="366" lry="960" xml:id="p339_col1" corresp="#pag339_col1" />
            <zone ulx="364" uly="73" lrx="674" lry="203" xml:id="p339_col2" corresp="#pag339_col2"/>
         </surface>
-        <!-- Notizie --> 
-        <surface xml:id="p184" start="#pb184" n="11">
-            <graphic url='img/1/1721303333652-64095a8f-a554-4b8a-841d-1b6396399d65_16.png' width='717.666666px' height='1023.666666px' />
-            <zone ulx="365" uly="372" lrx="691" lry="982" xml:id="p184_col2" corresp="#pag184_col2"/>
+        <!-- Notizie -->        
+        <surface xml:id="p276" start="#pb276" n="1"> <!--NOTIZIE titolo-->
+            <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16 (1).png' width='711.666666px' height='1023.666666px' />
+            <zone ulx="370" uly="168" lrx="679" lry="189" xml:id="notizie_tit" corresp="notizie_tit"/>
         </surface>
-        <surface xml:id="p276" start="#pb276" n="12">
-            <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16.png' width='712.4px' height='1024.4px' />
-            <zone ulx="363" uly="167" lrx="683" lry="981"  xml:id="p276_col2" corresp="#pag276_col2"/>
+        
+        <surface xml:id="p276" start="#pb276" n="2">
+            <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16 (1).png' width='711.666666px' height='1023.666666px' />
+            <zone ulx="367" uly="461" lrx="681" lry="505" xml:id="notizia_1" corresp="notizia_1" />
         </surface>
+        
+        <surface xml:id="p276" start="#pb276" n="3">
+            <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16 (1).png' width='711.666666px' height='1023.666666px' />
+            <zone ulx="365" uly="580" lrx="682" lry="704" xml:id="notizia_2" corresp="notizia_2"/>
+        </surface>
+            
         <!-- Bibliografia -->
         <surface xml:id="bibl1i" start="#pb274" n="13">
             <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_14.png' width='716.4px' height='1024.4px' />
@@ -1615,7 +1622,34 @@
                         <lb/>cora la patria nostra!</said>
                     </p>
                 </div>
-        
+    <!--NOTIZIE volume 2 fascicolo 16-->
+
+                <div type="notizie" n="1" xml:lang="it" source="#notizie">
+                    <pb n="1" facs="#p276" xml:id="pb276" />
+                        <head facs="#p276" xml:id="notize_tit" corresp="#notizie_tit">
+                            <lb/> NOTIZIE. 
+                        </head>
+             
+                    <item  xml:id="notizia_1" corresp="#notizia_1" >
+                        <lb/> — La <roleName type="honorific">signora</roleName> <name type="person" ref="#elisabetta-thompson">Elisabetta Thompson</name> di <name type="place" ref="#new-york">New-York</name> si è offerta a soppor-
+                        <lb/>tare tutta la spesa necessaria per fare studiare da una commissione lo
+                        <lb/>cause della febbre gialla ed il modo di curarla. (Nation)
+                    </item>
+                    
+                    <item xml:id="notizia_2" corresp="notizia_2">
+                        <lb/> — Il <roleName type="honorific">signor</roleName> <name type="person" ref="#van-der-horck">Van der Horck</name>, noto per il suo viaggio nell’ Oceano
+                        <lb/> Artico, organizza una spedizione di cui lo scopo ò di studiare le origini
+                        <lb/>della popolazione primitiva dell’America. Si sa che, secondo 1’ opinione
+                        <lb/>più accreditata, <choice><abbr>gl’<abbr><expan>gli</expan></choice>indigeni americani avrebbero avuto la loro culla in 
+                        <lb/>Asia. Il <name type="person" ref="#van-der-horck">Van der Horck </name>si propone di visitare le coste orientali del-
+                        <lb/>l’Asia fino al Mare Polare, di passare lo stretto di Behring e di ridi-
+                        <lb/>scendere fino a <name type="place" ref"#san-francisco">San Francisco</name> lungo le coste. Il viaggio non durerà
+                        <lb/> meno di tre o <num type="cardinal" value="4">quattro</num> anni. I membri della spedizione si occuperanno
+                        <lb/>di ogni genere di ricerche scientifiche, ma senza mai perdere di vista
+                        <lb/>che l’Antropologia è il loro scopo principale. 
+                        <lb/>(Revue politique et litt.)
+                    </item>
+                    </div>
             </div>
         </body>
 
