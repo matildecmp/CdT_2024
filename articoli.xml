@@ -2363,9 +2363,9 @@
                         </death>
                         <occupation>Filosofo</occupation>
                     </person>
-                <!--Articolo 3-->
                     
-  <person xml:id="padula" sex="M">
+                <!--Articolo 3--> 
+                <person xml:id="padula" sex="M">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/Vincenzo_Padula" />
                             <forename>Vincenzo</forename>
@@ -2381,7 +2381,7 @@
                     </person>
 
 
- <person xml:id="pani-rossi" sex="M">
+                     <person xml:id="pani-rossi" sex="M">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/Enrico_Pani_Rossi" />
                             <forename>Enrico</forename>
@@ -2397,7 +2397,7 @@
                     </person>
 
   
-<person xml:id="noe" sex="M">
+                    <person xml:id="noe" sex="M">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/No%C3%A8"/>
                             <forename>Noè</forename>
@@ -2405,7 +2405,7 @@
                         <occupation> Patriarca biblico,</occupation>
                     </person>
 
- <person xml:id="francesco-da-carrara" sex="M">
+                     <person xml:id="francesco-da-carrara" sex="M">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/Francesco_I_da_Carrara" />
                             <forename>Francesco I </forename>
@@ -2420,7 +2420,7 @@
                         <occupation>Politico e condottiero italiano, signore di Padova</occupation>
                     </person>
 
- <person xml:id="cerri" sex="M">
+                     <person xml:id="cerri" sex="M">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/Placido_Cerri" />
                             <forename>Placido </forename>
@@ -2517,6 +2517,13 @@
                         <orgName>
                             <name>Verismo</name>
                             <ref target="https://it.wikipedia.org/wiki/Verismo"/>
+                        </orgName>
+                    </org>
+
+                    <org xml:id="borbone" role="historical regime">
+                        <orgName>
+                            <name>Tirannide Borbonica</name>
+                            <ref target="https://it.wikipedia.org/wiki/Borbone_delle_Due_Sicilie"/>
                         </orgName>
                     </org>
 
