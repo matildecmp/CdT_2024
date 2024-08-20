@@ -349,6 +349,28 @@
             </div>
         </div>
     </xsl:template>
+
+    <!-- list -->
+    <xsl:template match="tei:list">
+        <div class="paragr">
+            <div class="blocco_testo">
+                <xsl:apply-templates />
+            </div>
+        </div>
+    </xsl:template>
+    <xsl:template match="tei:item">
+        <div class="paragr">
+            <xsl:element name="span">
+                <xsl:attribute name="id">
+                    <xsl:value-of select="@xml:id"/>
+                </xsl:attribute>
+                <strong><xsl:value-of select="@xml:id"/></strong>
+            </xsl:element>
+            <div class="blocco_testo">
+                <xsl:apply-templates />
+            </div>
+        </div>
+    </xsl:template>
     
     <!-- closer -->
     <xsl:template match="tei:closer">
@@ -397,9 +419,7 @@
     
     <!-- lb -->
     <xsl:template match="tei:lb">
-        <div class="riga">
-            <xsl:apply-templates />
-        </div>
+        <div class="riga"></div>
     </xsl:template>
 
     <!-- Testo in corsivo -->
@@ -555,7 +575,7 @@
             <xsl:apply-templates />
         </xsl:element>
     </xsl:template>
-    <!-- Said -->
+    <!-- said -->
     <xsl:template match="tei:said">
         <xsl:element name="span">
             <xsl:attribute name="class">cit said</xsl:attribute>
