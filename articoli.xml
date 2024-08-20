@@ -2363,6 +2363,108 @@
                         </death>
                         <occupation>Filosofo</occupation>
                     </person>
+                <!--Articolo 3-->
+                    
+  <person xml:id="padula" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Vincenzo_Padula" />
+                            <forename>Vincenzo</forename>
+                            <surname>Padula</surname>
+                        </persName>
+                        <birth>
+                            <date when="1819-03-25">25/03/1819</date>
+                        </birth>
+                        <death>
+                            <date when="1893-01-08">08/01/1893</date>
+                        </death>
+                        <occupation>Presbitero, poeta e patriota </occupation>
+                    </person>
+
+
+ <person xml:id="pani-rossi" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Enrico_Pani_Rossi" />
+                            <forename>Enrico</forename>
+                            <surname>Pani Rossi</surname>
+                        </persName>
+                        <birth>
+                            <date when="1835">1835</date>
+                        </birth>
+                        <death>
+                            <date when="1886">1886</date> <!--IN REALTà: dopo il 1886) VEDI COME FARE-->
+                        </death>
+                        <occupation>Politico e scrittore</occupation>
+                    </person>
+
+  
+<person xml:id="noe" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/No%C3%A8"/>
+                            <forename>Noè</forename>
+                        </persName>
+                        <occupation> Patriarca biblico,</occupation>
+                    </person>
+
+ <person xml:id="francesco-da-carrara" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Francesco_I_da_Carrara" />
+                            <forename>Francesco I </forename>
+                            <surname>da Carrara</surname>
+                        </persName>
+                        <birth>
+                            <date when="1825-09-13">13/09/1825</date>
+                        </birth>
+                        <death>
+                            <date when="1395-10-06">6/10/1395</date> 
+                        </death>
+                        <occupation>Politico e condottiero italiano, signore di Padova</occupation>
+                    </person>
+
+ <person xml:id="cerri" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Placido_Cerri" />
+                            <forename>Placido </forename>
+                            <surname>Cerri</surname>
+                        </persName>
+                        <birth>
+                            <date when="1843-02-26">26/02/1843</date>
+                        </birth>
+                        <death>
+                            <date when="1874-04-14">14/04/1874</date> 
+                        </death>
+                        <occupation>Docente</occupation>
+                    </person> 
+                    <person xml:id="platone" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Platone" />
+                            <forename>Platone</forename>
+                            <surname />
+                        </persName>
+                        <birth>
+                            <date when="-0427">427 a.C.</date>
+                            <placeName>Atene</placeName>
+                        </birth>
+                        <death>
+                            <date when="-0347">347 a.C.</date>
+                            <placeName>Atene</placeName>
+                        </death>
+                        <occupation>Filosofo</occupation>
+                    </person>
+                    <!--Notizie-->
+                    <person xml:id="elisabetta-thompson" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Elizabeth_Thompson" />
+                            <forename>Elisabetta </forename>
+                            <surname>Thompson</surname>
+                        </persName>
+                        <birth>
+                            <date when="1846-11-3">3/11/1846</date>
+                        </birth>
+                        <death>
+                            <date when="1933-10-2">2/10/1933</date> 
+                        </death>
+                        <occupation>Pittrice</occupation>
+                    </person> 
                 </listPerson>
 
                 <listOrg>
@@ -2410,6 +2512,14 @@
                             <ref target="https://it.wikipedia.org/wiki/Umanesimo_volgare"/>
                         </orgName>
                     </org>
+                    <!--Articolo 3-->
+                    <org xml:id="verismo" role="literary movement">
+                        <orgName>
+                            <name>Verismo</name>
+                            <ref target="https://it.wikipedia.org/wiki/Verismo"/>
+                        </orgName>
+                    </org>
+
                 </listOrg>
 
                 <listEvent>
