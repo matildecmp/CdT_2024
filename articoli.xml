@@ -62,7 +62,7 @@
                         <textLang xml:lang="it">Italiano</textLang>
                     </analytic>
                     <analytic xml:id="notizie">
-                        <title level="a">Notizie (1, 2)</title>
+                        <title level="a">Notizie (4, 6)</title>
                         <textLang xml:lang="it">Italiano</textLang>
                     </analytic>
                     <monogr xml:id="info_articoli">
@@ -112,9 +112,9 @@
                          <publisher>Casa editrice Barbera</publisher>
                          <date when="1878-05-26">26 maggio 1878</date>
                         </imprint>
-                        <biblScope unit="volume">2, 2</biblScope>
-                        <biblScope unit="issue">16, 11</biblScope>
-                        <biblScope unit="page">276, 184</biblScope>
+                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="issue">16</biblScope>
+                        <biblScope unit="page">276</biblScope>
                     </monogr>
                 </biblStruct>
          </sourceDesc>         
@@ -158,46 +158,15 @@
             <zone ulx="27" uly="68" lrx="353" lry="991" xml:id="p272_col1" corresp="#pag272_col1"/> 
             <zone ulx="354" uly="69" lrx="680" lry="528" xml:id="p272_col2" corresp="#pag272_col2"/> 
         </surface>
-        <!-- Articolo 3 -->
-        <surface xml:id="p337" start="#pb337" n="8">
-            <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_13.png' width='709.666666px' height='1023.666666px' />
-            <zone ulx="369" uly="400" lrx="679" lry="966" xml:id="p337_col2" corresp="#pag337_col2"/>
-        </surface>
-        <surface xml:id="p338" start="#pb338" n="9">
-            <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_14.png' width='713.666666px' height='1023.666666px' />
-            <zone ulx="42" uly="66" lrx="357" lry="958"  xml:id="p338_col1" corresp="#pag338_col1"/>
-            <zone ulx="363" uly="71" lrx="679" lry="962" xml:id="p338_col2" corresp="#pag338_col2"/>
-        </surface>
-        <surface xml:id="p339" start="#pb339" n="10">
-           <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_15.png' width='714.666666px' height='1023.666666px' />
-           <zone ulx="41" uly="67" lrx="366" lry="960" xml:id="p339_col1" corresp="#pag339_col1" />
-           <zone ulx="364" uly="73" lrx="674" lry="203" xml:id="p339_col2" corresp="#pag339_col2"/>
-        </surface>
-        <!-- Notizie -->        
-        <surface xml:id="p276" start="#pb276" n="1"> <!--NOTIZIE titolo-->
-            <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16 (1).png' width='711.666666px' height='1023.666666px' />
-            <zone ulx="370" uly="168" lrx="679" lry="189" xml:id="notizie_tit" corresp="notizie_tit"/>
-        </surface>
-        
-        <surface xml:id="p276" start="#pb276" n="2">
-            <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16 (1).png' width='711.666666px' height='1023.666666px' />
-            <zone ulx="367" uly="461" lrx="681" lry="505" xml:id="notizia_1" corresp="notizia_1" />
-        </surface>
-        
-        <surface xml:id="p276" start="#pb276" n="3">
-            <graphic url='1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16 (1).png' width='711.666666px' height='1023.666666px' />
-            <zone ulx="365" uly="580" lrx="682" lry="704" xml:id="notizia_2" corresp="notizia_2"/>
-        </surface>
-            
         <!-- Bibliografia -->
-        <surface xml:id="bibl1i" start="#pb274" n="13">
+        <surface xml:id="bibl1i" start="#pb274" n="8">
             <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_14.png' width='716.4px' height='1024.4px' />
             <zone ulx="470" uly="289" lrx="591" lry="300" xml:id="bibl1_categ" corresp="#bibl1_categoria"/>
             <zone ulx="377" uly="305" lrx="682" lry="329" xml:id="bibl1_tit" corresp="#bibl1_titolo"/>
             <zone ulx="377" uly="336" lrx="684" lry="760" xml:id="bibl1_pag274_p1" corresp="#bibl1_p274_p1"/>
             <zone ulx="378" uly="764" lrx="686" lry="975" xml:id="bibl1_pag274_p2" corresp="#bibl1_p274_p2"/>
         </surface>
-        <surface xml:id="bibl1f_2" start="#pb275" n="14">
+        <surface xml:id="bibl1f_2" start="#pb275" n="9">
             <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_15.png' width='704.4px' height='1024.4px' />
             <zone ulx="45" uly="80" lrx="347" lry="392" xml:id="bibl1_pag275_p1" corresp="#bibl1_p275_p1"/>
             <zone ulx="46" uly="395" lrx="351" lry="523" xml:id="bibl1_pag275_p2" corresp="#bibl1_p275_p2"/>
@@ -210,7 +179,30 @@
             <zone ulx="360" uly="83" lrx="661" lry="259" xml:id="bibl2_pag275_p3f" corresp="#bibl2_p275_p3f"/>
             <zone ulx="362" uly="264" lrx="663" lry="378" xml:id="bibl2_pag275_p4" corresp="#bibl2_p275_p4"/>
             <zone ulx="363" uly="382" lrx="663" lry="692" xml:id="bibl2_pag275_p5" corresp="#bibl2_p275_p5"/>
-            <zone ulx="364" uly="696" lrx="668" lry="960" xml:id="bibl2_pag275_p6" corresp="#bibl2_p275_p6"/>
+            <zone ulx="359" uly="697" lrx="672" lry="933" xml:id="bibl2_pag275_p6" corresp="#bibl2_p275_p6"/>
+            <zone ulx="361" uly="936" lrx="671" lry="960" xml:id="bibl2_n" corresp="#bibl2_nota"/>
+        </surface>
+        <!-- Notizie -->     
+        <surface xml:id="p276" start="#pb276" n="10">
+            <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_16.png' width='711.666666px' height='1023.666666px' />
+            <zone ulx="370" uly="168" lrx="679" lry="189" xml:id="notizia_tit" corresp="#not_tit"/>
+            <zone ulx="367" uly="461" lrx="681" lry="505" xml:id="notizia_1" corresp="#not_1" />
+            <zone ulx="365" uly="580" lrx="682" lry="704" xml:id="notizia_2" corresp="#not_2"/>
+        </surface>
+        <!-- Articolo 3 -->
+        <surface xml:id="p337" start="#pb337" n="11">
+            <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_13.png' width='709.666666px' height='1023.666666px' />
+            <zone ulx="369" uly="400" lrx="679" lry="966" xml:id="p337_col2" corresp="#pag337_col2"/>
+        </surface>
+        <surface xml:id="p338" start="#pb338" n="12">
+            <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_14.png' width='713.666666px' height='1023.666666px' />
+            <zone ulx="42" uly="66" lrx="357" lry="958"  xml:id="p338_col1" corresp="#pag338_col1"/>
+            <zone ulx="363" uly="71" lrx="679" lry="962" xml:id="p338_col2" corresp="#pag338_col2"/>
+        </surface>
+        <surface xml:id="p339" start="#pb339" n="13">
+           <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_15.png' width='714.666666px' height='1023.666666px' />
+           <zone ulx="41" uly="67" lrx="366" lry="960" xml:id="p339_col1" corresp="#pag339_col1" />
+           <zone ulx="364" uly="73" lrx="674" lry="203" xml:id="p339_col2" corresp="#pag339_col2"/>
         </surface>
     </facsimile>
 
@@ -224,7 +216,7 @@
                     <pb n="1" facs="#p175" xml:id="pb175" />
                     <cb xml:id="c1_p175" n="1" corresp="#pb175"/>
                     <head facs="#p175" xml:id="pag175_tit" corresp="#c1_p175" rend="align(center) case(allcaps)">
-                        <lb />Filologia, psicologia e fisiologia dell'amore.
+                        <lb />FILOLOGIA, PSICOLOGIA E FISIOLOGIA DELL'AMORE.
                     </head>
                     <p xml:id="p175_par1" corresp="#c1_p175">
                         <lb />Non è soltanto perchè lo scritto del <roleName type="honorific">dottor</roleName> <name type="person" ref="#abel">Abel</name><ref type="bibl" target="#p175_nota1">*</ref> sul con-
@@ -525,8 +517,8 @@
                         <lb />getto di tutte queste osservazioni, perchè una passione non
                         <lb />si mostra mai nella sua pienezza finché il bisogno ne sof-
                         <lb />foca o ne paralizza lo svolgimento; e l'amore soprattutto
-                        <lb /><distinct time="archaic"><choice><orig>abborre</orig><reg resp="mcamp">aborre</reg></choice></distinct> le cure della vita, perchè <quote xml:lang="la" rend="italic">sine <name type="person" ref="#bacco">Baccho</name> et <name type="person" ref="#cerere">Cerere</name>
-                        <lb />friget <name type="person" ref="#venere">Venus</name></quote> — ma anche le classi tra cui i tipi e i concetti
+                        <lb /><distinct time="archaic"><choice><orig>abborre</orig><reg resp="mcamp">aborre</reg></choice></distinct> le cure della vita, perchè <quote xml:lang="la" rend="italic">sine <name type="character" ref="#bacco">Baccho</name> et <name type="character" ref="#cerere">Cerere</name>
+                        <lb />friget <name type="character" ref="#venere">Venus</name></quote> — ma anche le classi tra cui i tipi e i concetti
                         <lb />letterari non penetrano che indirettamente, se ne risentono
                         <lb />sempre. La letteratura tedesca, per esempio, ha avuto il
                         <lb />suo apogeo nel momento in cui il mondo <distinct time="archaic"><choice><orig>intiero</orig><reg>intero</reg></choice></distinct> era affetto
@@ -544,7 +536,7 @@
                         <lb />Per venire all'<name type="place" ref="#it">Italia</name>, quando leggo il libro del <roleName type="honorific"><choice><abbr>prof.</abbr><expan>professor</expan></choice></roleName> <name type="person" ref="#mantegazza">Man-
                         <lb />tegazza</name> si direbbe che l'amore italiano sia tutto passione e
                         <lb />che non ammetta cosa alcuna all'infuori della passione, di
-                        <lb /><quote xml:lang="fr" rend="italic" source="#fedra"><name type="person" ref="#venere">Vénus</name> tout entière à sa proie attachée</quote>.
+                        <lb /><quote xml:lang="fr" rend="italic" source="#fedra"><name type="character" ref="#venere">Vénus</name> tout entière à sa proie attachée</quote>.
                         <lb />Tutto ciò che non è passione — esclusiva, beninteso, cioè
                         <lb />concentrata sopra un unico oggetto — entra pel nostro au-
                         <lb />tore nel campo della patologia; e sarebbe cosa difficile il
@@ -558,9 +550,9 @@
                     <pb n="3" facs="#p177" xml:id="pb177"/>
                     <cb xml:id="c1_p177" n="1" corresp="#pb177"/>
                     <p xml:id="p177_par1" corresp="#c1_p177">
-                        <lb />giovani lettori di non legarsi con giuramenti, come se <name type="person" ref="#giove">Giove</name>
+                        <lb />giovani lettori di non legarsi con giuramenti, come se <name type="character" ref="#giove">Giove</name>
                         <lb />non ridesse dei giuramenti degli innamorati!
-                        <lb /><quote xml:lang="la" rend="italic" source="#elegie">Nec jurare time: <name type="person" ref="#venere">Veneris</name> perjuria venti
+                        <lb /><quote xml:lang="la" rend="italic" source="#elegie">Nec jurare time: <name type="character" ref="#venere">Veneris</name> perjuria venti
                         <lb />Irrita per terras et freta summa ferunt.</quote>
                         <lb />Ma egli non sembra credere che l'amore possa ancora,
                         <lb />dopo trovato il vero oggetto, cambiarlo per un altro, senza
@@ -751,7 +743,7 @@
                     </p>
                     <closer xml:id="p178_author" corresp="#c1_p178">
                         <signed rend="align(right) case(allcaps)">
-                            <name><abbr>H.</abbr></name>
+                            <name type="person"><abbr>H.</abbr></name>
                         </signed>
                     </closer>
                 </div>
@@ -761,8 +753,8 @@
                     <pb n="1" facs="#p270" xml:id="pb270"/>
                     <cb xml:id="c2_p270" n="1" corresp="#pb270"/>
                     <head facs="#p270" xml:id="pag270_tit" corresp="#c2_p270" rend="align(center) case(allcaps)">
-                        <lb/>Le tavolette dipinte
-                        <lb/>dei libri d'entrata e d'uscita della Repubblica di Siena.
+                        <lb/>LE TAVOLETTE DIPINTE
+                        <lb/>DEI LIBRI D'ENTRATA E D'USCITA DELLA REPUBBLICA DI SIENA.
                     </head>
                     <p xml:id="p270_par1" corresp="#c2_p270">
                         <lb/>Le vecchie coperture originali dei libri, sebbene incon-
@@ -999,7 +991,7 @@
                         <lb/>(sono <num type="ordinal" value="10">dieci</num> sopra <choice><orig><num type="ordinal" value="31">trentuna</num></orig><reg>trentuno</reg></choice> tavole); e ci s'è infiltrato anche
                         <lb/>un tantino di paganesimo, di che offre esempio (unico bensì
                         <lb/>in tutta la serie) una tavola dell'anno <date when="1567">1567</date>, nella quale
-                        <lb/>l'Abbondanza è raffigurata da <name type="person" ref="#cerere">Cerere</name> e da <name type="person" ref="#bacco">Bacco</name> in mezzo
+                        <lb/>l'Abbondanza è raffigurata da <name type="character" ref="#cerere">Cerere</name> e da <name type="character" ref="#bacco">Bacco</name> in mezzo
                         <lb/>alle sette vacche faraoniche. Le rappresentazioni poi di fatti
                         <lb/>storici mostrano che le relazioni politiche si sono allargate,
                         <lb/>che il mondo storico non è ora più ristretto tra « <quote>quei che
@@ -1051,30 +1043,28 @@
                     </p>
                     <closer xml:id="p272_author" corresp="#c2_p272">
                         <signed>
-                            <name>Cesare Paoli</name>.
+                            <name type="person" ref="#paoli">Cesare Paoli</name>.
                         </signed>
                     </closer>
                 </div>
 
-                <!-- Bibliografia e notizie  -->
+                <!-- Bibliografia e notizie -->
                 <div type="bibl_notiz" org="uniform" sample="medial">
+                    <!-- Bibliografia -->
                     <pb n="1" facs="#bibl1i" xml:id="pb274"/>
                     <cb xml:id="c2_p274" n="2" corresp="#pb274"/>
                     <div type="entrata_bibl" n="1" part="I">
-                        <head rend="align(center) case(allcaps)" >
-                            <lb />Bibliografia. 
-                        </head>
                         <head rend="align(center) case(allcaps)" facs="#bibl1_categ" xml:id="bibl1_categoria" corresp="#c2_p274">
-                            <lb />Letteratura e storia. 
+                            <lb />LETTERATURA E STORIA. 
                         </head>
                         <ab facs="#bibl1_tit" xml:id="bibl1_titolo" corresp="#c2_p274">
                             <bibl xml:id="hortis_bibl">
                                 <lb />
-                                <author rend="case(allcaps)">
+                                <author>
                                     <name type="person" ref="#hortis">
-                                        <forename>Attilio</forename>
-                                        <surname>Hortis</surname>,
-                                    </name>
+                                        <forename>ATTILIO</forename>
+                                        <surname>HORTIS</surname>
+                                    </name>,
                                 </author>
                                 <title rend="italic"> <name type="person" ref="#cicerone"><choice><abbr>M. T.</abbr><expan>Marco Tullio</expan></choice> Cicerone</name> nelle opere del <name type="person" ref="#petrarca">Petrarca</name> e 
                                         <lb />del <name type="person" ref="#boccaccio">Boccaccio</name>, ec. –
@@ -1194,18 +1184,18 @@
                         </p>
                     </div>
                     <div type="entrata_bibl" n="2" facs="#bibl1f_2">
-                        <head rend="align(center) case(allcaps)" facs="#bibl2_categ" xml:id="bibl2_categoria">
-                            <lb />Scienze filosofiche. 
+                        <head rend="align(center) case(allcaps)" facs="#bibl2_categ" xml:id="bibl2_categoria" corresp="#c1_p275">
+                            <lb />SCIENZE FILOSOFICHE. 
                         </head>
                         <ab facs="#bibl2_tit" xml:id="bibl2_titolo" corresp="#c1_p275">
                             <bibl xml:id="valdarnini_bibl">
                                 <lb />
                                 <author>
+                                    <roleName type="honorific">Professore</roleName>
                                     <name type="person" ref="#valdarnini">
-                                        <roleName type="honorific">Professore</roleName>
-                                        <forename rend="case(allcaps)"> <choice><abbr>A.</abbr><expan>Angelo</expan></choice> </forename>
-                                        <surname rend="case(allcaps)">Valdarnini</surname>
-                                    </name>
+                                        <forename> <choice><abbr>A.</abbr><expan>ANGELO</expan></choice> </forename>
+                                        <surname>VALDARNINI</surname>
+                                    </name>.
                                 </author>
                                 <title rend="italic"> Nozioni di Psicologia e Logica,
                                     <lb/>ad uso degl'Istituti Tecnici. –
@@ -1314,11 +1304,38 @@
                             <lb/>senza che si sappia quale corrisponda meglio alla realtà,
                             <lb/>perchè manca ogni termine di paragone obiettivo.
                         </p>
-                        <ab xml:id="bibl2_nota" corresp="#c2_p275">
+                        <ab facs="#bibl2_n" xml:id="bibl2_nota" corresp="#c2_p275">
                             <note type="footnote" xml:id="met_sub" corresp="#c2_p275">
                                 <lb/>* V. <ref><name type="bibl" ref="#ras_set" rend="italic">Rassegna Settimanale</name>, vol. 1°, n. 6: <title rend="italic">Del valore del Metodo subiettivo in Psicologia</title></ref>.
                             </note>
                         </ab>
+                    </div>
+                    <!-- Notizie -->
+                    <pb n="3" xml:id="pb276" facs="#p276"/>
+                    <cb n="2" xml:id="c2_p276" corresp="#pb276"/>
+                    <div type="notiz" facs="#p276" corresp="#c2_p276">
+                        <head rend="align(center) case(allcaps)" xml:id="not_tit" facs="#notizia_tit">
+                            <lb/>NOTIZIE. 
+                        </head>
+                        <list rend="simple">
+                            <item xml:id="not_1" facs="#notizia_1">
+                                <lb/>La <roleName type="honorific">signora</roleName> <name type="person" ref="#elisabetta-thompson">Elisabetta Thompson</name> di <name type="place" ref="#new-york">New-York</name> si è offerta a soppor-
+                                <lb/>tare tutta la spesa necessaria per fare studiare da una commissione lo
+                                <lb/>cause della febbre gialla ed il modo di curarla. (<name type="bibl" xml:lang="en" ref="#nation" rend="italic">Nation</name>)
+                            </item>
+                            <item xml:id="not_2" facs="#notizia_2">
+                                <lb/>Il <roleName type="honorific">signor</roleName> <name type="person" ref="#van-der-horck">Van der Horck</name>, noto per il suo viaggio nell'Oceano
+                                <lb/>Artico, organizza una spedizione di cui lo scopo è di studiare le origini
+                                <lb/>della popolazione primitiva dell'America. Si sa che, secondo l'opinione
+                                <lb/>più accreditata, <choice><abbr>gl'</abbr><expan>gli</expan></choice>indigeni americani avrebbero avuto la loro culla in 
+                                <lb/>Asia. Il <name type="person" ref="#van-der-horck">Van der Horck </name>si propone di visitare le coste orientali del-
+                                <lb/>l'Asia fino al Mare Polare, di passare lo stretto di Behring e di ridi-
+                                <lb/>scendere fino a <name type="place" ref="#san-francisco">San Francisco</name> lungo le coste. Il viaggio non durerà
+                                <lb/>meno di <num type="cardinal" value="3">tre</num> o <num type="cardinal" value="4">quattro</num> anni. I membri della spedizione si occuperanno
+                                <lb/>di ogni genere di ricerche scientifiche, ma senza mai perdere di vista
+                                <lb/>che l'Antropologia è il loro scopo principale. (<name type="bibl" xml:lang="fr" ref="#revue" rend="italic">Revue politique et <choice><abbr>litt.</abbr><expan>litteraire</expan></choice></name>)
+                            </item>
+                        </list>
                     </div>
                 </div>
 
@@ -1326,8 +1343,8 @@
                 <div type="article" n="3" xml:lang="it" source="#art_3">
                     <pb n="1" facs="#p337" xml:id="pb337" />
                     <cb xml:id="c2_p337" n="2" corresp="#pb337"/>
-                    <head facs="#p337" xml:id="pag337_tit" corresp="#p337_col2" rend="align(center) case(allcaps)">
-                         <lb/>La Calabria descritta da un calabrese.
+                    <head facs="#p337" xml:id="pag337_tit" corresp="#c2_p337" rend="align(center) case(allcaps)">
+                        <lb/>LA CALABRIA DESCRITTA DA UN CALABRESE.
                     </head>
                     <p xml:id="p337_par1" corresp="#c2_p337">
                         <lb/>L'<name type="place" ref="#it">Italia</name> non conosce sé stessa: e non solo l'italiano che
@@ -1352,7 +1369,7 @@
                         <lb/>dare uniti e d'accordo riesca più difficile che non pareva.
                         <lb/>Certo è che dal giogo non vanno disgiunti: o, per uscir
                         <lb/>di metafora, che l'unità non va disfatta, nè menomata: ma
-                        <lb/>lo sthdiare le condizioni speciali di ciascun paese, derivanti
+                        <lb/>lo studiare le condizioni speciali di ciascun paese, derivanti
                         <lb/>da diversità di tradizioni, di storia, di stirpe, di clima, di
                         <lb/>bisogni, è ormai obbligo morale del cittadino che voglia la
                         <lb/>patria unita e possente e prospera.
@@ -1378,7 +1395,7 @@
                     <cb xml:id="c1_p338" n="1" corresp="#pb338"/>
                     <p xml:id="p338_par1" corresp="#c1_p338">
                         <lb/>cito ricordare <distinct time="archaic"><choice><abbr>pel</abbr><expan>per il</expan></choice></distinct> passato <distinct time="archaic"><choice><orig>niun</orig><reg>nessun</reg></choice></distinct> altro studio in proposito
-                        <lb/>salvo quello del <name type="person" ref="#pnai-rossi">Pani-Rossi</name> sulla <name type="place" ref="#basilicata">Basilicata</name>: ma da una
+                        <lb/>salvo quello del <name type="person" ref="#pani-rossi">Pani-Rossi</name> sulla <name type="place" ref="#basilicata">Basilicata</name>: ma da una
                         <lb/>recente pubblicazione del <roleName type="honorific">signor</roleName> <name type="person" ref="#padula">Padula</name><ref target="#p338_nota">*</ref> ci si conceda to-
                         <lb/>gliere quanto può dare notizia della vita economica e mo-
                         <lb/>rale in <name type="place" ref="#calabria">Calabria</name>. Ciò che diremo non è compiuto, perchè
@@ -1393,7 +1410,7 @@
                         <lb/>campi: chè a tale studio è chiamato ogni uomo di cuore e
                         <lb/>d'intelletto, e quella che dicesi <term rend="italic" ref="#quest_sociale">questione sociale</term> è speranza
                         <lb/>e sgomento insieme degli odierni statisti. Or ecco come il
-                        <lb/><name type="person" ref="#padula">Padula</name>ci descrive l'abitazione del povero in <name type="place" ref="#calabria">Calabria</name>. «<quote source="#padula"> A
+                        <lb/><name type="person" ref="#padula">Padula</name> ci descrive l'abitazione del povero in <name type="place" ref="#calabria">Calabria</name>. «<quote source="#padula"> A
                         <lb/>destra dell'uscio un asino che sgretola il suo fieno, poi un
                         <lb/>focolare senza fuoco, senza pentola, con un gatto soriano
                         <lb/>accoccolato sulla cenere, poi di fronte una finestra priva di
@@ -1412,12 +1429,12 @@
                         <lb/>nuto ai venti anni piglia il mestiero di brigante, o finisce
                         <lb/>di vivere come l'animale con cui fu educato. </quote>» Il sorriso
                         <lb/>che ci spuntava sulle labbra alla viva descrizione di quella
-                        <lb/>piccola arca di <name type="person" ref="#Noe">Noè</name>, muore a mezzo, e ci lascia pensosi; e
-                        <lb/>pensosi proseguiamo a leggere l'articolo intitolato l'<name type="bibl" rend="italic">Ostra-
+                        <lb/>piccola arca di <name type="person" ref="#noe">Noè</name>, muore a mezzo, e ci lascia pensosi; e
+                        <lb/>pensosi proseguiamo a leggere l'articolo intitolato l'<name type="bibl" ref="#ostr" rend="italic">Ostra-
                         <lb/>cismo de' porci</name>.
                     </p>
                     <p xml:id="p338_par3_i" part="I" corresp="#c1_p338">
-                        <lb/>Sono quasi ormai cinque secoli dacché <name type="person">Francesco Petrarca</name>
+                        <lb/>Sono quasi ormai cinque secoli dacché <name type="person" ref="#petrarca">Francesco Petrarca</name>
                         <lb/>(non meravigli il lettore di vedere accozzati insieme il gentil
                         <lb/>Poeta e gli <hi rend="italic">animali neri</hi>) lagnavasi con <name type="person" ref="#francesco-da-carrara">Francesco da Car-
                         <lb/>rara</name> <roleName type="honorific">signor</roleName> di <name type="place" ref="#padova">Padova</name>, perchè la città sua, «<quote source="#petrarca"> così splendida
@@ -1429,21 +1446,21 @@
                         <lb/>con animo indifferente; ma i forestieri ne prendono scan-
                         <lb/>dalo e meraviglia</quote>» <ref>(Senili, trad. <name type="person" ref="#fracassetti">Fracassetti</name>, II, 351)</ref>. Quel
                         <lb/>che era scandalo in <name type="place" ref="#padova">Padova</name> nel secolo decimoquarto, è spet-
-                        <lb/>tacolo quotidiano, tollerato e gradito nelle <name type="place" ref="calabrie">Calabrie</name>, e non
+                        <lb/>tacolo quotidiano, tollerato e gradito nelle <name type="place" ref="#calabrie">Calabrie</name>, e non
                         <lb/>solo nei campi, ma nelle città. «<quote source="#padula"> Il porco in <name type="place" ref="#calabria">Calabria</name></quote>, dice
                         <lb/>il <name type="person" ref="#padula">Padula</name>, <quote source="#padula">dorme sotto il letto, scorazza per le vie, si con-
                         <lb/>duce a passeggiare per le piazze, spinge il grifo nei caffè,
                         <lb/>si ferma innanzi alle bettole per raccogliere le bucce di lu-
                         <lb/>pini e di castagne che gli buttano i bevitori, e quando bene
                         <lb/>gli pare, entra in chiesa a sentire la predica.</quote> » Aggiungiamo,
-                        <lb/>secondo scrisse lo sventurato <name type="person" ref="#cerri">Cerri</name>, autore delle <name type="bibl" ref="#tribolazioni" rend="italic">Tribolazioni
+                        <lb/>secondo scrisse lo sventurato <name type="person" ref="#cerri">Cerri</name>, autore delle <name type="bibl" ref="#tribolaz" rend="italic">Tribolazioni
                         <lb/>di un insegnante di ginnasio</name>, che il maiale entra anche nelle
                         <lb/>scuole, e niuno lo scaccia! Togliere la cittadinanza ai porci
                         <lb/>non si può, assevera l'autore nostro: anzi, secondo un pro-
                         <lb/>verbio del luogo, meglio è un porco che un figlio: <distinct type="dialect" rend="italic">Miegliu
                         <lb/>è crisciari u puorcu ca nu figliu</distinct>: e un frate calabrese ebbe 
                         <lb/>a dire che se il porco avesse l'ali somiglierebbe all'<distinct time="archaic"><choice><orig>angiolo</orig><reg>angelo</reg></choice></distinct>
-                        <lb/>Gabriele: tanto si ama ciò che è utile, e tanto ciò che è
+                        <lb/><name type="character" ref="#arc_gabr">Gabriele</name>: tanto si ama ciò che è utile, e tanto ciò che è
                         <lb/>utile par bello! Di più: l'animale prediletto che dà da man-
                     </p>
                     <ab type="bibliography" facs="#p338" xml:id="p338_nota" corresp="#c1_p338"> 
@@ -1462,11 +1479,11 @@
                     <p xml:id="p338_par3_f" part="F" corresp="#c2_p338">
                         <lb/>giare al povero, poco o punto costandogli, sicché sia me-
                         <lb/>glio, come vedemmo, allevare un porco che un figlio, è anche
-                        <lb/>10 spazzaturaio del paese. Le case non hanno chiaviche, nè
+                        <lb/>lo spazzaturaio del paese. Le case non hanno chiaviche, nè
                         <lb/>fogne, nè condotti, nè tutto quel che qui non vogliam dire:
                         <lb/>le immondezze si depongono nell'abitato, ma il maiale le
                         <lb/>mangia, e sbratta così il terreno. « All'alba di un giorno
-                        <lb/>estivo, dice il <name type="person" ref="#padula">Padula </name>, vedete aprirsi gli usci delle case, e
+                        <lb/>estivo, dice il <name type="person" ref="#padula">Padula</name>, vedete aprirsi gli usci delle case, e
                         <lb/>uscire fuori figure bianche. Paiono spettri avvolti in len-
                         <lb/>zuolo di neve, e non sono spettri; Fate, che meditino un
                         <lb/>incantesimo, e non sono Fate. Chi sono dunque? Sono
@@ -1476,7 +1493,7 @@
                         <lb/>vive, che sono i porci: e allora o i padroni dovrebbero tenerli
                         <lb/>legati in casa, o associarli sotto la guardia di un uomo, che
                         <lb/>di giorno fi menerebbe a pascere in contado, come si fa in
-                        <lb/><name type="place" ref="#svz">Svizzera </name>delle mucche. »
+                        <lb/><name type="place" ref="#svz">Svizzera</name> delle mucche. »
                     </p>
                     <p xml:id="p338_par4" corresp="#c2_p338">
                         <lb/>E ora lasciamo il porco, e veniamo all'uomo. Tre ceti
@@ -1502,7 +1519,7 @@
                         <lb/>vicine che sien da meno. Ma i <term type="archaic" rend="italic" ref="#massaro">massari</term>, de' quali almeno la
                         <lb/>vita materiale è buona, vanno ogni giorno scemando di
                         <lb/>numero, e cresce invece la classe dei <term type="archaic" rend="italic" ref="#massaro">massarotti</term>, de' quali il
-                        <lb/><name type="person" ref="#padula">Padula</name>distingue quattro specie. La prima è di quelli a cui
+                        <lb/><name type="person" ref="#padula">Padula</name> distingue quattro specie. La prima è di quelli a cui
                         <lb/>il galantuomo dà i bovi da arare il campo, con spese e gua-
                         <lb/>dagni a mezzo, più il companatico, ma non il pane e il vino.
                         <lb/>Questa classe è agiata nei paesi che hanno vie carreggiabili,
@@ -1564,7 +1581,7 @@
                         <lb/>gliere accanto all'asino: d'estate prese sonno sulla via allo
                         <lb/>scoverto, e se aveva un'innamorata, andò a dormire sullo
                         <lb/>scalino della porta, o sul ballatoio della scala di lei.» Alcuni
-                        <lb/>Canti popolari calabresi, che il <name type="person" ref="#padula">Padula</name>riferisce, e che ci
+                        <lb/>Canti popolari calabresi, che il <name type="person" ref="#padula">Padula</name> riferisce, e che ci
                         <lb/>duole non poter qui riportare per mancanza di spazio, dipin-
                         <lb/>gono la misera condizione del bracciante. Ci contenteremo
                         <lb/>di due versi che dipingono la miseria del bracciante, op-
@@ -1598,7 +1615,7 @@
                         <lb/>rebbe anche a' primi gradi incomportabile, una ignoranza
                         <lb/>che si direbbe non superabile, una abbiezione di vita che
                         <lb/>ravvicina l'uomo al preferito animale: a quello che se avesse
-                        <lb/>l'ali, sarebbe l'angelo Gabriele. E condizioni non molto
+                        <lb/>l'ali, sarebbe l'angelo <name type="character" ref="#arc_gabr">Gabriele</name>. E condizioni non molto
                         <lb/>dissimili a queste delle popolazioni calabresi si riscontrano
                         <lb/>in altre province della peninola. Se la nostra voce avesse
                         <lb/>autorità, diremmo ai giovani scrittori: Lasciate i lavori di
@@ -1622,34 +1639,7 @@
                         <lb/>cora la patria nostra!</said>
                     </p>
                 </div>
-    <!--NOTIZIE volume 2 fascicolo 16-->
-
-                <div type="notizie" n="1" xml:lang="it" source="#notizie">
-                    <pb n="1" facs="#p276" xml:id="pb276" />
-                        <head facs="#p276" xml:id="notize_tit" corresp="#notizie_tit">
-                            <lb/> NOTIZIE. 
-                        </head>
-             
-                    <item  xml:id="notizia_1" corresp="#notizia_1" >
-                        <lb/> — La <roleName type="honorific">signora</roleName> <name type="person" ref="#elisabetta-thompson">Elisabetta Thompson</name> di <name type="place" ref="#new-york">New-York</name> si è offerta a soppor-
-                        <lb/>tare tutta la spesa necessaria per fare studiare da una commissione lo
-                        <lb/>cause della febbre gialla ed il modo di curarla. (Nation)
-                    </item>
-                    
-                    <item xml:id="notizia_2" corresp="notizia_2">
-                        <lb/> — Il <roleName type="honorific">signor</roleName> <name type="person" ref="#van-der-horck">Van der Horck</name>, noto per il suo viaggio nell’ Oceano
-                        <lb/> Artico, organizza una spedizione di cui lo scopo ò di studiare le origini
-                        <lb/>della popolazione primitiva dell’America. Si sa che, secondo 1’ opinione
-                        <lb/>più accreditata, <choice><abbr>gl’<abbr><expan>gli</expan></choice>indigeni americani avrebbero avuto la loro culla in 
-                        <lb/>Asia. Il <name type="person" ref="#van-der-horck">Van der Horck </name>si propone di visitare le coste orientali del-
-                        <lb/>l’Asia fino al Mare Polare, di passare lo stretto di Behring e di ridi-
-                        <lb/>scendere fino a <name type="place" ref"#san-francisco">San Francisco</name> lungo le coste. Il viaggio non durerà
-                        <lb/> meno di tre o <num type="cardinal" value="4">quattro</num> anni. I membri della spedizione si occuperanno
-                        <lb/>di ogni genere di ricerche scientifiche, ma senza mai perdere di vista
-                        <lb/>che l’Antropologia è il loro scopo principale. 
-                        <lb/>(Revue politique et litt.)
-                    </item>
-                    </div>
+        
             </div>
         </body>
 
@@ -1700,7 +1690,7 @@
                         <death>
                             <date when="1910-08-28">28/08/1910</date>
                         </death>
-                        <occupation>Fisiologo, patologo, igienista, neurologo, antropologo e romanziere</occupation>
+                        <occupation>Fisiologo, patologo, neurologo, antropologo e romanziere</occupation>
                     </person>
                     <person xml:id="michelet" sex="M">
                         <persName>
@@ -1983,34 +1973,6 @@
                         </death>
                         <occupation>Filosofo, storico e critico letterario</occupation>
                     </person>
-                    <person xml:id="bacco" sex="M">
-                        <persName>
-                            <ref target="https://it.wikipedia.org/wiki/Bacco"/>
-                            <forename>Bacco</forename>
-                        </persName>
-                        <occupation>Divinità greco-romana</occupation>
-                    </person>
-                    <person xml:id="cerere" sex="F">
-                        <persName>
-                            <ref target="https://it.wikipedia.org/wiki/Cerere"/>
-                            <forename>Cerere</forename>
-                        </persName>
-                        <occupation>Divinità greco-romana</occupation>
-                    </person>
-                    <person xml:id="venere" sex="F">
-                        <persName>
-                            <ref target="https://it.wikipedia.org/wiki/Venere_(divinit%C3%A0)"/>
-                            <forename>Venere</forename>
-                        </persName>
-                        <occupation>Divinità greco-romana</occupation>
-                    </person>
-                    <person xml:id="giove" sex="M">
-                        <persName>
-                            <ref target="https://it.wikipedia.org/wiki/Giove_(divinit%C3%A0)"/>
-                            <forename>Venere</forename>
-                        </persName>
-                        <occupation>Divinità greco-romana</occupation>
-                    </person>
                     <person xml:id="caterinaII" sex="F">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/Caterina_II_di_Russia"/>
@@ -2029,7 +1991,7 @@
                     <person xml:id="sand" sex="F">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/George_Sand"/>
-                            <forename>Amantine Aurore Lucile</forename>
+                            <forename>Amantine Aurore</forename>
                             <surname>Dupin</surname>
                             <addName type="pseudonym">"George Sand"</addName>
                         </persName>
@@ -2119,6 +2081,34 @@
                         </persName>
                         <occupation>Personaggio operistico</occupation>
                     </person>
+                    <person xml:id="bacco" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Bacco"/>
+                            <forename>Bacco</forename>
+                        </persName>
+                        <occupation>Divinità greco-romana</occupation>
+                    </person>
+                    <person xml:id="cerere" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Cerere"/>
+                            <forename>Cerere</forename>
+                        </persName>
+                        <occupation>Divinità greco-romana</occupation>
+                    </person>
+                    <person xml:id="venere" sex="F">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Venere_(divinit%C3%A0)"/>
+                            <forename>Venere</forename>
+                        </persName>
+                        <occupation>Divinità greco-romana</occupation>
+                    </person>
+                    <person xml:id="giove" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Giove_(divinit%C3%A0)"/>
+                            <forename>Giove</forename>
+                        </persName>
+                        <occupation>Divinità greco-romana</occupation>
+                    </person>
                     <person xml:id="contessa" sex="F">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/Le_nozze_di_Figaro"/>
@@ -2136,7 +2126,7 @@
                     <person xml:id="werther" sex="M">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/I_dolori_del_giovane_Werther"/>
-                            <name>Werter</name>
+                            <name>Werther</name>
                         </persName>
                         <occupation>Personaggio letterario</occupation>
                     </person>
@@ -2278,6 +2268,20 @@
                         </death>
                         <occupation>226° papa della Chiesa cattolica</occupation>
                     </person>
+                    <person xml:id="paoli" sex="M">
+                        <persName>
+                            <forename>Cesare</forename>
+                            <surname>Paoli</surname>
+                            <ref target="https://it.wikipedia.org/wiki/Cesare_Paoli"/>
+                        </persName>
+                        <birth>
+                            <date when="1840-11-10">10/11/1840</date>
+                        </birth>
+                        <death>
+                            <date when="1902-01-20">20/01/1902</date>
+                        </death>
+                        <occupation>Archivista</occupation>
+                    </person>
                     <!-- Entrate bibliografiche -->
                     <person xml:id="hortis" sex="M">
                         <persName>
@@ -2363,9 +2367,35 @@
                         </death>
                         <occupation>Filosofo</occupation>
                     </person>
-                    
-                <!--Articolo 3--> 
-                <person xml:id="padula" sex="M">
+                    <!--Articolo 3-->
+                    <person xml:id="baedeker" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Karl_Baedeker" />
+                            <forename>Karl</forename>
+                            <surname>Baedeker</surname>
+                        </persName>
+                        <birth>
+                            <date when="1801-11-03">03/11/1801</date>
+                        </birth>
+                        <death>
+                            <date when="1859-10-04">04/10/1859</date>
+                        </death>
+                        <occupation>Editore</occupation>
+                    </person>
+                    <person xml:id="dupays" sex="M">
+                        <persName>
+                            <forename>?</forename>
+                            <surname>Du Pays</surname>
+                        </persName>
+                        <birth>
+                            <date when="N/A">N/A</date>
+                        </birth>
+                        <death>
+                            <date when="N/A">N/A</date>
+                        </death>
+                        <occupation>Editore?</occupation>
+                    </person>
+                    <person xml:id="padula" sex="M">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/Vincenzo_Padula" />
                             <forename>Vincenzo</forename>
@@ -2379,9 +2409,7 @@
                         </death>
                         <occupation>Presbitero, poeta e patriota </occupation>
                     </person>
-
-
-                     <person xml:id="pani-rossi" sex="M">
+                    <person xml:id="pani-rossi" sex="M">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/Enrico_Pani_Rossi" />
                             <forename>Enrico</forename>
@@ -2391,36 +2419,55 @@
                             <date when="1835">1835</date>
                         </birth>
                         <death>
-                            <date when="1886">1886</date> <!--IN REALTà: dopo il 1886) VEDI COME FARE-->
+                            <date notBefore="1886">1886</date>
                         </death>
                         <occupation>Politico e scrittore</occupation>
                     </person>
-
-  
                     <person xml:id="noe" sex="M">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/No%C3%A8"/>
                             <forename>Noè</forename>
                         </persName>
-                        <occupation> Patriarca biblico,</occupation>
+                        <occupation>Patriarca biblico</occupation>
                     </person>
-
-                     <person xml:id="francesco-da-carrara" sex="M">
+                    <person xml:id="arc_gabr" sex="M">
+                        <persName>
+                            <ref target="https://it.wikipedia.org/wiki/Gabriele_(arcangelo)" />
+                            <roleName>Angelo</roleName>
+                            <forename>Gabriele</forename>
+                        </persName>
+                        <occupation>Personaggio biblico</occupation>
+                    </person>
+                    <person xml:id="francesco-da-carrara" sex="M">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/Francesco_I_da_Carrara" />
-                            <forename>Francesco I </forename>
+                            <forename>Francesco</forename>
+                            <genName>I</genName>
                             <surname>da Carrara</surname>
                         </persName>
                         <birth>
                             <date when="1825-09-13">13/09/1825</date>
                         </birth>
                         <death>
-                            <date when="1395-10-06">6/10/1395</date> 
+                            <date when="1395-10-06">06/10/1395</date> 
                         </death>
                         <occupation>Politico e condottiero italiano, signore di Padova</occupation>
                     </person>
-
-                     <person xml:id="cerri" sex="M">
+                    <person xml:id="fracassetti" sex="M">
+                        <persName>
+                            <ref target="https://www.treccani.it/enciclopedia/giuseppe-fracassetti_(Dizionario-Biografico)/"/>
+                            <forename>Giuseppe</forename>
+                            <surname>Fracassetti</surname>
+                        </persName>
+                        <birth>
+                            <date when="1802-08-19">19/08/1802</date>
+                        </birth>
+                        <death>
+                            <date when="1883-11-10">10/11/1883</date> 
+                        </death>
+                        <occupation>Intellettuale, politico e letterato</occupation>
+                    </person>
+                    <person xml:id="cerri" sex="M">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/Placido_Cerri" />
                             <forename>Placido </forename>
@@ -2442,11 +2489,9 @@
                         </persName>
                         <birth>
                             <date when="-0427">427 a.C.</date>
-                            <placeName>Atene</placeName>
                         </birth>
                         <death>
                             <date when="-0347">347 a.C.</date>
-                            <placeName>Atene</placeName>
                         </death>
                         <occupation>Filosofo</occupation>
                     </person>
@@ -2454,21 +2499,35 @@
                     <person xml:id="elisabetta-thompson" sex="F">
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/Elizabeth_Thompson" />
-                            <forename>Elisabetta </forename>
+                            <forename>Elizabeth</forename>
                             <surname>Thompson</surname>
                         </persName>
                         <birth>
-                            <date when="1846-11-3">3/11/1846</date>
+                            <date when="1846-11-03">03/11/1846</date>
                         </birth>
                         <death>
-                            <date when="1933-10-2">2/10/1933</date> 
+                            <date when="1933-10-02">02/10/1933</date> 
                         </death>
                         <occupation>Pittrice</occupation>
-                    </person> 
+                    </person>
+                    <person xml:id="van-der-horck" sex="F">
+                        <persName>
+                            <forename>?</forename>
+                            <surname>Van Der Horck</surname>
+                        </persName>
+                        <birth>
+                            <date when="N/A">N/A</date>
+                        </birth>
+                        <death>
+                            <date when="N/A">N/A</date> 
+                        </death>
+                        <occupation>Antropologo ed esploratore?</occupation>
+                    </person>  
                 </listPerson>
 
                 <listOrg>
                     <head>Lista delle organizzazioni</head>
+                    <!-- Articolo 2 -->
                     <org xml:id="rep_siena">
                         <orgName>
                             <name>Repubblica di Siena</name>
@@ -2522,11 +2581,10 @@
 
                     <org xml:id="borbone" role="historical regime">
                         <orgName>
-                            <name>Tirannide Borbonica</name>
+                            <name>Tirannide borbonica</name>
                             <ref target="https://it.wikipedia.org/wiki/Borbone_delle_Due_Sicilie"/>
                         </orgName>
                     </org>
-
                 </listOrg>
 
                 <listEvent>
@@ -2600,7 +2658,6 @@
                             <bloc>Europa</bloc>
                         </location>
                     </place>
-                    
                     <!--Articolo 3-->
                     <place xml:id="Sicilia" type="region">
                         <placeName>Sicilia</placeName>
@@ -2609,7 +2666,6 @@
                             <country>Italia</country>
                          </location>
                     </place>
-
                     <place xml:id="napoli" type="city">
                         <placeName>Napoli</placeName>
                         <location>
@@ -2617,15 +2673,13 @@
                             <country>Italia</country>
                         </location>
                     </place>    
-                    
-                     <place xml:id="Basilicata" type="region">
+                    <place xml:id="basilicata" type="region">
                         <placeName>Basilicata</placeName>
                         <location>
                             <bloc>Europa</bloc>
                             <country>Italia</country>
                          </location>
                     </place>
-    
                     <place xml:id="calabria" type="region">
                         <placeName>Calabria</placeName>
                         <location>
@@ -2633,7 +2687,6 @@
                             <country>Italia</country>
                          </location>
                     </place>
-
                     <place xml:id="padova" type="city">
                         <placeName>Padova</placeName>
                         <location>
@@ -2641,31 +2694,27 @@
                             <country>Italia</country>
                         </location>
                     </place>      
-                       
-                    <place xml:id="#svz" type="nation">
+                    <place xml:id="svz" type="nation">
                         <placeName>Svizzera</placeName>
                         <location>
                             <bloc>Europa</bloc>
                         </location>
                     </place>   
-
-                     <!--Notizie-->
-                     <place xml:id="new-york" type="city">
+                    <!--Notizie-->
+                    <place xml:id="new-york" type="city">
                         <placeName>New-York</placeName>
                         <location>
                             <bloc>America</bloc>
                             <country>United States</country>
                         </location>
                     </place>
-
-                     <place xml:id="san-francisco" type="city">
+                    <place xml:id="san-francisco" type="city">
                         <placeName>San Francisco</placeName>
                         <location>
                             <bloc>America</bloc>
                             <country>Unted States</country>
                         </location>
                     </place>
-
                 </listPlace>
 
                 <listBibl>
@@ -2798,6 +2847,18 @@
                         <author ref="#petrarca">Francesco Petrarca</author>
                         <date>XIV secolo</date>
                     </bibl>
+                    <!-- Articolo 3 -->
+                    <bibl xml:id="ostr">
+                        <title>L'ostracismo dei porci</title>
+                        <author ref="#petrarca">Vincenzo Padula</author>
+                        <date>1864</date>
+                    </bibl>
+                    <bibl xml:id="tribolaz">
+                        <title>Le tribolazioni di un insegnante di ginnasio</title>
+                        <author ref="#petrarca">Placido Cerri, Alessandro d'Ancona</author>
+                        <date>1873</date>
+                        <ref target="https://books.google.it/books/about/Le_tribolazioni_di_un_insegnante_di_ginn.html?id=Vp-NAAAACAAJ&amp;source=kp_book_description&amp;redir_esc=y" />
+                    </bibl>
                 </listBibl>
 
                 <list type="terminologia">
@@ -2815,6 +2876,22 @@
                     <item>
                         <gloss target="#quest_sociale" resp="#acar" source="https://it.wikipedia.org/wiki/Questione_operaia">
                             Insieme di problematiche sorte durante il processo di industrializzazione nella seconda metà del XIX secolo, legate alle precarie condizioni di vita e lavorative di contadini e operai.
+                        </gloss>
+                    </item>
+                    <label>
+                        <term xml:id="massaro">Massaro</term>
+                    </label>
+                    <item>
+                        <gloss target="#massaro" resp="#acar" source="https://www.treccani.it/vocabolario/massaro/">
+                            
+                        </gloss>
+                    </item>
+                    <label>
+                        <term xml:id="calabrie">Calabrie</term>
+                    </label>
+                    <item>
+                        <gloss target="#calabrie" resp="#acar" source="https://www.treccani.it/enciclopedia/calabria_(Enciclopedia-Italiana)/">
+                            Forma antica o regionale per "massaio". Nell'Italia centro-meridionale, il termine è stato largamente usato per indicare il mezzadro o fattore che presiede all'amministrazione e coltivazione di poderi o che dirige un'azienda pastorizia.
                         </gloss>
                     </item>
                 </list>
