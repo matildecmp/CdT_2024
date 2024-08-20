@@ -64,11 +64,10 @@ $(document).ready(function () {
     var previousSpan = null;
     
     $("area").click(function() {
-        var areaId = $(this).attr("id");
-        var dataCorr = $(this).attr("data-corresp");
+        var dataCorr = $(this).attr("data-corresp"); 
         if (dataCorr.startsWith("#")) {
-            var spanId = dataCorr.substring(1);
-            var spanCorr = $("#" + spanId);
+            var spanId = dataCorr.substring(1); 
+            var spanCorr = $("#" + spanId); 
             if (previousSpan && previousSpan.length > 0) {
                 previousSpan.removeClass('selected');
             }
@@ -79,7 +78,7 @@ $(document).ready(function () {
                 }, 700);
                 previousSpan = spanCorr;
             }
-    }
-});
+        }
+    });
 
 });
