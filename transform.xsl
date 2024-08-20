@@ -5,6 +5,7 @@
     xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.w3.org/1999/xhtml">
     <xsl:output method="html" encoding="UTF-8" />
 
+    <!-- Template di base: struttura della pagina HTML -->
     <xsl:template match="/">
         <html>
             <head>
@@ -12,7 +13,7 @@
                 <link rel="stylesheet" type="text/css" href="style.css" />
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
                 <script type="text/javascript" src="articoli.js"></script>
-                <title>Progetto di Codifica di Testi</title>
+                <title>Progetto Codifica di Testi</title>
             </head>
 
             <body>
@@ -77,7 +78,7 @@
                     <div class="porzione_cont">
                         <xsl:for-each select="tei:TEI/tei:text/tei:body/tei:div[@type='journal']/tei:div">
                             <div class="porzione">
-                                <h2> <xsl:value-of select="tei:head"/></h2>
+                                <h2> <xsl:value-of select="tei:head"/> </h2>
                                 <xsl:for-each select="tei:pb">
                                     <xsl:variable name="id_pag">
                                         <xsl:value-of select="@xml:id"/>
@@ -125,7 +126,7 @@
         </html>
     </xsl:template>
 
-    <!-- Templates specifici -->
+    <!-- Templates di nodi specifici -->
 
     <!-- fileDesc -->
     <xsl:template match="tei:fileDesc">
@@ -256,13 +257,13 @@
                     <strong>Volume</strong>
                 </td>
                 <td>
-                    <xsl:value-of select="tei:biblStruct/tei:monogr/tei:biblScope[1]"/>
-                    <xsl:for-each select="tei:biblStruct/tei:monogr[position() &gt; last() - 2]"> <!-- maggiore dei primi tre titoli, quindi gli ultimi due (Biblio e Notizie) -->
-                        <xsl:variable name="volume" select="tei:biblScope[@unit='volume']"/>
+                    <xsl:value-of select="tei:biblStruct/tei:monogr[1]/tei:biblScope[1]"/> 
+                    <xsl:for-each select="tei:biblStruct/tei:monogr[position() &gt; last() - 2]"> 
+                        <xsl:variable name="volume" select="tei:biblScope[@unit='volume']"/> 
                         <xsl:if test="$volume">
-                            | <xsl:value-of select="$volume"/>
+                            | <xsl:value-of select="$volume"/> 
                         </xsl:if>
-                    </xsl:for-each>
+                    </xsl:for-each> 
                 </td>
             </tr>
             <tr>
@@ -270,7 +271,7 @@
                     <strong>Fascicolo</strong>
                 </td>
                 <td>
-                    <xsl:value-of select="tei:biblStruct/tei:monogr/tei:biblScope[2]"/>
+                    <xsl:value-of select="tei:biblStruct/tei:monogr[1]/tei:biblScope[2]"/>
                     <xsl:for-each select="tei:biblStruct/tei:monogr[position() &gt; last() - 2]">
                         <xsl:variable name="issue" select="tei:biblScope[@unit='issue']"/>
                         <xsl:if test="$issue">
@@ -284,7 +285,7 @@
                     <strong>Pagine</strong>
                 </td>
                 <td>
-                    <xsl:value-of select="tei:biblStruct/tei:monogr/tei:biblScope[3]" />
+                    <xsl:value-of select="tei:biblStruct/tei:monogr[1]/tei:biblScope[3]" />
                     <xsl:for-each select="tei:biblStruct/tei:monogr[position() &gt; last() - 2]"> 
                         <xsl:variable name="page" select="tei:biblScope[@unit='page']"/>
                         <xsl:if test="$page">
@@ -326,54 +327,17 @@
     <!-- cb -->
     <xsl:template match="tei:cb">
         <xsl:variable name="col_id" select="@xml:id"/>
-            <xsl:element name="span">
-                <xsl:attribute name="id">
-                    <xsl:value-of select="$col_id"/>
-                </xsl:attribute>
-            </xsl:element>
+        <xsl:element name="span">
+            <xsl:attribute name="id">
+                <xsl:value-of select="$col_id"/>
+            </xsl:attribute>
+        </xsl:element>
         <xsl:apply-templates select="following-sibling::tei:*[@corresp=concat('#', $col_id)]"/>
         <xsl:apply-templates select="following-sibling::tei:div/tei:*[@corresp=concat('#', $col_id)]"/>
     </xsl:template>
         
     <!-- head -->
     <xsl:template match="tei:head">
-        <div class="paragr">
-            <xsl:element name="span">
-                <xsl:attribute name="id">
-                    <xsl:value-of select="@xml:id"/>
-                </xsl:attribute>
-                <strong><xsl:value-of select="@xml:id"/></strong>
-            </xsl:element>
-            <div class="blocco_testo">
-                <xsl:apply-templates />
-            </div>
-        </div>
-    </xsl:template>
-
-    <!-- list -->
-    <xsl:template match="tei:list">
-        <div class="paragr">
-            <div class="blocco_testo">
-                <xsl:apply-templates />
-            </div>
-        </div>
-    </xsl:template>
-    <xsl:template match="tei:item">
-        <div class="paragr">
-            <xsl:element name="span">
-                <xsl:attribute name="id">
-                    <xsl:value-of select="@xml:id"/>
-                </xsl:attribute>
-                <strong><xsl:value-of select="@xml:id"/></strong>
-            </xsl:element>
-            <div class="blocco_testo">
-                <xsl:apply-templates />
-            </div>
-        </div>
-    </xsl:template>
-    
-    <!-- closer -->
-    <xsl:template match="tei:closer">
         <div class="paragr">
             <xsl:element name="span">
                 <xsl:attribute name="id">
@@ -420,6 +384,43 @@
     <!-- lb -->
     <xsl:template match="tei:lb">
         <div class="riga"></div>
+    </xsl:template>
+
+    <!-- list -->
+    <xsl:template match="tei:list">
+        <div class="paragr">
+            <div class="blocco_testo">
+                <xsl:apply-templates />
+            </div>
+        </div>
+    </xsl:template>
+    <xsl:template match="tei:item">
+        <div class="paragr">
+            <xsl:element name="span">
+                <xsl:attribute name="id">
+                    <xsl:value-of select="@xml:id"/>
+                </xsl:attribute>
+                <strong><xsl:value-of select="@xml:id"/></strong>
+            </xsl:element>
+            <div class="blocco_testo">
+                <xsl:apply-templates />
+            </div>
+        </div>
+    </xsl:template>
+    
+    <!-- closer -->
+    <xsl:template match="tei:closer">
+        <div class="paragr">
+            <xsl:element name="span">
+                <xsl:attribute name="id">
+                    <xsl:value-of select="@xml:id"/>
+                </xsl:attribute>
+                <strong><xsl:value-of select="@xml:id"/></strong>
+            </xsl:element>
+            <div class="blocco_testo">
+                <xsl:apply-templates />
+            </div>
+        </div>
     </xsl:template>
 
     <!-- Testo in corsivo -->
