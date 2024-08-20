@@ -2705,14 +2705,14 @@
                         <placeName>New-York</placeName>
                         <location>
                             <bloc>America</bloc>
-                            <country>United States</country>
+                            <country>Stati Uniti</country>
                         </location>
                     </place>
                     <place xml:id="san-francisco" type="city">
                         <placeName>San Francisco</placeName>
                         <location>
                             <bloc>America</bloc>
-                            <country>Unted States</country>
+                            <country>Stati Uniti</country>
                         </location>
                     </place>
                 </listPlace>
