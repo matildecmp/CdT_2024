@@ -59,7 +59,7 @@
                             <button class="categ" id="org">Organizzazioni</button>
                             <button class="categ" id="date">Date</button>
                             <button class="categ" id="verbum">Verbum</button>
-                            <button class="categ" id="foreign">Lingua straniera</button>
+                            <button class="categ" id="foreign">Lingua straniera o dialetto</button>
                             <button class="categ" id="cit">Citazioni</button>
                             <button class="categ" id="num">Numeri</button>
                         </div>
@@ -614,25 +614,24 @@
             </xsl:if>
         </xsl:for-each>
     </xsl:template>
-    <!-- Glossario
-    <xsl:template match="tei:term/@ref">
-        <xsl:variable name="gloss_ref" select="." /> #camerlengo
+    <!-- Glossario -->
+    <xsl:template match="tei:term[@ref and not(@type='verbum')]">
+        <xsl:variable name="gloss_ref" select="@ref" />
         <xsl:element name="span">
             <xsl:attribute name="class">glossario</xsl:attribute>
             <xsl:element name="a">
-                    <xsl:attribute name="href"><xsl:value-of select="/tei:TEI/tei:text/tei:back/tei:div/tei:list[@type='terminologia']/tei:item/tei:gloss[@target=$gloss_ref]/@source"/></xsl:attribute>
-                    <xsl:apply-templates/>
+                <xsl:attribute name="href"><xsl:value-of select="/tei:TEI/tei:text/tei:back/tei:div/tei:list[@type='terminologia']/tei:item[@corresp=$gloss_ref]/tei:gloss/@source"/></xsl:attribute>
+                <xsl:apply-templates />
             </xsl:element>
         </xsl:element>
-        <xsl:for-each select="/tei:TEI/tei:text/tei:back/tei:div/tei:list[@type='terminologia']/tei:label">
-            <xsl:if test="./term/@xml:id = substring-after($gloss_ref, '#')">
+        <xsl:for-each select="//tei:item/tei:gloss">
+            <xsl:if test="@target = $gloss_ref">
                 <span class="info">
-                    <xsl:value-of select="following-sibling::tei:item/tei:gloss"/>
+                    <xsl:value-of select="."/>
                 </span>
             </xsl:if>
         </xsl:for-each>
-    </xsl:template> -->
-
+    </xsl:template>
     <!-- Interventi editoriali -->
     <xsl:template match="tei:expan">
         <xsl:choose>
