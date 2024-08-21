@@ -22,12 +22,12 @@
     margin-left: -20%;
 }
 
-.header a img { /* logo La Rass Sett */
+.header a img { /* Logo La Rass. Sett. */
     width: 30%;
     margin-left: 65%;
 }
 
-.header span img { /* logo UNIPI */
+.header span img { /* Logo UNIPI */
 	width: 12%;
     margin-top: 5%;
     margin-left: 30%;
@@ -71,7 +71,7 @@ div#desc_bibl table strong {
     padding: 30px 
 }
 
-/* Legenda */
+/* Legenda pulsanti */
 
 div#legenda_cont {
     padding-bottom: 2%;
@@ -154,7 +154,7 @@ button#clean {
     border-radius: 15px;
 }
 
-/* Testo e immagini */
+/* Testo e immagini facsimile */
 
 .testo_cont h2 {
     text-align: center;
@@ -231,7 +231,7 @@ span.selected {
     padding: 10px;
 }
 
-/* Informazioni entità e interventi */
+/* Infobox di entità + sottolineatura interventi */
 
 span.info{
 	position: absolute;
@@ -255,6 +255,10 @@ a:hover {
 }
 a:active {
     color: black; 
+}
+
+span.glossario a {
+    text-decoration: underline dotted 1.5px red;
 }
 
 /* Footer */
