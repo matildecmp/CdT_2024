@@ -5,4 +5,9 @@ CdL Informatica Umanistica, a.a. 2023/2024</br>
 
 # Validazione del file XML-TEI con Xerces:</br>
 Comando da terminale: "$ java -cp .:* dom.Counter -v articoli.xml"</br>
-Risultato: "articoli.xml: 737;123;4 ms (3578 elems, 8202 attrs, 21415 spaces, 123865 chars)"
+Risultato: "articoli.xml: 737;123;4 ms (3578 elems, 8202 attrs, 21415 spaces, 123865 chars)"</br>
+
+# Trasformazione in file HTML del file XML-TEI + XSLT con il processore Saxon:</br>
+Comnando da terminale: "$ java -jar ./SaxonHE12-4J/saxon-he-12.4.jar -s:./SaxonHE12-4J/articoli.xml -xsl:./SaxonHE12-4J/transform.xsl -o:./SaxonHE12-4J/articoli.html"
+
+
