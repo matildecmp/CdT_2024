@@ -164,12 +164,12 @@
             <zone ulx="323" uly="569" lrx="355" lry="581" xml:id="pag178_aut" corresp="#p178_aut"/>
         </surface>
         <!-- Articolo 2 -->                                         
-        <surface xml:id="p270" start="pb270" n="1">
+        <surface xml:id="p270" start="pb270" n="5">
             <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_10.png' width='711.666666px' height='1023.666666px' />
             <zone ulx="361" uly="869" lrx="677" lry="902" xml:id="pag270_tit" corresp="#p270_tit" />
             <zone ulx="356" uly="900" lrx="673" lry="983"  xml:id="pag270_p1" corresp="#p270_p1"/>
         </surface>
-        <surface xml:id="p271" start="pb271" n="2">
+        <surface xml:id="p271" start="pb271" n="6">
             <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_11.png' width='702.666666px' height='1023.666666px' />
             <zone ulx="51" uly="78" lrx="360" lry="216" xml:id="pag271_p1" corresp="#p271_p1"/>
             <zone ulx="54" uly="214" lrx="361" lry="608" xml:id="pag271_p2" corresp="#p271_p2"/>
@@ -179,7 +179,7 @@
             <zone ulx="363" uly="291" lrx="679" lry="916" xml:id="pag271_p4" corresp="#p271_p4"/>
             <zone ulx="366" uly="920" lrx="678" lry="960" xml:id="pag271_n2" corresp="#p271_n2" />
         </surface>
-        <surface xml:id="p272" start="pb272" n="3">
+        <surface xml:id="p272" start="pb272" n="7">
             <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_12.png' width='711.666666px' height='1023.666666px' />
             <zone ulx="29" uly="75" lrx="345" lry="176" xml:id="pag272_p1" corresp="#p272_p1"/>
             <zone ulx="33" uly="175" lrx="349" lry="388" xml:id="pag272_p2" corresp="#p272_p2"/>
@@ -223,17 +223,27 @@
         <!-- Articolo 3 -->
         <surface xml:id="p337" start="#pb337" n="11">
             <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_13.png' width='709.666666px' height='1023.666666px' />
-            <zone ulx="369" uly="400" lrx="679" lry="966" xml:id="p337_col2" corresp="#pag337_col2"/>
+            <zone ulx="368" uly="400" lrx="701" lry="422" xml:id="pag337_tit" corresp="#p337_tit" />
+            <zone ulx="369" uly="414" lrx="685" lry="761" xml:id="pag337_p1" corresp="#p337_p1" />
+            <zone ulx="366" uly="764" lrx="677" lry="965" xml:id="pag337_p2" corresp="#p337_p2" />
         </surface>
         <surface xml:id="p338" start="#pb338" n="12">
             <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_14.png' width='713.666666px' height='1023.666666px' />
-            <zone ulx="42" uly="66" lrx="357" lry="958"  xml:id="p338_col1" corresp="#pag338_col1"/>
-            <zone ulx="363" uly="71" lrx="679" lry="962" xml:id="p338_col2" corresp="#pag338_col2"/>
+            <zone ulx="42" uly="72" lrx="358" lry="191" xml:id="pag338_p1" corresp="#p338_p1"/>
+            <zone ulx="43" uly="191" lrx="359" lry="552" xml:id="pag338_p2" corresp="#p338_p2" />
+            <zone ulx="44" uly="550" lrx="357" lry="927" xml:id="pag338_p3i" corresp="#p338_p3i"/>
+            <zone ulx="35" uly="925" lrx="357" lry="961" xml:id="pag338_n1" corresp="#p338_n1"/>
+            <zone ulx="363" uly="70" lrx="679" lry="300" xml:id="pag338_p3f" corresp="#p338_p3f"/>
+            <zone ulx="363" uly="294" lrx="677" lry="891" xml:id="pag338_p4" corresp="#p338_p4"/>
+            <zone ulx="365" uly="890" lrx="681" lry="966" xml:id="pag338_p5" corresp="#p338_p5"/>
         </surface>
         <surface xml:id="p339" start="#pb339" n="13">
-           <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_15.png' width='714.666666px' height='1023.666666px' />
-           <zone ulx="41" uly="67" lrx="366" lry="960" xml:id="p339_col1" corresp="#pag339_col1" />
-           <zone ulx="364" uly="73" lrx="674" lry="203" xml:id="p339_col2" corresp="#pag339_col2"/>
+            <graphic url='img/3/1721303508300-a4e37271-c94f-4102-8384-ff68fc9576b2_15.png' width='714.666666px' height='1023.666666px' />
+            <zone ulx="52" uly="76" lrx="361" lry="234" xml:id="pag339_p1" corresp="#p339_p1"/>
+            <zone ulx="55" uly="234" lrx="359" lry="521" xml:id="pag339_p2" corresp="#p339_p2"/>
+            <zone ulx="55" uly="525" lrx="359" lry="652" xml:id="pag339_p3" corresp="#p339_p3"/>
+            <zone ulx="54" uly="653" lrx="360" lry="962" xml:id="pag339_p4i" corresp="#p339_p4i"/>
+            <zone ulx="367" uly="72" lrx="681" lry="199" xml:id="pag339_p4f" corresp="#p339_p4f"/>
         </surface>
     </facsimile>
 
@@ -1377,10 +1387,10 @@
                 <div type="article" n="3" xml:lang="it" source="#art_3">
                     <pb n="1" facs="#p337" xml:id="pb337" />
                     <cb xml:id="c2_p337" n="2" corresp="#pb337"/>
-                    <head facs="#p337" xml:id="pag337_tit" corresp="#c2_p337" rend="align(center) case(allcaps)">
+                    <head facs="#pag337_tit" xml:id="p337_tit" corresp="#c2_p337" rend="align(center) case(allcaps)">
                         <lb/>LA CALABRIA DESCRITTA DA UN CALABRESE.
                     </head>
-                    <p xml:id="p337_par1" corresp="#c2_p337">
+                    <p facs="#pag337_p1" xml:id="p337_p1" corresp="#c2_p337">
                         <lb/>L'<name type="place" ref="#it">Italia</name> non conosce sé stessa: e non solo l'italiano che
                         <lb/>la percorre viaggiando prende a guida il <name type="person" ref="#dupays">Du Pays</name> o il
                         <lb/><name type="person" ref="#baedeker">Baedeker</name>, ma lo <roleName>statista</roleName> e lo <roleName>studioso</roleName> mancano assai spesso
@@ -1408,7 +1418,7 @@
                         <lb/>bisogni, è ormai obbligo morale del cittadino che voglia la
                         <lb/>patria unita e possente e prospera.
                     </p>
-                    <p xml:id="p337_par2" corresp="#c2_p337">
+                    <p facs="#pag337_p2" xml:id="p337_p2" corresp="#c2_p337">
                         <lb/>Fra le men conosciute province d'<name type="place" ref="#it">Italia</name> ognuno pone le
                         <lb/>meridionali, che la <name type="org" ref="#borbone">tirannide borbonica</name>, e prima ancora la
                         <lb/>mala <name type="org" ref="#aragona">signoria <distinct time="archaic"><choice><orig>spagnuola</orig><reg>spagnola</reg></choice></distinct></name>, aveva segregate dal resto d'<name type="place" ref="#it">Italia</name>
@@ -1427,7 +1437,7 @@
                     </p>
                     <pb n="2" facs="#p338" xml:id="pb338"/>
                     <cb xml:id="c1_p338" n="1" corresp="#pb338"/>
-                    <p xml:id="p338_par1" corresp="#c1_p338">
+                    <p facs="#pag338_p1" xml:id="p338_p1" corresp="#c1_p338">
                         <lb/>cito ricordare <distinct time="archaic"><choice><abbr>pel</abbr><expan>per il</expan></choice></distinct> passato <distinct time="archaic"><choice><orig>niun</orig><reg>nessun</reg></choice></distinct> altro studio in proposito
                         <lb/>salvo quello del <name type="person" ref="#pani-rossi">Pani-Rossi</name> sulla <name type="place" ref="#basilicata">Basilicata</name>: ma da una
                         <lb/>recente pubblicazione del <roleName type="honorific">signor</roleName> <name type="person" ref="#padula">Padula</name><ref target="#p338_nota">*</ref> ci si conceda to-
@@ -1438,7 +1448,7 @@
                         <lb/>nianza di un nativo dei luoghi, illuminato insieme ed ap-
                         <lb/>passionato amatore della propria provincia.
                     </p>
-                    <p xml:id="p338_par2" corresp="#c1_p338">
+                    <p facs="#pag338_p2" xml:id="p338_p2" corresp="#c1_p338">
                         <lb/>Non è da meravigliarsi che le sue osservazioni <distinct time="archaic"><choice><orig>volgansi</orig><reg>si rivolgono</reg></choice></distinct>
                         <lb/>specialmente sullo stato della misera plebe delle città e dei
                         <lb/>campi: chè a tale studio è chiamato ogni uomo di cuore e
@@ -1467,7 +1477,7 @@
                         <lb/>pensosi proseguiamo a leggere l'articolo intitolato l'<name type="bibl" ref="#ostr" rend="italic">Ostra-
                         <lb/>cismo de' porci</name>.
                     </p>
-                    <p xml:id="p338_par3_i" part="I" corresp="#c1_p338">
+                    <p facs="#pag338_p3i" xml:id="p338_p3i" part="I" corresp="#c1_p338">
                         <lb/>Sono quasi ormai cinque secoli dacché <name type="person" ref="#petrarca">Francesco Petrarca</name>
                         <lb/>(non meravigli il lettore di vedere accozzati insieme il gentil
                         <lb/>Poeta e gli <hi rend="italic">animali neri</hi>) lagnavasi con <name type="person" ref="#francesco-da-carrara">Francesco da Car-
@@ -1497,7 +1507,7 @@
                         <lb/><name type="character" ref="#arc_gabr">Gabriele</name>: tanto si ama ciò che è utile, e tanto ciò che è
                         <lb/>utile par bello! Di più: l'animale prediletto che dà da man-
                     </p>
-                    <ab type="bibliography" facs="#p338" xml:id="p338_nota" corresp="#c1_p338"> 
+                    <ab type="bibliography" facs="#pag338_n1" xml:id="p338_n1" corresp="#c1_p338"> 
                         <bibl> 
                             <title rend="italic">Il Bruzio</title>, giornale politico letterario di
                             <author rend="case(allcaps)">
@@ -1510,7 +1520,7 @@
                         </bibl>
                     </ab>
                     <cb xml:id="c2_p338" n="2" corresp="#pb338"/>
-                    <p xml:id="p338_par3_f" part="F" corresp="#c2_p338">
+                    <p facs="#pag338_p3f" xml:id="p338_p3f" part="F" corresp="#c2_p338">
                         <lb/>giare al povero, poco o punto costandogli, sicché sia me-
                         <lb/>glio, come vedemmo, allevare un porco che un figlio, è anche
                         <lb/>lo spazzaturaio del paese. Le case non hanno chiaviche, nè
@@ -1529,7 +1539,7 @@
                         <lb/>di giorno si menerebbe a pascere in contado, come si fa in
                         <lb/><name type="place" ref="#svz">Svizzera</name> delle mucche.</quote> »
                     </p>
-                    <p xml:id="p338_par4" corresp="#c2_p338">
+                    <p facs="#pag338_p4" xml:id="p338_p4" corresp="#c2_p338">
                         <lb/>E ora lasciamo il porco, e veniamo all'uomo. <num type="num" value="3">Tre</num> ceti
                         <lb/>di uomini calabresi prende a descrivere nelle consuetudini
                         <lb/>della loro vita intellettuale, morale e materiale, il nostro
@@ -1576,7 +1586,7 @@
                         <lb/>in <name type="place" ref="#calabria">Calabria</name>. Il popolo è quasi tutto, attualmente, di <hi rend="italic">coloni</hi>
                         <lb/>e di <hi rend="italic">braccianti</hi>.
                     </p>
-                    <p xml:id="p338_par5" corresp="#c2_p338">
+                    <p facs="#pag338_p5" xml:id="p338_p5" corresp="#c2_p338">
                         <lb/>Il <term type="archaic" rend="italic" ref="#massaro">massarotto</term> diventa colono per miseria, ma non ci perde, 
                         <lb/>anzi ci guadagna: chi ci perde è il proprietario, al quale
                         <lb/><distinct time="archaic"><choice><orig>nocciono</orig><reg>nuocciono</reg></choice></distinct> la distanza dei fondi, la mancanza di strade, la
@@ -1585,7 +1595,7 @@
                     </p>
                     <pb n="3" facs="#p339" xml:id="pb339"/>
                     <cb xml:id="c1_p339" n="1" corresp="#pb339"/>
-                    <p xml:id="p339_par1" corresp="#c1_p339">
+                    <p facs="#pag339_p1" xml:id="p339_p1" corresp="#c1_p339">
                         <lb/>fondo per bisogno, e intendendo di rimanervi finche il bi-
                         <lb/>sogno duri, non vi piglia amore e trascura la coltivazione.
                         <lb/>Dispersi in fondi lontani da ogni aggregazione civile, rele-
@@ -1599,7 +1609,7 @@
                         <lb/>Così una classe di coloni ruba al proprietario: un'altra è
                         <lb/>dal proprietario rubata e angariata.
                     </p>
-                    <p xml:id="p339_par2" corresp="#c1_p339">
+                    <p facs="#pag339_p2" xml:id="p339_p2" corresp="#c1_p339">
                         <lb/>La classe più numerosa e più miserabile è quella dei
                         <lb/><hi rend="italic">braccianti</hi>. «<quote source="#padula">Fino ad <num type="cardinal" value="8">otto</num> anni il fanciullo calabrese va dietro
                         <lb/>all'asino, alle pecore, o al maiale: a <num type="cardinal" value="9">nove</num>, lavora nel campo
@@ -1623,7 +1633,7 @@
                         <lb/><distinct type="dialect" rend="italic">Iu chiangu, amaru io! quant' aju de davi;
                         <lb/>Nun mi resta nu fìlli de capelli! </distinct>
                     </p>
-                    <p xml:id="p339_par3" corresp="#c1_p339">
+                    <p facs="#pag339_p3" xml:id="p339_p3" corresp="#c1_p339">
                         <lb/>Troppo lunga è anche la vivace descrizione che della
                         <lb/>casa del bracciante e de' suoi poveri arredi, fa l'Autore no-
                         <lb/>stro: contentiamoci anche qui di un cenno: « <quote source="#padula">La casa è a
@@ -1635,7 +1645,7 @@
                         <lb/>di segala, o d'orzo, o d'una mistura di veccia, lupini e fave.
                         <lb/>Vino mai, carne mai.
                     </p>
-                    <p xml:id="p339_par4_i" part="I" corresp="#c1_p339">
+                    <p facs="#pag339_p4i" xml:id="p339_p4i" part="I" corresp="#c1_p339">
                         <lb/>Più giù nell'abiezione e nella miseria, stanno altre classi
                         <lb/>di lavoratori, e <num type="ordinal" value="1">primo</num> il <term rend="italic" ref="#bifolco">bifolco</term>, che sta a servizio del <distinct time="archaic">mas- <!--BIFOLCO -->
                         <lb/>saro</distinct> o <distinct time="archaic">massarotto</distinct> per <num type="cardinal" value="10">dieci</num> tumuli di formentone e <num type="cardinal" value="2">due</num> di
@@ -1661,7 +1671,7 @@
                         <lb/>le bestie maltrattate, diremmo: <said direct="true" aloud="true">Eccovi uomini e donne cui</said>
                     </p>
                     <cb xml:id="c2_p339" n="2" corresp="#pb339"/>
-                    <p xml:id="p339_par4_f" part="F" corresp="#c2_p339">
+                    <p facs="#pag339_p4f" xml:id="p339_p4f" part="F" corresp="#c2_p339">
                         <lb/><said direct="true" aloud="true">la società e la fortuna tratta peggio che bestie</said>; agli uomini
                         <lb/>di Stato, ai politicanti, ai giornalisti, diremmo: <said direct="true" aloud="true">Guardate
                         <lb/>qua, studiate qua; belle cose, la repubblica di <name type="person" ref="#platone">Platone</name>, la
