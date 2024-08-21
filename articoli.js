@@ -53,10 +53,10 @@ $(document).ready(function () {
         $(this).next("span.info").css("visibility","hidden");
     });
 
-    $("span.cit").mouseover(function(){ 
+    $("span.cit, span.glossario").mouseover(function(){ 
         $(this).next("span.info").css("visibility", "visible");
     });
-    $("span.cit").mouseout(function(){ 
+    $("span.cit, span.glossario").mouseout(function(){ 
         $(this).next("span.info").css("visibility","hidden");
     });
 
