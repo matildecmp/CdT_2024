@@ -792,7 +792,7 @@
                 <!-- Articolo 2 -->
                 <div type="article" n="2" xml:lang="it" source="#art_2">
                     <pb n="1" facs="#p270" xml:id="pb270"/>
-                    <cb xml:id="c2_p270" n="1" corresp="#pb270"/>
+                    <cb xml:id="c2_p270" n="2" corresp="#pb270"/>
                     <head facs="#pag270_tit" xml:id="p270_tit" corresp="#c2_p270" rend="align(center) case(allcaps)">
                         <lb/>LE TAVOLETTE DIPINTE
                         <lb/>DEI LIBRI D'ENTRATA E D'USCITA DELLA REPUBBLICA DI SIENA.
