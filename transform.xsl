@@ -196,18 +196,18 @@
                     <strong>Titolo</strong>
                 </td>
                 <td>
-                    <em><xsl:value-of select="tei:biblStruct/tei:monogr/tei:title"/></em>
+                    <em><xsl:value-of select="tei:biblStruct/tei:monogr[1]/tei:title"/></em>
                 </td>
             </tr>
             <tr>
                 <td>
                     <strong>
-                        <xsl:value-of select="tei:biblStruct/tei:monogr/tei:respStmt/tei:resp"/>
+                        <xsl:value-of select="tei:biblStruct/tei:monogr[1]/tei:respStmt/tei:resp"/>
                     </strong>
                 </td>
                 <td>
-                    <xsl:value-of select="tei:biblStruct/tei:monogr/tei:respStmt/tei:name[1]"/>,
-                    <xsl:value-of select="tei:biblStruct/tei:monogr/tei:respStmt/tei:name[2]"/>
+                    <xsl:value-of select="tei:biblStruct/tei:monogr[1]/tei:respStmt/tei:name[1]"/>,
+                    <xsl:value-of select="tei:biblStruct/tei:monogr[1]/tei:respStmt/tei:name[2]"/>
                 </td>
             </tr>
             <tr>
@@ -215,7 +215,7 @@
                     <strong>Editore</strong>
                 </td>
                 <td>
-                    <xsl:value-of select="tei:biblStruct/tei:monogr/tei:imprint/tei:publisher" />
+                    <xsl:value-of select="tei:biblStruct/tei:monogr[1]/tei:imprint/tei:publisher" />
                 </td>
             </tr>
             <tr>
@@ -223,7 +223,7 @@
                     <strong>Lingua</strong>
                 </td>
                 <td>
-                    <xsl:value-of select="tei:biblStruct/tei:monogr/tei:textLang" />
+                    <xsl:value-of select="tei:biblStruct/tei:monogr[1]/tei:textLang" />
                 </td>
             </tr>
             <tr>
@@ -231,8 +231,8 @@
                     <strong>Luogo e data</strong>
                 </td>
                 <td>
-                    <xsl:value-of select="tei:biblStruct/tei:monogr/tei:imprint/tei:pubPlace" />,
-                    <xsl:value-of select="tei:biblStruct/tei:monogr/tei:imprint/tei:date" />
+                    <xsl:value-of select="tei:biblStruct/tei:monogr[1]/tei:imprint/tei:pubPlace" />,
+                    <xsl:value-of select="tei:biblStruct/tei:monogr[1]/tei:imprint/tei:date" />
                 </td>
             </tr>
             <tr>
@@ -386,7 +386,7 @@
         <div class="riga"></div>
     </xsl:template>
 
-    <!-- list -->
+    <!-- list (Notizie) -->
     <xsl:template match="tei:list">
         <div class="paragr">
             <div class="blocco_testo">
@@ -569,7 +569,7 @@
             <xsl:apply-templates />
         </xsl:element>
     </xsl:template>
-    <!-- Testo in lingua straniera -->
+    <!-- Testo in lingua straniera o dialetto -->
     <xsl:template match="*[@xml:lang] | *[@type='dialect']">
         <xsl:element name="span">
             <xsl:attribute name="class">foreign</xsl:attribute>
