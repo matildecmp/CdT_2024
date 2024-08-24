@@ -462,9 +462,9 @@
                         <lb />egli dice di <name type="person" ref="#mill">Stuart Mill</name> mi pare fondato nel fatto e cor-
                         <lb />tese nella forma, altrettanto io trovo poco conveniente
                         <lb />il tono con cui il <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name> parla di <name type="person" ref="#schopenhauer">Schopenhauer</name>. Non
-                        <lb />si può dire «<quote> l'assurdità di <name type="person" ref="#schopenhauer">Schopenhauer</name> » come non si
-                        <lb />potrebbe dire</quote> « <quote>l'assurdità di <name type="person" ref="#pascal">Pascal</name> » nè « l'assurdità di
-                        <lb /><name type="person" ref="#machiavelli">Machiavelli</name></quote>, » quand'anche geni di quel calibro avessero
+                        <lb />si può dire «<said direct="true" aloud="true"> l'assurdità di <name type="person" ref="#schopenhauer">Schopenhauer</name> </said>» come non si
+                        <lb />potrebbe dire « <said direct="true" aloud="true">l'assurdità di <name type="person" ref="#pascal">Pascal</name> </said>» nè «<said direct="true" aloud="true"> l'assurdità di
+                        <lb /><name type="person" ref="#machiavelli">Machiavelli</name></said>, » quand'anche geni di quel calibro avessero
                         <lb />per caso commesso una assurdità, cosa che può accadere:
                         <lb /><quote xml:lang="la" rend="italic" source="#ars_poetica">quandoque bonus dormitat Homerus</quote>. Io ho d'altronde i miei
                         <lb />sospetti che il <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name> non abbia riletto <name type="person" ref="#schopenhauer">Schopenhauer</name>,
@@ -1361,7 +1361,7 @@
                         <head rend="align(center) case(allcaps)" xml:id="not_tit" facs="#notizia_tit">
                             <lb/>NOTIZIE. 
                         </head>
-                        <list rend="simple">
+                        <list rend="bulleted">
                             <item xml:id="not_4" facs="#notizia_4">
                                 <lb/>La <roleName type="honorific">signora</roleName> <name type="person" ref="#elisabetta-thompson">Elisabetta Thompson</name> di <name type="place" ref="#new-york">New-York</name> si è offerta a soppor-
                                 <lb/>tare tutta la spesa necessaria per fare studiare da una commissione lo
