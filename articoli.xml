@@ -164,12 +164,12 @@
             <zone ulx="323" uly="569" lrx="355" lry="581" xml:id="pag178_aut" corresp="#p178_aut"/>
         </surface>
         <!-- Articolo 2 -->                                         
-        <surface xml:id="p270" start="pb270" n="5">
+        <surface xml:id="p270" start="#pb270" n="5">
             <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_10.png' width='711.666666px' height='1023.666666px' />
             <zone ulx="361" uly="869" lrx="677" lry="902" xml:id="pag270_tit" corresp="#p270_tit" />
             <zone ulx="356" uly="900" lrx="673" lry="983"  xml:id="pag270_p1" corresp="#p270_p1"/>
         </surface>
-        <surface xml:id="p271" start="pb271" n="6">
+        <surface xml:id="p271" start="#pb271" n="6">
             <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_11.png' width='702.666666px' height='1023.666666px' />
             <zone ulx="51" uly="78" lrx="360" lry="216" xml:id="pag271_p1" corresp="#p271_p1"/>
             <zone ulx="54" uly="214" lrx="361" lry="608" xml:id="pag271_p2" corresp="#p271_p2"/>
@@ -179,7 +179,7 @@
             <zone ulx="363" uly="291" lrx="679" lry="916" xml:id="pag271_p4" corresp="#p271_p4"/>
             <zone ulx="366" uly="920" lrx="678" lry="960" xml:id="pag271_n2" corresp="#p271_n2" />
         </surface>
-        <surface xml:id="p272" start="pb272" n="7">
+        <surface xml:id="p272" start="#pb272" n="7">
             <graphic url='img/2/1721303095410-7d740dcb-ecd4-42b7-82c3-dd8dcaebbafa 16)_12.png' width='711.666666px' height='1023.666666px' />
             <zone ulx="29" uly="75" lrx="345" lry="176" xml:id="pag272_p1" corresp="#p272_p1"/>
             <zone ulx="33" uly="175" lrx="349" lry="388" xml:id="pag272_p2" corresp="#p272_p2"/>
