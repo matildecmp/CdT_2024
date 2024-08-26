@@ -2881,6 +2881,8 @@
                     </bibl>
                     <bibl xml:id="il_paese">
                         <title>Il Paese</title>
+                        <author>?</author>
+                        <date when="N/A">N/A</date>
                     </bibl>
                     <!-- Bibliografia --> 
                     <bibl xml:id="ricerche">
