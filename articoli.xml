@@ -1124,8 +1124,8 @@
                             <lb/>l'erudizione classica nel <choice><orig>medio evo</orig><reg>Medioevo</reg></choice></name>, spiega chiaramente l'in-
                             <lb/>tento di questo nuovo lavoro dell'operoso bibliotecario
                             <lb/>triestino, e mostra com'egli alacremente prosegua l'impresa
-                            <lb/>già cominciata cogli <name type="bibl" rend="italic" ref="#scritti">Scritti inediti di <name type="person" ref="#petrarca">Francesco Petrarca</name></name> (<date when="1814">1814</date>),
-                            <lb/>e meglio ancora coi <name type="bibl" rend="italic" ref="#scritti">Cenni di Giovanni Boccacci intorno a
+                            <lb/>già cominciata cogli <name type="bibl" rend="italic" ref="#scritti">Scritti inediti di Francesco Petrarca</name> (<date when="1874">1874</date>),
+                            <lb/>e meglio ancora coi <name type="bibl" rend="italic" ref="#cenni">Cenni di Giovanni Boccacci intorno a
                             <lb/>Tito Livio</name> (<date when="1877">1877</date>) e cogli <name type="bibl" rend="italic" ref="#accenni">Accenni alle scienze naturali nelle
                             <lb/>opere di Giovanni Boccacci</name> (<date when="1877">1877</date>). Trattasi di rischiarare
                             <lb/>di nuova luce i primi albori del risorgimento classico, fa-
@@ -2882,7 +2882,31 @@
                     <bibl xml:id="il_paese">
                         <title>Il Paese</title>
                     </bibl>
-                    <!-- Bibliografia -->
+                    <!-- Bibliografia --> 
+                    <bibl xml:id="ricerche">
+                        <title>M. T. Cicerone nelle opere del Petrarca e del Boccaccio: ricerche intorno alla storia della erudizione classica nel Medio Evo</title>
+                        <author ref="#cicerone">Attilio Hortis</author>
+                        <date>1878</date>
+                        <ref target="https://books.google.it/books/about/M_T_Cicerone_nelle_opere_del_Petrarca_e.html?id=SOYZAAAAYAAJ&amp;redir_esc=y" />
+                    </bibl>
+                    <bibl xml:id="scritti">
+                        <title>Scritti inediti di Francesco Petrarca</title>
+                        <author ref="#cicerone">Attilio Hortis</author>
+                        <date>1874</date>
+                        <ref target="https://books.google.to/books?id=ONlDAQAAMAAJ&amp;printsec=frontcover&amp;hl=it#v=onepage&amp;q&amp;f=false" />
+                    </bibl>
+                    <bibl xml:id="cenni">
+                        <title>Cenni di Giovanni Boccacci intorno a Tito Livio</title>
+                        <author ref="#cicerone">Attilio Hortis</author>
+                        <date>1877</date>
+                        <ref target="https://books.google.it/books?id=Nv-16FIHPMwC&amp;printsec=frontcover&amp;hl=it&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false" />
+                    </bibl>
+                    <bibl xml:id="accenni">
+                        <title>Accenni alle scienze naturali nelle opere di Giovanni Boccacci, e più particolarmente del libro De Montibus, Silvis, etc.</title>
+                        <author ref="#cicerone">Attilio Hortis</author>
+                        <date>1877</date>
+                        <ref target="https://books.google.it/books/about/Accenni_alle_scienze_naturali_nelle_oper.html?id=7xtcAAAAQAAJ&amp;redir_esc=y" />
+                    </bibl>
                     <bibl xml:id="tusculane">
                         <title>Tusculanae disputationes</title>
                         <author ref="#cicerone">Marco Tullio Cicerone</author>
