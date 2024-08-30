@@ -1368,12 +1368,12 @@
                                 <lb/>cause della febbre gialla ed il modo di curarla. (<name type="bibl" xml:lang="en" ref="#nation" rend="italic">Nation</name>)
                             </item>
                             <item xml:id="not_6" facs="#notizia_6">
-                                <lb/>Il <roleName type="honorific">signor</roleName> <name type="person" ref="#van-der-horck">Van der Horck</name>, noto per il suo viaggio nell'Oceano
-                                <lb/>Artico, organizza una spedizione di cui lo scopo è di studiare le origini
-                                <lb/>della popolazione primitiva dell'America. Si sa che, secondo l'opinione
+                                <lb/>Il <roleName type="honorific">signor</roleName> <name type="person" ref="#van-der-horck">Van der Horck</name>, noto per il suo viaggio nell'<name type="place" ref="#oc_art">Oceano
+                                <lb/>Artico</name>, organizza una spedizione di cui lo scopo è di studiare le origini
+                                <lb/>della popolazione primitiva dell'<name type="place" ref="#am">America</name>. Si sa che, secondo l'opinione
                                 <lb/>più accreditata, <choice><abbr>gl'</abbr><expan>gli</expan></choice>indigeni americani avrebbero avuto la loro culla in 
-                                <lb/>Asia. Il <name type="person" ref="#van-der-horck">Van der Horck </name>si propone di visitare le coste orientali del-
-                                <lb/>l'Asia fino al Mare Polare, di passare lo stretto di Behring e di ridi-
+                                <lb/><name type="place" ref="#as">Asia</name>. Il <name type="person" ref="#van-der-horck">Van der Horck </name>si propone di visitare le coste orientali del-
+                                <lb/>l'<name type="place" ref="#as">Asia</name> fino al <name type="place" ref="#mar_gl_art">Mare Polare</name>, di passare lo <name type="place" ref="#stret_ber">stretto di Behring</name> e di ridi-
                                 <lb/>scendere fino a <name type="place" ref="#san-francisco">San Francisco</name> lungo le coste. Il viaggio non durerà
                                 <lb/>meno di <num type="cardinal" value="3">tre</num> o <num type="cardinal" value="4">quattro</num> anni. I membri della spedizione si occuperanno
                                 <lb/>di ogni genere di ricerche scientifiche, ma senza mai perdere di vista
@@ -2755,7 +2755,7 @@
                     </place>   
                     <!--Notizie-->
                     <place xml:id="new-york" type="city">
-                        <placeName>New-York</placeName>
+                        <placeName>New York</placeName>
                         <location>
                             <bloc>America</bloc>
                             <country>Stati Uniti</country>
@@ -2766,6 +2766,30 @@
                         <location>
                             <bloc>America</bloc>
                             <country>Stati Uniti</country>
+                        </location>
+                    </place>
+                    <place xml:id="am" type="continent">
+                        <placeName>America</placeName>
+                        <location>
+                            <bloc>America</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="as" type="continent">
+                        <placeName>Asia</placeName>
+                        <location>
+                            <bloc>Asia</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="mar_gl_art" type="sea">
+                        <placeName>Mar Glaciale Artico</placeName>
+                        <location>
+                            <bloc>Artide</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="stret_ber" type="sea">
+                        <placeName>Stretto di Bering</placeName>
+                        <location>
+                            <bloc>Asia, America</bloc>
                         </location>
                     </place>
                 </listPlace>
@@ -2925,6 +2949,19 @@
                         <title>Dialoghi</title>
                         <author ref="#petrarca">Francesco Petrarca</author>
                         <date>XIV secolo</date>
+                    </bibl>
+                    <!-- Notizie --> 
+                    <bibl xml:id="nation">
+                        <title>The Nation</title>
+                        <author>N/A</author>
+                        <date>1865-oggi</date>
+                        <ref target="https://it.wikipedia.org/wiki/The_Nation" />
+                    </bibl>
+                    <bibl xml:id="revue">
+                        <title>Revue politique et litteraire</title>
+                        <author>Eugène Yung</author>
+                        <date>1871-1939</date>
+                        <ref target="https://it.wikipedia.org/wiki/Revue_politique_et_litt%C3%A9raire" />
                     </bibl>
                     <!-- Articolo 3 -->
                     <bibl xml:id="ostr">
