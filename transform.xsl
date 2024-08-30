@@ -570,7 +570,7 @@
         </xsl:element>
     </xsl:template>
     <!-- Testo in lingua straniera o dialetto -->
-    <xsl:template match="*[@xml:lang] | *[@type='dialect']">
+    <xsl:template match="*[@xml:lang][not(self::tei:name[@type='bibl'])] | *[@type='dialect']">
         <xsl:element name="span">
             <xsl:attribute name="class">foreign</xsl:attribute>
             <xsl:apply-templates />
