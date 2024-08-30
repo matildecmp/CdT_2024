@@ -11,7 +11,7 @@ $ java -cp .:* dom.Counter -v articoli.xml
 
 Risultato:
 ```bash
-articoli.xml: 737;123;4 ms (3578 elems, 8202 attrs, 21415 spaces, 123865 chars)
+articoli.xml: 751;123;4 ms (3633 elems, 8345 attrs, 22148 spaces, 125195 chars)
 ```
 
 # <h3>Trasformazione in file HTML del file XML-TEI + XSLT con il processore Saxon:</h3>
