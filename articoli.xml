@@ -273,7 +273,7 @@
                         <lb />l'amore tra persone di sesso diverso, escludendo l'amicizia
                         <lb />semplice, il capriccio ed il momentaneo desiderio di pos-
                         <lb />sesso, bisogna ancor domandarci se si tratta d'<term type="verbum" rend="italic">amore</term> o di
-                        <lb /><term type="verbum" xml:lang="en" rend="italic">love</term> (inglese), d'<term type="verbum" xml:lang="grc" rend="italic">eros</term> o di <term type="verbum" xml:lang="ru" rend="italic">lubov</term> (russo); poiché due parole
+                        <lb /><foreign xml:lang="en" rend="italic"><term type="verbum">love</term></foreign> (inglese), d'<foreign xml:lang="grc" rend="italic"><term type="verbum">eros</term></foreign> o di <foreign xml:lang="ru" rend="italic"><term type="verbum">lubov</term></foreign> (russo); poiché due parole
                         <lb />di due lingue diverse non si equivalgono mai assolutamente:
                         <lb />l'<term xml:lang="la" rend="italic">amicitia</term> prosaica del Romano ha ben poco di comune con
                         <lb />la sentimentale <term xml:lang="de" rend="italic">freundschaft</term> del tedesco, e la <term xml:lang="fr" rend="italic">fidelité</term> fran-
@@ -301,7 +301,7 @@
                         <lb />invece <choice><abbr>d'</abbr><expan>di</expan></choice>entrare in una lunga analisi degli scritti che pren-
                         <lb />diamo per punto di partenza, e che si leggono meglio <foreign xml:lang="la" rend="italic">in
                         <lb />extenso</foreign> che per estratti, cerchiamo di afferrare la differenza
-                        <lb />tra il <term xml:lang="de" rend="italic">liebe</term> tedesco e l'<term type="verbum" rend="italic">amore</term> italiano — non già per stabi-
+                        <lb />tra il <foreign xml:lang="de" rend="italic"><term type="verbum">liebe</term></foreign> tedesco e l'<term type="verbum" rend="italic">amore</term> italiano — non già per stabi-
                         <lb />lire in che modo amano gli Italiani ed i Tedeschi — sa-
                         <lb />rebbe ben ardua impresa il trovare una definizione unica
                         <lb />per un ordine di fatti così molteplici; ma per conoscere
@@ -377,7 +377,7 @@
                     </p>
                     <p facs="#pag175_p4" xml:id="p175_p4" corresp="#c2_p175">
                         <lb />Così pure i nostri due autori relegano troppa parte di
-                        <lb />sentimento amoroso nelle due cerehie estreme dell'amicizia
+                        <lb />sentimento amoroso nelle due cerchie estreme dell'amicizia
                         <lb />o del desiderio, (<foreign xml:lang="de" rend="italic">Begierde</foreign>; il <name type="person" ref="#mantegazza">Mantegazza</name> dice meno gentil-
                         <lb />mente <term rend="italic">la Lussuria</term>). Dal momento in cui il desiderio cessa
                         <lb /><choice><abbr>d'</abbr><expan>di</expan></choice>essere un appetito indeterminato che <choice><abbr>vuol</abbr><expan>vuole</expan></choice> essere soddi-
