@@ -6,7 +6,7 @@ CdL Informatica Umanistica, a.a. 2023/2024</br>
 # <h3>Validazione del file XML-TEI con Xerces:</h3>
 Comando da terminale:
 ```bash
-$ java -cp .:* dom.Counter -v articoli.xml
+.../xerces-2_12_2$ java -cp .:* dom.Counter -v articoli.xml
 ```
 
 Risultato:
