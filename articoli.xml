@@ -389,9 +389,9 @@
                         <lb />il <roleName type="honorific">professor</roleName> <name type="person" ref="#mantegazza">Mantegazza</name>, quanto per l'involontaria tendenza
                         <lb />della sua indole a prendere il disopra. All'incontro i si-
                         <lb />gnori <name type="person" ref="#mantegazza">Mantegazza</name> e <name type="person" ref="#duboc">Duboc</name>, — il primo soprattutto, poi-
-                        <lb />chè il <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name> ammette e definisce benissimo « <quote xml:lang="de" source="#duboc">das
-                        <lb />geschlechtlich angehauchte Sympathieverhältniss</quote> » (il rap-
-                        <lb />porto di simpatia a tinta sessuale) sebbene egli neppure
+                        <lb />chè il <roleName type="honorific">signor</roleName> <name type="person" ref="#duboc">Duboc</name> ammette e definisce benissimo « <quote xml:id="cit_duboc" xml:lang="de" source="#duboc">das
+                        <lb />geschlechtlich angehauchte Sympathieverhältniss</quote> » (<quote type="translation" xml:lang="it" corresp="#cit_duboc">il rap-
+                        <lb />porto di simpatia a tinta sessuale</quote>) sebbene egli neppure
                         <lb />non lo conti come amore — all'incontro, dicevo, i nostri
                         <lb />autori escludono troppo il platonismo dal regno dell'amore.
                         <lb />Forse <name type="person" ref="#ampere"><choice><abbr>J.-J.</abbr><expan>Jean-Jacques</expan></choice> Ampère</name> non amò <roleName type="honorific"><choice><abbr>Mme</abbr><expan>Madame</expan></choice></roleName> <name type="person" ref="#recamier">Récamier</name>, e <name type="person" ref="#varnhagen">Varnha-
@@ -452,7 +452,7 @@
                         <lb />che la bellezza, la bontà, l'intelligenza dell'oggetto amato
                         <lb />siano le cause del suo amore, mentre in realtà egli ame-
                         <lb />rebbe ugualmente quella persona brutta, cattiva e stolta,
-                        <lb />se questo entrasse nelle vedute di <name type="person" ref="#eros">Eros</name>, il grande conser-
+                        <lb />se questo entrasse nelle vedute di <name type="character" ref="#eros">Eros</name>, il grande conser-
                         <lb />vatore delle razze.
                     </p>
                     <p facs="#pag176_p2" xml:id="p176_p2" corresp="#c1_p176">
@@ -976,7 +976,7 @@
                         <lb/><name type="org" rend="italic" ref="#biccherna">Biccherna</name> e della <name type="org" rend="italic" ref="#gabella">Gabella</name>, così ha riunite in apposito mu-
                         <lb/>seo parecchie di queste tavolette, raccolte da varie parti,
                         <lb/>per deposito, per acquisto e per dono, grazie alle cure del
-                        <lb/>direttore <name type="person" ref="#bianchi">Luciano Banchi</name>. Sono, è vero, soltanto una pic-
+                        <lb/>direttore <name type="person" ref="#banchi">Luciano Banchi</name>. Sono, è vero, soltanto una pic-
                         <lb/>cola parte dell'intera collezione, ma pure offrono già suffi-
                         <lb/>cente materia a uno studio storico e artistico.
                     </p>
@@ -1365,7 +1365,7 @@
                             <item xml:id="not_4" facs="#notizia_4">
                                 <lb/>La <roleName type="honorific">signora</roleName> <name type="person" ref="#elisabetta-thompson">Elisabetta Thompson</name> di <name type="place" ref="#new-york">New-York</name> si è offerta a soppor-
                                 <lb/>tare tutta la spesa necessaria per fare studiare da una commissione lo
-                                <lb/>cause della febbre gialla ed il modo di curarla. (<name type="bibl" xml:lang="en" ref="#nation" rend="italic">Nation</name>)
+                                <lb/>cause della febbre gialla ed il modo di curarla. (<name type="bibl" ref="#nation" rend="italic">Nation</name>)
                             </item>
                             <item xml:id="not_6" facs="#notizia_6">
                                 <lb/>Il <roleName type="honorific">signor</roleName> <name type="person" ref="#van-der-horck">Van der Horck</name>, noto per il suo viaggio nell'<name type="place" ref="#oc_art">Oceano
@@ -1377,7 +1377,7 @@
                                 <lb/>scendere fino a <name type="place" ref="#san-francisco">San Francisco</name> lungo le coste. Il viaggio non durerà
                                 <lb/>meno di <num type="cardinal" value="3">tre</num> o <num type="cardinal" value="4">quattro</num> anni. I membri della spedizione si occuperanno
                                 <lb/>di ogni genere di ricerche scientifiche, ma senza mai perdere di vista
-                                <lb/>che l'Antropologia è il loro scopo principale. (<name type="bibl" xml:lang="fr" ref="#revue" rend="italic">Revue politique et <choice><abbr>litt.</abbr><expan>litteraire</expan></choice></name>)
+                                <lb/>che l'Antropologia è il loro scopo principale. (<name type="bibl" ref="#revue" rend="italic">Revue politique et <choice><abbr>litt.</abbr><expan>litteraire</expan></choice></name>)
                             </item>
                         </list>
                     </div>
@@ -1908,9 +1908,8 @@
                         <persName>
                             <ref target="https://it.wikipedia.org/wiki/Eros"/>
                             <forename>Eros</forename>
-                            <forename xml:lang="gr">Ἔρως</forename>
                         </persName>
-                        <occupation>Divinità greca</occupation>
+                        <occupation>Divinità greco-romana</occupation>
                     </person>
                     <person xml:id="mill" sex="M">
                         <persName>
@@ -1956,10 +1955,17 @@
                     </person>
                     <person xml:id="caro" sex="M">
                         <persName>
-                            <ref target="unknown"/>
+                            <ref target="https://it.wikipedia.org/wiki/Tito_Lucrezio_Caro"/>
+                            <forename>Tito Lucrezio</forename>
                             <surname>Caro</surname>
                         </persName>
-                        <occupation>Filosofo</occupation>
+                        <birth>
+                            <date notBefore="-0098" notAfter="-0094">98/94 a.C.</date>
+                        </birth>
+                        <death>
+                            <date notBefore="-0055" notAfter="-0050">55/50 a.C.</date>
+                        </death>
+                        <occupation>Poeta e filosofo</occupation>
                     </person>
                     <person xml:id="cartesio" sex="M">
                         <persName>
@@ -2217,18 +2223,18 @@
                         </death>
                         <occupation>Pittore e scrittore</occupation>
                     </person>
-                    <person xml:id="bianchi" sex="M">
+                    <person xml:id="banchi" sex="M">
                         <persName>
                             <forename>Luciano</forename>
-                            <surname>Bianchi</surname>
+                            <surname>Banchi</surname>
                         </persName>
                         <birth>
-                            <date when="N/A">N/A</date>
+                            <date when="1837-12-27">27/12/1837</date>
                         </birth>
                         <death>
-                            <date when="N/A">N/A</date>
+                            <date when="1887-12-04">04/12/1887</date>
                         </death>
-                        <occupation>Direttore dell'Archivio di Siena</occupation>
+                        <occupation>Politico e archivista</occupation>
                     </person>
                     <person xml:id="san_gir" sex="M">
                         <persName>
