@@ -11,7 +11,7 @@ Comando da terminale:
 
 Risultato:
 ```bash
-articoli.xml: 535;101;3 ms (3638 elems, 8359 attrs, 22198 spaces, 125349 chars)
+articoli.xml: 427;85;2 ms (3642 elems, 8364 attrs, 22198 spaces, 125349 chars)
 ```
 
 # <h3>Trasformazione in file HTML del file XML-TEI + XSLT con il processore Saxon:</h3>
