@@ -13,7 +13,7 @@ Risultato:
 articoli.xml: 427;85;2 ms (3642 elems, 8364 attrs, 22198 spaces, 125349 chars)
 ```
 
-# <h3>Trasformazione in file HTML dei file TEI-XML e XSLT con il processore Saxon:</h3>
+# <h3>Trasformazione in file HTML del file TEI-XML con il processore Saxon:</h3>
 Comando da terminale:
 ```bash
 .../SaxonHE12-4J$ java -jar saxon-he-12.4.jar -s:articoli.xml -xsl:transform.xsl -o:articoli.html
