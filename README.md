@@ -1,7 +1,9 @@
 # TEI-XML encoding of three articles from "La Rassegna Settimanale di politica, scienze, lettere ed arti" (1878-1882)
 
-![TEI](https://img.shields.io/badge/TEI-XML-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA…)
-![XML](https://img.shields.io/badge/XML-1.0-orange?logo=xml)
+![HTML](https://img.shields.io/badge/HTML-90.9%25-brightgreen)
+![XSLT](https://img.shields.io/badge/XSLT-7.2%25-blue)
+![CSS](https://img.shields.io/badge/CSS-1.1%25-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-0.8%25-red)
 
 Developed by Matilde Campanardi and Alessandra Caridi</br>
 BSc in Digital Humanities [a.y. 2023/24]</br>
