@@ -5,9 +5,6 @@
 ![CSS](https://img.shields.io/badge/CSS-1.1%25-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0.8%25-red)
 
-Developed by Matilde Campanardi and Alessandra Caridi</br>
-BSc in Digital Humanities [a.y. 2023/24]</br>
-
 # <h3>Validation of the TEI-XML file with Xerces:</h3>
 Terminal command:
 ```bash
@@ -24,5 +21,10 @@ Terminal command:
 ```bash
 .../SaxonHE12-4J$ java -jar saxon-he-12.4.jar -s:articoli.xml -xsl:transform.xsl -o:articoli.html
 ```
+
+<img width="261" height="152" alt="image" src="https://github.com/user-attachments/assets/95ca31b2-11f9-4825-a934-4a4c7864e535" />
+
+Developed by Matilde Campanardi and Alessandra Caridi</br>
+BSc in Digital Humanities [a.y. 2023/24]</br>
 
 
