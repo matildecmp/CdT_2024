@@ -1,6 +1,6 @@
 # TEI-XML encoding of three articles from "La Rassegna Settimanale di politica, scienze, lettere ed arti" (1878-1882)
 Developed by Matilde Campanardi and Alessandra Caridi</br>
-BA in Digital Humanities [a.y. 2023/24]</br>
+BSc in Digital Humanities [a.y. 2023/24]</br>
 
 # <h3>Validation of the TEI-XML file with Xerces:</h3>
 Terminal command:
