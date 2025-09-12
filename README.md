@@ -1,20 +1,20 @@
-# Codifica TEI-XML di tre articoli tratti da "La Rassegna Settimanale di politica, scienze, lettere ed arti" (1878-1882)
-Realizzata da Matilde Campanardi e Alessandra Caridi</br>
-CdL Informatica Umanistica, a.a. 2023/2024</br>
+# TEI-XML encoding of three articles from "La Rassegna Settimanale di politica, scienze, lettere ed arti" (1878-1882)
+Developed by Matilde Campanardi and Alessandra Caridi</br>
+BA in Digital Humanities [a.y. 2023/24]</br>
 
-# <h3>Validazione del file TEI-XML con Xerces:</h3>
-Comando da terminale:
+# <h3>Validation of the TEI-XML file with Xerces:</h3>
+Terminal command:
 ```bash
 .../xerces-2_12_2$ java -cp .:* dom.Counter -v articoli.xml
 ```
 
-Risultato:
+Result:
 ```bash
 articoli.xml: 427;85;2 ms (3642 elems, 8364 attrs, 22198 spaces, 125349 chars)
 ```
 
-# <h3>Trasformazione in file HTML del file TEI-XML con il processore Saxon:</h3>
-Comando da terminale:
+# <h3>Transformation of the TEI-XML file into HTML with the Saxon processor:</h3>
+Terminal command:
 ```bash
 .../SaxonHE12-4J$ java -jar saxon-he-12.4.jar -s:articoli.xml -xsl:transform.xsl -o:articoli.html
 ```
